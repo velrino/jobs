@@ -1,0 +1,31 @@
+{
+  "company": "Jusbrasil",
+  "job_title": "Senior Software Engineer - Backend Legal Pros",
+  "location": "Remote, Brazil",
+  "summary": "Develop backend services for search and evaluation systems, including ranking, relevance, experimentation and AI-integrated products.",
+  "requirements": "Required: backend development with Python, Go or similar; REST APIs, asynchronous messaging, relational databases, high-scale distributed systems, experimentation and fluent everyday use of AI development tools. Preferred: Kafka/RabbitMQ, observability, LLM products, GCP/AWS, search systems and academic/applied research. Prior search-system experience is explicitly not mandatory.",
+  "compensation": "Numerical compensation not disclosed.",
+  "conditions": "The employer explicitly describes remote work and a team distributed across Brazil. Employment type, hours and numerical compensation are not disclosed. Original publication is verified from Greenhouse first_published, not updated_at. No visa sponsorship or relocation support is confirmed.",
+  "source_url": "https://job-boards.greenhouse.io/jusbrasil/jobs/6222963004",
+  "source_key": "greenhouse:jusbrasil:6222963004",
+  "published_on": "2026-11-10",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
