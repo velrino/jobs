@@ -1,0 +1,31 @@
+{
+  "company": "Compass UOL",
+  "job_title": "Java Developer | Mid (Remote)",
+  "location": "Remote, Brazil",
+  "summary": "Design and validate end-to-end banking software architectures, including legacy systems, high-volume/low-latency distributed services, mainframe/peripheral integrations and engineering quality standards.",
+  "requirements": "The title says Mid, but the requirements ask for solid software-architect or technical-specialist experience in complex environments. Java EE/SE, Spring, JPA/EJB, MVC/microservices/REST/multi-tenancy/design patterns, Docker, distributed transactions/batch, JMS/IBM MQ/App Connect, financial ISO 8583, banking peripherals/J-XFS/EMV, DB2/SQL, SonarQube, cloud/Linux, frontend technologies and basic ASP.NET/COBOL/CICS integration. Scrum/Kanban is preferred. No degree, minimum year count or language requirement is disclosed.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote work in Brazil is confirmed by the active employer posting. CLT employment. Seniority follows the explicit Mid title; substantial architecture experience is required. Contract duration is not disclosed. Original JobPosting.datePosted=2026-11-09; publishedAt=2026-11-09T21:40:13.403Z. Full source description and public application action verified.",
+  "source_url": "https://compass.gupy.io/jobs/12859955",
+  "source_key": "gupy:compass:12859955",
+  "published_on": "2026-11-09",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "architecture"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
