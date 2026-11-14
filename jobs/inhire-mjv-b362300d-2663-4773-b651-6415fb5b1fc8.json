@@ -1,0 +1,31 @@
+{
+  "company": "MJV Technology & Innovation",
+  "job_title": "Pessoa Desenvolvedora Back-end (Java)",
+  "location": "Remote, Brazil",
+  "summary": "Develop and evolve Java banking platforms serving operations, business teams and end users in an international financial operation. Build new products/features, integrate external partners and contribute to scalable architecture decisions.",
+  "requirements": "Completed higher education, preferably IT or related; solid Java, design patterns and microservices; Docker/Kubernetes; RabbitMQ/Kafka or similar; AWS including EKS/SNS/SQS/S3, DocumentDB/DynamoDB, API Gateway/Lambda and Secrets Manager; relational/NoSQL databases including PostgreSQL/DocumentDB/Redis; collaborative communication. Intermediate or advanced English required. Financial-market experience is preferred. No minimum year count is disclosed.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote work in Brazil and CLT employment are explicitly confirmed by the employer. No explicit seniority or contract duration is disclosed. Daily/weekly hours are not disclosed. Original publishedAt=2026-11-13T20:14:17.465Z; lastPublishedAt=2026-11-13T20:14:37.314Z is recorded separately. Matching employer-board link, public vacancy and application form verified.",
+  "source_url": "https://mjv.inhire.app/vagas/b362300d-2663-4773-b651-6415fb5b1fc8/pessoa-desenvolvedora-back-end-java",
+  "source_key": "inhire:mjv:b362300d-2663-4773-b651-6415fb5b1fc8",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

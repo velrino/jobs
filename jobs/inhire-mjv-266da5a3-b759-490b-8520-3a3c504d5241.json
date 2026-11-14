@@ -1,0 +1,31 @@
+{
+  "company": "MJV Technology & Innovation",
+  "job_title": "Pessoa Engenheira de IA",
+  "location": "Remote, Brazil",
+  "summary": "Build web solutions combining React/Node.js, databases, third-party APIs, LLMs and AI agents. Develop prompts and agent orchestration, maintain AWS/Docker deployments and document software architecture.",
+  "requirements": "API development, software engineering/architecture, AWS and integration with external services such as Google Maps. The role includes React, Node.js, LLM/agent/prompt work and database modeling. No degree, minimum year count or language requirement is disclosed.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote work in Brazil and CLT employment are explicitly confirmed by the employer. No explicit seniority or contract duration is disclosed. Daily/weekly hours are not disclosed. Original publishedAt=2026-11-13T20:41:55.290Z; lastPublishedAt=2026-11-13T20:41:55.290Z is recorded separately. Matching employer-board link, public vacancy and application form verified.",
+  "source_url": "https://mjv.inhire.app/vagas/266da5a3-b759-490b-8520-3a3c504d5241/pessoa-engenheira-de-ia",
+  "source_key": "inhire:mjv:266da5a3-b759-490b-8520-3a3c504d5241",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "ai-ml"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
