@@ -1,0 +1,31 @@
+{
+  "company": "Framework Digital",
+  "job_title": "Desenvolvedor(a) Fullstack [React/Python/Node] - Sênior",
+  "location": "Remote, Brazil",
+  "summary": "Build and evolve web applications with predominantly React frontend work plus backend integrations. Own reusable components, state/API flows, integration/E2E tests, browser performance, micro-frontends and technical documentation.",
+  "requirements": "Solid React/JavaScript; Redux/Zustand/Context or equivalents; REST consumption using Axios/React Query or equivalents; integration/E2E testing; Webpack/Vite/esbuild; large-list virtualization and browser performance; observability such as Datadog/Sentry; Agile/Trunk-Based Development; micro-frontends; backend/fullstack background; AI-assisted software development; Python and Node.js. Basic English required. Ruby and agribusiness experience are preferred. No minimum year count is disclosed.",
+  "compensation": "Salary not disclosed. Benefits include more than BRL 1,200/month in meal/food allowance and BRL 150/month home-office assistance; these are not salary.",
+  "conditions": "Remote work in Brazil and CLT employment are explicitly confirmed. Daily/weekly hours and contract duration are not disclosed. Original publishedAt=2026-11-13T19:36:32.106Z; lastPublishedAt=2026-11-13T19:36:32.106Z is a separate publication/update signal. Matching employer-board link, public vacancy and application form verified.",
+  "source_url": "https://frameworkdigital.inhire.app/vagas/25775135-7e15-4311-9d04-5f2b91ea6377/desenvolvedora-fullstack-reactpythonnode-senior",
+  "source_key": "inhire:frameworkdigital:25775135-7e15-4311-9d04-5f2b91ea6377",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

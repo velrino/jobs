@@ -1,0 +1,31 @@
+{
+  "company": "Framework Digital",
+  "job_title": "Desenvolvedor .NET/Dados Sênior",
+  "location": "Remote, Brazil",
+  "summary": "Develop a mission-critical electronic tax-document platform integrating corporate systems, ERPs, fiscal providers and municipalities. Build C#/.NET APIs, microservices and workers, event-driven integrations, reliable data models/ETL pipelines and data foundations for AI; own delivery, observability and incident investigation.",
+  "requirements": "Solid C#/.NET backend/API/worker experience; RabbitMQ/Kafka, distributed reliability/idempotency/retry, API security, Docker/Kubernetes/CI/CD, testing/observability, Redis/cache and critical/high-volume systems. Senior relational/NoSQL modeling and SQL optimization; analytical/dimensional models, Entity Framework/Dapper, ETL/ELT and data lineage/governance. GenAI/LLMs/RAG/agents, vector/semantic data preparation, MCP and AI-assisted engineering. Plus: SAP/ERP, fiscal documents/XML/certificates, Power BI, cloud data orchestration and SDD. No minimum year count is disclosed.",
+  "compensation": "Salary not disclosed. Benefits include more than BRL 1,200/month in meal/food allowance and BRL 150/month home-office assistance; these are not salary.",
+  "conditions": "Remote work in Brazil and CLT employment are explicitly confirmed. Daily/weekly hours and contract duration are not disclosed. Original publishedAt=2026-11-12T20:26:58.771Z; lastPublishedAt=2026-11-12T20:26:58.771Z is a separate publication/update signal. Matching employer-board link, public vacancy and application form verified.",
+  "source_url": "https://frameworkdigital.inhire.app/vagas/8e432921-e2a8-4b00-b9c1-2279ad986dc5/desenvolvedor-netdados-senior",
+  "source_key": "inhire:frameworkdigital:8e432921-e2a8-4b00-b9c1-2279ad986dc5",
+  "published_on": "2026-11-12",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

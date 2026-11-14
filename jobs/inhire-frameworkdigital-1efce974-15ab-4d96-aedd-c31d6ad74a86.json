@@ -1,0 +1,31 @@
+{
+  "company": "Framework Digital",
+  "job_title": "Engenheiro(a) de IA - Pleno",
+  "location": "Remote, Brazil",
+  "summary": "Develop and maintain production AI/ML solutions, APIs, workflows, data pipelines, semantic search and RAG/vector-database integrations. Help train/tune/evaluate models, implement tests/monitoring and apply software security/privacy practices.",
+  "requirements": "Software development with AI in production; solid Python; LLMs, AI APIs and prompt engineering; RAG/semantic search/vector databases; at least one agent framework such as LangChain, LangGraph or CrewAI; SQL/REST/data handling; Git, CI/CD and automated tests; at least one cloud, preferably Azure. Relevant degree or equivalent experience. Plus: Microsoft AI stack, Databricks/Fabric, Hugging Face/Ollama/open models, LoRA/QLoRA, MCP/MLOps/LLMOps and technical English reading. No minimum year count is disclosed.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Rethink, part of Framework Digital. Remote work in Brazil and PJ contracting are explicitly confirmed. Daily/weekly hours and contract duration are not disclosed. Original publishedAt=2026-11-11T17:54:33.215Z; lastPublishedAt=2026-11-12T14:08:06.052Z is a separate publication/update signal. Matching employer-board link, public vacancy and application form verified.",
+  "source_url": "https://frameworkdigital.inhire.app/vagas/1efce974-15ab-4d96-aedd-c31d6ad74a86/engenheiroa-de-ia-pleno",
+  "source_key": "inhire:frameworkdigital:1efce974-15ab-4d96-aedd-c31d6ad74a86",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "ai-ml"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

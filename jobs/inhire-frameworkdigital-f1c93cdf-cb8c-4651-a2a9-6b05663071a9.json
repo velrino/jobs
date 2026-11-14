@@ -1,0 +1,31 @@
+{
+  "company": "Framework Digital",
+  "job_title": "Engenheiro(a) de IA - Sênior",
+  "location": "Remote, Brazil",
+  "summary": "Lead end-to-end AI projects from discovery through architecture, deployment and improvement. Evaluate GenAI/ML/multi-agent trade-offs; establish evals, guardrails, prompt-injection defenses, observability, cost controls and AI governance; mentor engineers and advise clients.",
+  "requirements": "Proven production AI delivery and technical project leadership; advanced Python/software architecture; deep LLM, agent, RAG/vector-search and corporate integration experience; agent orchestration frameworks; fine-tuning LoRA/QLoRA; evals, MLOps/LLMOps, CI/CD/testing/security/monitoring; major cloud experience, preferably Azure; LGPD/privacy/governance and stakeholder communication. Relevant degree or equivalent experience. Plus: Microsoft AI stack, tax-process expertise, GPT/Claude at scale, MCP and technical English reading. No minimum year count is disclosed.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Rethink, part of Framework Digital. Remote work in Brazil and PJ contracting are explicitly confirmed. Daily/weekly hours and contract duration are not disclosed. Original publishedAt=2026-11-11T17:49:14.971Z; lastPublishedAt=2026-11-13T19:54:18.363Z is a separate publication/update signal. Matching employer-board link, public vacancy and application form verified.",
+  "source_url": "https://frameworkdigital.inhire.app/vagas/f1c93cdf-cb8c-4651-a2a9-6b05663071a9/engenheiroa-de-ia-senior",
+  "source_key": "inhire:frameworkdigital:f1c93cdf-cb8c-4651-a2a9-6b05663071a9",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "ai-ml"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
