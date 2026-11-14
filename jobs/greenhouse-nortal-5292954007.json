@@ -1,0 +1,31 @@
+{
+  "company": "Nortal",
+  "job_title": "(1624) Senior Fullstack Engineer (Python and Vue.js, React)",
+  "location": "Remote, Latin America",
+  "summary": "Develop and modernize full-stack applications and services, contribute frontend features and operate cloud/Kubernetes workloads with strong testing and AI-assisted engineering.",
+  "requirements": "Required: relevant computing/engineering degree; strong full-stack background, deep backend expertise (Python preferred; Java/Node.js with Python exposure also accepted), Vue/React, microservices/REST, Kubernetes, cloud ideally GCP, databases, CI/CD/testing/observability and practical AI coding tools. Advanced English. Preferred: Java-to-Python modernization, GKE, edge Kubernetes, regulated/healthcare software and AI/vision/video experience.",
+  "compensation": "USD salary is mentioned; no numerical range or pay period is disclosed.",
+  "conditions": "The employer explicitly lists Latin America eligibility and 100% remote work; coworking spaces are optional. Original publication is verified from Greenhouse first_published. The legal contract type and weekly hours are not explicitly stated. No visa sponsorship or relocation support is confirmed.",
+  "source_url": "https://job-boards.greenhouse.io/nortal/jobs/5292954007",
+  "source_key": "greenhouse:nortal:5292954007",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "latam"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "company": "Nortal",
+  "job_title": "(1632) Principal Backend Engineer (Java and Golang)",
+  "location": "Remote, Latin America",
+  "summary": "Drive backend engineering and architecture for high-volume, event-driven distributed services, improving delivery quality and technical ownership.",
+  "requirements": "Required: relevant computing/engineering degree; 8+ years of software engineering; production Java and Go; event-driven/high-volume systems, queues/streaming/transactions; testing, CI/CD and code-review improvements; English C1+, strong asynchronous writing and autonomous scope/prioritization. Meaningful European CET-hours overlap is required.",
+  "compensation": "USD salary is mentioned; no numerical range or pay period is disclosed.",
+  "conditions": "The employer explicitly lists Latin America eligibility and 100% remote work; coworking spaces are optional. Original publication is verified from Greenhouse first_published. The legal contract type and weekly hours are not explicitly stated. No visa sponsorship or relocation support is confirmed. European CET/CEST working-hours overlap is required; confirm the exact schedule.",
+  "source_url": "https://job-boards.greenhouse.io/nortal/jobs/5294954007",
+  "source_key": "greenhouse:nortal:5294954007",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "principal"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "latam"
+  ]
+}

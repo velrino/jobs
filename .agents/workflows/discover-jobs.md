@@ -26,3 +26,6 @@ Do not turn these provider hints into another field schema. The catalog and READ
 - Workday: use the active, publicly applicable posting’s `startDate`/`postedOn`, not a separate corporate search index’s `updateDate`. A recent update can belong to an older posting.
 - Lever: corroborate API creation timestamps with the public employer page’s `JobPosting.datePosted`; do not silently rename creation as publication.
 - Compensation: distinguish salary from meal/home-office allowances, company revenue and learning budgets. Flag implausible placeholder bounds rather than presenting them as a valid range.
+
+- Gem: use `first_published_at` from the [public Job Board API](https://api.gem.com/job_board/v0/reference), not `updated_at`. Check `location_type` and eligible locations; company-wide remote language does not establish a remote vacancy.
+- Get on Board: corroborate `published_at` with the original advertisement’s `datePosted` and read its remote-work policy. An API location of `Remote` does not establish country eligibility. Apply narrower employer restrictions when the platform uses a generic worldwide template.
