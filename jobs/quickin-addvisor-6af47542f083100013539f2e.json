@@ -1,0 +1,31 @@
+{
+  "company": "Addvisor",
+  "job_title": "Desenvolvedor ABAP Sr",
+  "location": "Remote, Brazil",
+  "summary": "Develop and support SAP S/4HANA ABAP solutions, debug standard transactions, apply SAP notes, migrate and integrate data, build APIs and integrations, and maintain tested/versioned code.",
+  "requirements": "Proven senior ABAP and SAP S/4HANA development experience; standard transaction debugging, SAP notes, data migration/integration, SAP module knowledge, object-oriented programming and unit testing; APIs, Fiori, SEGW/Gateway, ABAP 7.4 or CDS/OData, CI/CD/versioning, ABAP Unit, RAP or CAP, CDS views and BRF+. Advanced conversational English is required. PI/PO experience is a plus. No minimum year count or degree requirement is disclosed.",
+  "compensation": "Not disclosed.",
+  "conditions": "100% remote work in Brazil. Employer location metadata lists Campinas/SP/BR with explicit Brazil applicant eligibility. Senior role; employment type, hours and duration are not disclosed. Employer reference PFQ3312. Original JobPosting.datePosted and public created_at both equal 2026-11-11T14:01:38.403Z. Active matching public description and application action verified.",
+  "source_url": "https://jobs.quickin.io/addvisor/jobs/6af47542f083100013539f2e",
+  "source_key": "quickin:addvisor:6af47542f083100013539f2e",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
