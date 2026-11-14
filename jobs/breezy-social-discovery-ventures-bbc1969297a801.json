@@ -1,0 +1,31 @@
+{
+  "company": "Social Discovery Group",
+  "job_title": "Senior Frontend Developer",
+  "location": "Remote, worldwide",
+  "summary": "Develop and improve React website functionality, optimize performance and design technical solutions.",
+  "requirements": "TypeScript, SOLID, functional reactive programming familiarity, HTTP(S)/WebSocket protocols, independent task breakdown, native UX/UI knowledge, code review and RxJS. Minimum years, degree and language proficiency are not disclosed.",
+  "compensation": "Not disclosed.",
+  "conditions": "Full-time remote role. The employer explicitly offers full-time remote work and worldwide applicant geography. Salary is shared during recruitment; bonus and reimbursement figures are benefits, not salary. Original publication confirmed by employer JobPosting.datePosted: 2026-11-10. Contract duration and daily hours are not disclosed.",
+  "source_url": "https://social-discovery-ventures.breezy.hr/p/bbc1969297a801-senior-frontend-developer",
+  "source_key": "breezy:social-discovery-ventures:bbc1969297a801",
+  "published_on": "2026-11-10",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "frontend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "worldwide"
+  ]
+}
