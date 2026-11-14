@@ -5,11 +5,11 @@
   "summary": "Build customer support experiences across React/TypeScript interfaces and Go services.",
   "requirements": "Five or more years shipping full-stack applications, production APIs, customer-facing UX and reliable operations.",
   "compensation": "BRL 443,460–466,800 annual base, excluding equity and bonus.",
-  "conditions": "Remote within the listed hiring geography. Confirm employment terms, working hours and any in-person gatherings with the employer. Quarterly in-person team sessions and on-call participation are described.",
+  "conditions": "Brazil hiring location. The employer explicitly states remote-first rather than remote-only work, with quarterly in-person working sessions (surges), and describes on-call participation. Fully remote work without required in-person gatherings is not established, so the role is excluded from the fully remote selection. Confirm gathering locations, travel support, employment terms and hours with the employer. Original publication verified from Greenhouse first_published: 2026-11-09.",
   "source_url": "https://www.coinbase.com/careers/positions/8368072",
   "source_key": "greenhouse:coinbase:8368072",
   "published_on": "2026-11-09",
-  "last_checked": "2026-11-13",
+  "last_checked": "2026-11-14",
   "role": [
     "engineering"
   ],
@@ -20,7 +20,7 @@
     "senior"
   ],
   "work": [
-    "remote"
+    "unspecified"
   ],
   "type": [
     "unspecified"
