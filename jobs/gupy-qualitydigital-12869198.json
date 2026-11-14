@@ -1,0 +1,31 @@
+{
+  "role": [
+    "engineering"
+  ],
+  "region": [
+    "brazil"
+  ],
+  "location": "Brazil",
+  "work": [
+    "remote"
+  ],
+  "compensation": "Not disclosed.",
+  "last_checked": "2026-11-13",
+  "source_key": "gupy:qualitydigital:12869198",
+  "company": "Quality Digital",
+  "job_title": "Mid-Level Go Developer",
+  "source_url": "https://qualitydigital.gupy.io/jobs/12869198",
+  "published_on": "2026-11-11",
+  "level": [
+    "mid"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "summary": "Build Go services and APIs, including a backend-for-frontend integrating VTEX commerce services.",
+  "requirements": "- Practical Go backend development and REST API integration.\n- Testing, maintainability and production troubleshooting.\n- Experience with commerce integrations and AI-assisted development is relevant.",
+  "conditions": "CLT employment, remote in Brazil. Source title: 12869198 -PESSOA DESENVOLVEDORA PL Golang. Confirm exact schedule and commercial terms with the employer."
+}

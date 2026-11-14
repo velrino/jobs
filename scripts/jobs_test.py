@@ -1,5 +1,6 @@
 """Exercise publication behavior with a temporary GitHub CLI substitute."""
 import json
+from datetime import date, timedelta
 import os
 from pathlib import Path
 import subprocess
@@ -84,6 +85,20 @@ class PublicationTests(unittest.TestCase):
         self.run_cli('publish', '--apply')
         self.assertEqual(self.state()['writes'], count)
         self.assertEqual(self.state()['issues'][0]['state'], 'closed')
+
+    def test_recent_filter_uses_original_date_and_rejects_unknown_dates(self):
+        job = json.loads(next((ROOT / 'jobs').glob('*.json')).read_text())
+        job['last_checked'] = date.today().isoformat()
+        selected = self.folder / 'recent.json'
+        for days in [7, 8, None]:
+            with self.subTest(days=days):
+                if days is None:
+                    job.pop('published_on', None)
+                else:
+                    job['published_on'] = (date.today() - timedelta(days=days)).isoformat()
+                selected.write_text(json.dumps(job))
+                self.run_cli('publish', selected, '--max-age-days', '7', success=days == 7)
+                self.assertEqual(self.state()['writes'], 0)
 
     def test_missing_labels_prevent_any_issue_write(self):
         self.run_cli('publish', '--apply', success=False)

@@ -104,6 +104,17 @@
     },
     {
       "type": "input",
+      "id": "published_on",
+      "attributes": {
+        "label": "Published on",
+        "description": "Original publication date (YYYY-MM-DD), verified at the employer source. An update, crawl or discovery date is not a publication date."
+      },
+      "validations": {
+        "required": false
+      }
+    },
+    {
+      "type": "input",
       "id": "last_checked",
       "attributes": {
         "label": "Last checked",
@@ -170,7 +181,8 @@
           "principal",
           "manager",
           "unspecified",
-          "lead"
+          "lead",
+          "intern"
         ]
       },
       "validations": {

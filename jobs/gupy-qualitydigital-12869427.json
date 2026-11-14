@@ -1,0 +1,31 @@
+{
+  "role": [
+    "engineering"
+  ],
+  "region": [
+    "brazil"
+  ],
+  "location": "Brazil",
+  "work": [
+    "remote"
+  ],
+  "compensation": "Not disclosed.",
+  "last_checked": "2026-11-13",
+  "source_key": "gupy:qualitydigital:12869427",
+  "company": "Quality Digital",
+  "job_title": "Junior Go Developer",
+  "source_url": "https://qualitydigital.gupy.io/jobs/12869427",
+  "published_on": "2026-11-11",
+  "level": [
+    "junior"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "summary": "Develop backend services and REST APIs in Go, maintain integrations and support reliable software delivery.",
+  "requirements": "- Practical Go, programming fundamentals, HTTP/JSON, SQL and Git.\n- Basic Docker, automated testing and Go concurrency.\n- API integration and responsible use of AI development tools.",
+  "conditions": "CLT employment, remote in Brazil. Monday–Friday, 09:00–18:00. VTEX, CI/CD and Spanish are advantages. The source title is PESSOA DESENVOLVEDORA JR Golang."
+}

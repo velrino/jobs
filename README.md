@@ -6,13 +6,19 @@ Browse [open positions](https://github.com/velrino/jobs/issues) or [create a job
 
 ## Share an opportunity
 
-Use the **Job opportunity** issue form. Verify the original listing, summarize its responsibilities and requirements, and include its public application link, job ID, eligible location and verification date. Include compensation with currency and pay period when disclosed; mark missing information explicitly.
+Use the **Job opportunity** issue form. Blank issues are disabled so every posting follows this structure. Verify the original listing, summarize its responsibilities and requirements, and include its public application link, job ID, eligible location and verification date. Include compensation with currency and pay period when disclosed; mark missing information explicitly.
 
 Title format: `[Company] Job Title — Location / Work arrangement`.
 
 Remote work does not imply worldwide eligibility. For example, a US-only remote role uses both `work:remote` and `region:us`. Do not infer full-time employment, visa sponsorship, relocation support or Staff seniority from a salary or an Architect title.
 
 Search **open and closed** issues for the source key and original job URL before posting. A source key identifies one provider, board and job, for example `greenhouse:housecall:5740249004`. Remove tracking parameters from URLs while preserving job identifiers.
+
+## Publication dates
+
+New searches are limited to postings originally published within the last seven calendar days. Record the employer-confirmed date in `published_on`; updates, search indexing and discovery dates do not establish recency. Older existing issues remain historical records. Explicitly requested older links must show their original date and explain the exception.
+
+Use `--max-age-days 7` with the selected new JSON files to reject older or undated postings before any GitHub write. Existing records predating this policy may omit `published_on`. The [source review](docs/source-review-2026-11-13.md) records historical leads excluded from the latest search.
 
 ## Reusable classifications
 
@@ -56,7 +62,7 @@ python3 scripts/jobs.py publish --apply
 To select a single file or explicitly target a repository:
 
 ```sh
-python3 scripts/jobs.py publish jobs/housecall-5740249004.json --repo velrino/jobs
+python3 scripts/jobs.py publish jobs/gupy-qualitydigital-12869427.json --repo velrino/jobs --max-age-days 7
 ```
 
 The script derives titles, Markdown bodies and labels from the catalog and job records. It checks every selected record before writing and requires all selected labels to exist before creating issues. It searches all issues, including closed ones, for the stable source marker or original URL and skips existing postings. Re-running sequentially is safe; do not run concurrent publishers. Publication is sequential and can partially succeed if GitHub fails; re-run to create only the remaining issues.

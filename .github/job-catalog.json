@@ -55,6 +55,13 @@
       "description": "Stable provider:board:job-id, or company:job-id. Search all issues for this key before posting."
     },
     {
+      "id": "published_on",
+      "label": "Published on",
+      "type": "input",
+      "required": false,
+      "description": "Original publication date (YYYY-MM-DD), verified at the employer source. An update, crawl or discovery date is not a publication date."
+    },
+    {
       "id": "last_checked",
       "label": "Last checked",
       "type": "input",
@@ -108,7 +115,8 @@
         "principal": "Principal roles",
         "manager": "People management roles",
         "unspecified": "Level not explicitly stated; do not infer Staff from Architect",
-        "lead": "Explicit technical lead roles; not necessarily people management"
+        "lead": "Explicit technical lead roles; not necessarily people management",
+        "intern": "Internship or student placement"
       }
     },
     {

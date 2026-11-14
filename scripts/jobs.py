@@ -34,7 +34,7 @@ def form_text():
     for field in CATALOG['fields']:
         body.append(dict(type=field['type'], id=field['id'],
                          attributes=dict(label=field['label'], description=field['description']),
-                         validations=dict(required=True)))
+                         validations=dict(required=field.get('required', True))))
     for group in CATALOG['groups']:
         body.append(dict(type='dropdown', id=group['id'], attributes=dict(
             label=group['label'], description=group['description'], multiple=group['multiple'],
@@ -47,11 +47,14 @@ def form_text():
 def load_jobs(paths):
     records, sources, urls = [], set(), set()
     expected = {f['id'] for f in CATALOG['fields']} | {g['id'] for g in CATALOG['groups']}
+    required = {f['id'] for f in CATALOG['fields'] if f.get('required', True)} | {g['id'] for g in CATALOG['groups']}
     for path in paths:
         job = json.loads(path.read_text())
-        if set(job) != expected:
-            raise ValueError(f'{path}: fields differ: {set(job) ^ expected}')
+        if not required <= set(job) or set(job) - expected:
+            raise ValueError(f'{path}: missing fields {required - set(job)}; unknown fields {set(job) - expected}')
         for field in CATALOG['fields']:
+            if field['id'] not in job:
+                continue
             value = job[field['id']]
             if not isinstance(value, str) or not value.strip():
                 raise ValueError(f'{path}: {field["id"]} must be nonempty text')
@@ -62,8 +65,10 @@ def load_jobs(paths):
             raise ValueError(f'{path}: invalid public HTTPS URL')
         if any(k.lower().startswith(('utm_', 'gh_src')) or k.lower() in {'token', 'access_token', 'api_key'} for k in parse_qs(url.query)):
             raise ValueError(f'{path}: use a clean source URL without tracking or tokens')
-        if not re.fullmatch(r'[a-z0-9][a-z0-9:._-]+', job['source_key']):
+        if not re.fullmatch(r'[a-zA-Z0-9][a-zA-Z0-9:._-]+', job['source_key']):
             raise ValueError(f'{path}: invalid source_key')
+        if 'published_on' in job and date.fromisoformat(job['published_on']) > date.fromisoformat(job['last_checked']):
+            raise ValueError(f'{path}: publication date is later than verification')
         checked = date.fromisoformat(job['last_checked'])
         if checked > date.today():
             raise ValueError(f'{path}: verification date is in the future')
@@ -87,7 +92,8 @@ def load_jobs(paths):
         title = f"[{job['company']}] {job['job_title']} — {job['location']} / {job['work'][0].replace('-', ' ').title()}"
         content = [f"<!-- job-source: {job['source_key']} -->"]
         for field in CATALOG['fields']:
-            content.extend([f"## {field['label']}", job[field['id']]])
+            if field['id'] in job:
+                content.extend([f"## {field['label']}", job[field['id']]])
         content.append('## Classification')
         content.extend(f"- {g['label']}: {', '.join(job[g['id']])}" for g in CATALOG['groups'])
         records.append(dict(title=title, body='\n\n'.join(content) + '\n', labels=selected, job=job))
@@ -99,9 +105,17 @@ def main():
     parser.add_argument('command', choices=['check', 'generate', 'labels', 'publish'])
     parser.add_argument('files', nargs='*', type=Path, help='Job JSON files; default: jobs/*.json')
     parser.add_argument('--apply', action='store_true', help='Apply labels or create missing issues')
+    parser.add_argument('--max-age-days', type=int, help='Require a verified original publication date within this many calendar days')
     parser.add_argument('--repo', help='owner/name; defaults to this checkout repository')
     args = parser.parse_args()
     records = load_jobs(args.files or sorted((ROOT / 'jobs').glob('*.json')))
+    if args.max_age_days is not None:
+        if args.command != 'publish' or args.max_age_days < 0:
+            parser.error('--max-age-days requires publish and a nonnegative value')
+        for record in records:
+            published = record['job'].get('published_on')
+            if not published or not 0 <= (date.today() - date.fromisoformat(published)).days <= args.max_age_days:
+                raise ValueError(f"{record['title']}: missing publication date or outside the {args.max_age_days}-day window")
     if args.command == 'generate':
         FORM.write_text(form_text())
         print(f'Generated {FORM.relative_to(ROOT)}')
