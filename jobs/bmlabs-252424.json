@@ -1,0 +1,32 @@
+{
+  "company": "Bitmedia Labs",
+  "job_title": "Junior/Middle Manual QA Engineer",
+  "location": "Remote, worldwide",
+  "summary": "Perform functional and non-functional testing of web/mobile applications, analyze requirements, maintain test documentation and triage client/team defects before development.",
+  "requirements": "1+ years of web application testing; QA methodologies and processes; HTTP, JSON and REST; API testing with tools such as Postman/Swagger; Chrome DevTools; test documentation and clear bug reports using Jira/Redmine or similar; SQL or NoSQL; cross-browser/device testing; analytical and communication skills. Mobile and AI testing are preferred.",
+  "compensation": "Numerical salary not disclosed. Benefits include performance reviews, paid vacation/sick leave/public holidays, Apple equipment and learning support.",
+  "conditions": "The live employer page dates the posting November 13, 2026 and explicitly lists Worldwide. Remote work is an option; company hubs in Kyiv, Warsaw and Berlin are optional alternatives. Flexible schedule; employment type and weekly hours are not disclosed. Selection includes recruiter introduction, test task, technical interview and reference collection.",
+  "source_url": "https://bmlabs.org/vacancies/252424",
+  "source_key": "bmlabs:careers:252424",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "qa"
+  ],
+  "level": [
+    "junior",
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "worldwide"
+  ]
+}
