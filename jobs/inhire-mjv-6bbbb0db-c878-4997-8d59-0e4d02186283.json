@@ -1,0 +1,31 @@
+{
+  "company": "MJV Technology & Innovation",
+  "job_title": "Estagiário(a) - Agentes IA",
+  "location": "Remote, Brazil",
+  "summary": "Support development of corporate AI agents using LLMs, structured prompts, reasoning flows such as ReAct, external API/tool integrations and simple RAG pipelines. Test and improve agents, document solutions and help evolve the internal framework.",
+  "requirements": "Basic Python, generative AI/LLM concepts, prompt engineering, reasoning concepts such as ReAct, REST API consumption, programming logic and data structures. Preferred: academic or personal AI projects; LangChain or LlamaIndex; RAG; Git; and interest in system architecture and AWS/Azure. No specific degree, graduation window, prior employment or language requirement is disclosed.",
+  "compensation": "Not disclosed.",
+  "conditions": "Remote internship in Brazil, explicitly confirmed by the employer. Daily/weekly hours and contract duration are not disclosed. Original publishedAt, createdAt and lastPublishedAt are all 2026-11-13T20:35:07.555Z. Matching public vacancy, full responsibilities and application form verified in the browser.",
+  "source_url": "https://mjv.inhire.app/vagas/6bbbb0db-c878-4997-8d59-0e4d02186283/estagiario-a-agentes-ia",
+  "source_key": "inhire:mjv:6bbbb0db-c878-4997-8d59-0e4d02186283",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "ai-ml"
+  ],
+  "level": [
+    "intern"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "internship"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
