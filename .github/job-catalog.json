@@ -98,7 +98,8 @@
         "architecture": "Software architecture and system design",
         "ai-ml": "Artificial intelligence and machine learning",
         "platform": "Platform and infrastructure engineering",
-        "unspecified": "Specialty not stated"
+        "unspecified": "Specialty not stated",
+        "security": "Application security and security engineering"
       }
     },
     {

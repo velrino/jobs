@@ -159,7 +159,8 @@
           "architecture",
           "ai-ml",
           "platform",
-          "unspecified"
+          "unspecified",
+          "security"
         ]
       },
       "validations": {

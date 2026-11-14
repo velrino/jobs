@@ -1,0 +1,31 @@
+{
+  "company": "It4us Cyber Security",
+  "job_title": "Artificial Intelligence Intern",
+  "location": "Brazil",
+  "summary": "Support security operations with scripts, AI agents, workflow automation and system integrations.",
+  "requirements": "- Enrolled in a technical or undergraduate computing/IT-related course.\n- Basic programming and interest in AI, LLMs and automation.\n- Python, n8n/Make and personal AI projects are advantages.",
+  "compensation": "Not disclosed.",
+  "conditions": "Remote in Brazil. The employer lists both PJ and internship contract types; clarify the legal engagement, hours and equipment requirements before applying. Source title: Estágio em Inteligência Artificial.",
+  "source_url": "https://it4us-trial.inhire.app/vagas/65054edb-d09f-49f7-bf2d-7976f2c4a0fe/estagio-em-inteligencia-artificial",
+  "source_key": "inhire:it4us:65054edb-d09f-49f7-bf2d-7976f2c4a0fe",
+  "published_on": "2026-11-06",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "ai-ml"
+  ],
+  "level": [
+    "intern"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "internship"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
