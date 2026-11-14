@@ -1,0 +1,31 @@
+{
+  "company": "Virtasant",
+  "job_title": "Senior Platform Engineer (Crossplane)",
+  "location": "Remote, Brazil (explicit role-description location)",
+  "summary": "Build and operate production Kubernetes infrastructure, Crossplane orchestration, reusable Terraform/GitOps capabilities and platform services for a large-scale data platform.",
+  "requirements": "Required: 7+ years in software/platform/infrastructure/SRE with production distributed systems; building and operating Kubernetes platforms, production coding in Go/Python/Java, reusable infrastructure modules and independent system delivery; relevant degree or equivalent experience. Kubernetes internals/controllers, Terraform, GitOps, service mesh, Linux, cloud, observability, databases and testing/debugging are expected. Preferred: Crossplane/Go, CNCF contributions, large data platforms, AliCloud, resilient architectures, Kubernetes certifications, IAM/security and monorepo/build-system experience.",
+  "compensation": "Numerical compensation range not disclosed.",
+  "conditions": "The employer description explicitly states Remote | Brazil, with Pacific coverage 08:00–17:00. The platform schema also references the US office; the Brazil eligibility here comes from the explicit role description. Full-time work is stated. Original publication is verified from JobPosting.datePosted (2026-11-12). No visa sponsorship or relocation support is confirmed.",
+  "source_url": "https://virtasant.teamtailor.com/jobs/8723788-senior-platform-engineer-crossplane",
+  "source_key": "teamtailor:virtasant:8723788",
+  "published_on": "2026-11-12",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
