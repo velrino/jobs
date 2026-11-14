@@ -2,10 +2,10 @@
   "company": "+A Educação",
   "job_title": "Analista de Implantação",
   "location": "Brazil",
-  "summary": "Manage software/LMS implementation projects through go-live, train clients, coordinate handoffs and provide technical-pedagogical guidance on education platforms.",
-  "requirements": "Required qualifications: Knowledge/experience areas: project management. Education: completed higher education or a related degree is mentioned; see the source for accepted fields and equivalencies.\n\nPreferred qualifications: Technologies/tools mentioned: Azure, Azure DevOps, DevOps, Power BI. Knowledge/experience areas: project management. Spanish language skills are mentioned; check the source for the required proficiency.",
+  "summary": "Manage education-platform/LMS implementations through go-live; coordinate requirements, configuration, client onboarding and stakeholder communication, and deliver synchronous, asynchronous and in-person training.",
+  "requirements": "Completed degree in Business Administration, Marketing, Technology or related fields; solution implementation, technology-project or academic-project experience; project scope/risk/schedule/documentation management; training facilitation; LMS/virtual-learning environments; technical-pedagogical support and Office tools. Higher-education/edtech experience, Azure DevOps, Power BI, academic-system integrations, adult-learning materials and intermediate Spanish are preferred.",
   "compensation": "Not disclosed as an unambiguous salary range in the public posting.",
-  "conditions": "Brazil-based opportunity. The employer lists remote work, not worldwide eligibility. Original publication verified from the employer publishedAt field. Visa sponsorship and international relocation support are not disclosed. Listed registration deadline: 2026-12-14.",
+  "conditions": "The employer lists remote work, while the responsibilities explicitly include conducting in-person training for teaching and administrative teams. Frequency and location of those duties are not disclosed. Fully remote work without in-person duties is therefore not confirmed, and this record is excluded from the remote-only selection. Brazil location; international eligibility is not established. Original publication: 2026-11-13; registration deadline: 2026-12-14.",
   "source_url": "https://maisaedu.gupy.io/jobs/12888859",
   "source_key": "gupy:maisaedu:12888859",
   "published_on": "2026-11-13",
@@ -20,7 +20,7 @@
     "unspecified"
   ],
   "work": [
-    "remote"
+    "unspecified"
   ],
   "type": [
     "permanent"
