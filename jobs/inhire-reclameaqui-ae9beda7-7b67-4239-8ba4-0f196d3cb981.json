@@ -1,0 +1,31 @@
+{
+  "company": "Reclame AQUI",
+  "job_title": "Engenheiro de Produto",
+  "location": "Remote, Brazil",
+  "summary": "Deliver software features end to end at the intersection of engineering, design and product; shape MVPs with product managers, analyze user feedback and validate improvements through experiments and frequent releases.",
+  "requirements": "Strong modern programming-language and systems-architecture skills (the source mentions Golang, TypeScript, Dart and Java); experience with user-facing B2C or B2B SaaS products, production monitoring/telemetry, automated testing and LLM/AI development tools; clear technical/nontechnical communication and independent ownership. No minimum year count, degree or language-proficiency requirement is stated.",
+  "compensation": "Not disclosed.",
+  "conditions": "Remote work from Brazil and CLT employment are explicitly confirmed by employer metadata. Seniority level, daily hours and contract duration are not disclosed. Original publishedAt and createdAt both equal 2026-11-09T23:52:38.567Z; lastPublishedAt is the same timestamp. The public vacancy and application form were verified in the browser. No office-attendance requirement is stated in the reviewed description or location complement.",
+  "source_url": "https://reclameaqui.inhire.app/vagas/ae9beda7-7b67-4239-8ba4-0f196d3cb981/engenheiro-de-produto",
+  "source_key": "inhire:reclameaqui:ae9beda7-7b67-4239-8ba4-0f196d3cb981",
+  "published_on": "2026-11-09",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
