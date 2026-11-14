@@ -1,0 +1,158 @@
+{
+  "fields": [
+    {
+      "id": "company",
+      "label": "Company",
+      "type": "input",
+      "description": "Company name from the original posting."
+    },
+    {
+      "id": "job_title",
+      "label": "Job title",
+      "type": "input",
+      "description": "Use the original job title, without adding a seniority level."
+    },
+    {
+      "id": "location",
+      "label": "Eligible location",
+      "type": "input",
+      "description": "Where applicants may work from; remote does not mean worldwide."
+    },
+    {
+      "id": "summary",
+      "label": "Responsibilities",
+      "type": "textarea",
+      "description": "Summarize the work in English; do not copy the full posting."
+    },
+    {
+      "id": "requirements",
+      "label": "Requirements",
+      "type": "textarea",
+      "description": "Summarize required and preferred qualifications separately."
+    },
+    {
+      "id": "compensation",
+      "label": "Compensation",
+      "type": "textarea",
+      "description": "Include currency and pay period when stated; otherwise say not disclosed."
+    },
+    {
+      "id": "conditions",
+      "label": "Application and working conditions",
+      "type": "textarea",
+      "description": "Include language, schedule, benefits and visa information only when confirmed; mark unknowns explicitly."
+    },
+    {
+      "id": "source_url",
+      "label": "Original posting and application",
+      "type": "input",
+      "description": "Use a public HTTPS link; remove tracking parameters, preserve the job identifier."
+    },
+    {
+      "id": "source_key",
+      "label": "Source key",
+      "type": "input",
+      "description": "Stable provider:board:job-id, or company:job-id. Search all issues for this key before posting."
+    },
+    {
+      "id": "last_checked",
+      "label": "Last checked",
+      "type": "input",
+      "description": "Date you verified the original posting, in YYYY-MM-DD format."
+    }
+  ],
+  "groups": [
+    {
+      "id": "role",
+      "label": "Role",
+      "color": "0969DA",
+      "multiple": true,
+      "description": "Select only explicitly supported values; use unspecified when unknown.",
+      "values": {
+        "engineering": "Software engineering roles",
+        "data": "Data engineering and analytics roles",
+        "design": "Product and user experience design",
+        "product": "Product management roles",
+        "unspecified": "Role category not stated"
+      }
+    },
+    {
+      "id": "specialty",
+      "label": "Specialty",
+      "color": "5319E7",
+      "multiple": true,
+      "description": "Select only explicitly supported values; use unspecified when unknown.",
+      "values": {
+        "frontend": "Frontend engineering",
+        "backend": "Backend engineering",
+        "fullstack": "Full-stack engineering",
+        "mobile": "Mobile application engineering",
+        "qa": "Quality engineering and testing",
+        "architecture": "Software architecture and system design",
+        "ai-ml": "Artificial intelligence and machine learning",
+        "platform": "Platform and infrastructure engineering",
+        "unspecified": "Specialty not stated"
+      }
+    },
+    {
+      "id": "level",
+      "label": "Seniority",
+      "color": "D4C5F9",
+      "multiple": true,
+      "description": "Select only explicitly supported values; use unspecified when unknown.",
+      "values": {
+        "junior": "Junior roles",
+        "mid": "Mid-level roles",
+        "senior": "Senior roles",
+        "staff": "Staff roles",
+        "principal": "Principal roles",
+        "manager": "People management roles",
+        "unspecified": "Level not explicitly stated; do not infer Staff from Architect",
+        "lead": "Explicit technical lead roles; not necessarily people management"
+      }
+    },
+    {
+      "id": "work",
+      "label": "Work arrangement",
+      "color": "0E8A16",
+      "multiple": false,
+      "description": "Select only explicitly supported values; use unspecified when unknown.",
+      "values": {
+        "remote": "Remote work; check the separate eligible region",
+        "hybrid": "Hybrid office and remote work",
+        "on-site": "On-site work",
+        "unspecified": "Work arrangement not stated"
+      }
+    },
+    {
+      "id": "type",
+      "label": "Employment type",
+      "color": "FBCA04",
+      "multiple": false,
+      "description": "Select only explicitly supported values; use unspecified when unknown.",
+      "values": {
+        "full-time": "Explicitly full-time employment",
+        "part-time": "Explicitly part-time employment",
+        "contract": "Explicit contractor or contract role",
+        "internship": "Internship role",
+        "unspecified": "Employment type not stated"
+      }
+    },
+    {
+      "id": "region",
+      "label": "Eligible region",
+      "color": "1D76DB",
+      "multiple": true,
+      "description": "Select only explicitly supported values; use unspecified when unknown.",
+      "values": {
+        "brazil": "Applicants may work from Brazil",
+        "latam": "Applicants may work from Latin America",
+        "us": "Applicants may work from the United States",
+        "europe": "Applicants may work from Europe",
+        "worldwide": "Explicitly open worldwide",
+        "unspecified": "Eligible region not stated",
+        "uae": "Work based in the United Arab Emirates; check relocation conditions"
+      }
+    }
+  ]
+}

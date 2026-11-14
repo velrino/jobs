@@ -1,0 +1,239 @@
+{
+  "name": "Job opportunity",
+  "description": "Share a verified job opportunity in English.",
+  "title": "[Company] Job Title \u2014 Location / Work arrangement",
+  "body": [
+    {
+      "type": "input",
+      "id": "company",
+      "attributes": {
+        "label": "Company",
+        "description": "Company name from the original posting."
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "job_title",
+      "attributes": {
+        "label": "Job title",
+        "description": "Use the original job title, without adding a seniority level."
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "location",
+      "attributes": {
+        "label": "Eligible location",
+        "description": "Where applicants may work from; remote does not mean worldwide."
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "summary",
+      "attributes": {
+        "label": "Responsibilities",
+        "description": "Summarize the work in English; do not copy the full posting."
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "requirements",
+      "attributes": {
+        "label": "Requirements",
+        "description": "Summarize required and preferred qualifications separately."
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "compensation",
+      "attributes": {
+        "label": "Compensation",
+        "description": "Include currency and pay period when stated; otherwise say not disclosed."
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "conditions",
+      "attributes": {
+        "label": "Application and working conditions",
+        "description": "Include language, schedule, benefits and visa information only when confirmed; mark unknowns explicitly."
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "source_url",
+      "attributes": {
+        "label": "Original posting and application",
+        "description": "Use a public HTTPS link; remove tracking parameters, preserve the job identifier."
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "source_key",
+      "attributes": {
+        "label": "Source key",
+        "description": "Stable provider:board:job-id, or company:job-id. Search all issues for this key before posting."
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "last_checked",
+      "attributes": {
+        "label": "Last checked",
+        "description": "Date you verified the original posting, in YYYY-MM-DD format."
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "dropdown",
+      "id": "role",
+      "attributes": {
+        "label": "Role",
+        "description": "Select only explicitly supported values; use unspecified when unknown.",
+        "multiple": true,
+        "options": [
+          "engineering",
+          "data",
+          "design",
+          "product",
+          "unspecified"
+        ]
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "dropdown",
+      "id": "specialty",
+      "attributes": {
+        "label": "Specialty",
+        "description": "Select only explicitly supported values; use unspecified when unknown.",
+        "multiple": true,
+        "options": [
+          "frontend",
+          "backend",
+          "fullstack",
+          "mobile",
+          "qa",
+          "architecture",
+          "ai-ml",
+          "platform",
+          "unspecified"
+        ]
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "dropdown",
+      "id": "level",
+      "attributes": {
+        "label": "Seniority",
+        "description": "Select only explicitly supported values; use unspecified when unknown.",
+        "multiple": true,
+        "options": [
+          "junior",
+          "mid",
+          "senior",
+          "staff",
+          "principal",
+          "manager",
+          "unspecified",
+          "lead"
+        ]
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "dropdown",
+      "id": "work",
+      "attributes": {
+        "label": "Work arrangement",
+        "description": "Select only explicitly supported values; use unspecified when unknown.",
+        "multiple": false,
+        "options": [
+          "remote",
+          "hybrid",
+          "on-site",
+          "unspecified"
+        ]
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "dropdown",
+      "id": "type",
+      "attributes": {
+        "label": "Employment type",
+        "description": "Select only explicitly supported values; use unspecified when unknown.",
+        "multiple": false,
+        "options": [
+          "full-time",
+          "part-time",
+          "contract",
+          "internship",
+          "unspecified"
+        ]
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "dropdown",
+      "id": "region",
+      "attributes": {
+        "label": "Eligible region",
+        "description": "Select only explicitly supported values; use unspecified when unknown.",
+        "multiple": true,
+        "options": [
+          "brazil",
+          "latam",
+          "us",
+          "europe",
+          "worldwide",
+          "unspecified",
+          "uae"
+        ]
+      },
+      "validations": {
+        "required": true
+      }
+    }
+  ]
+}

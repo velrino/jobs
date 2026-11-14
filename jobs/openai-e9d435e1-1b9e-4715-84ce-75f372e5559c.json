@@ -1,0 +1,31 @@
+{
+  "role": [
+    "engineering"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "last_checked": "2026-11-13",
+  "company": "OpenAI",
+  "job_title": "Forward Deployed Engineer - UAE",
+  "location": "Abu Dhabi, UAE",
+  "region": [
+    "uae"
+  ],
+  "specialty": [
+    "ai-ml",
+    "fullstack"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "summary": "Deliver customer-facing AI systems from prototype through production, coordinate deployments and turn field learning into reusable tools.",
+  "requirements": "- Five or more years in engineering or technical deployment with customer-facing experience.\n- Production frontend/backend coding, including Python or JavaScript.\n- Practical generative AI deployments, delivery ownership and clear stakeholder communication.",
+  "conditions": "Hybrid: three office days per week in Abu Dhabi. Relocation assistance offered; travel up to 50% required. Visa sponsorship is not explicitly stated.",
+  "compensation": "Not disclosed in the original posting.",
+  "source_url": "https://openai.com/careers/forward-deployed-engineer-uae-abu-dhabi-uae/",
+  "source_key": "ashby:openai:e9d435e1-1b9e-4715-84ce-75f372e5559c"
+}
