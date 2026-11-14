@@ -1,0 +1,31 @@
+{
+  "company": "Kake",
+  "job_title": "Senior Data Analyst",
+  "location": "Remote, worldwide; 6–7 hours overlap with GMT-5",
+  "summary": "Own enterprise Power BI semantic models and reporting, coordinate Snowflake/dbt data-engineering deliveries, reconcile ERP financial reporting and support Tableau-to-Power-BI migration.",
+  "requirements": "5+ years in BI development, data analytics or similar; expert Power BI, DAX and star-schema modeling; advanced SQL; hands-on Snowflake and dbt; technical specifications, vendor delivery reviews and stakeholder metric definition; excellent written and spoken English. Preferred: financial/ERP reporting, Tableau migration, Microsoft Fabric/Azure and Python or R.",
+  "compensation": "Not disclosed.",
+  "conditions": "Remote work is stated in the description; the employer JobPosting explicitly permits worldwide applicants. Requires 6–7 hours of overlap with GMT-5. Employment/contract type and weekly hours are not disclosed. Original publication verified from JobPosting.datePosted: 2026-11-11T17:26:07.089Z, corroborated by the page creation timestamp. No relocation or visa sponsorship is confirmed.",
+  "source_url": "https://kake.co/jobs/senior-data-analyst-2e3558e1883a",
+  "source_key": "kake:careers:c605a404-07d7-470b-8368-2e3558e1883a",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-14",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "worldwide"
+  ]
+}
