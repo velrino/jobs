@@ -1,0 +1,31 @@
+{
+  "company": "GRUPO H&W PUBLISHING",
+  "job_title": "Desenvolvedor(a) Backend Sênior (Golang) | Sistemas de Pagamentos",
+  "location": "Remote, Brazil (São Paulo listed as the employer location)",
+  "summary": "Build Go payment services and Node.js/TypeScript integrations, improve transaction reliability and traceability, design payment-provider integrations, review code and mentor developers.",
+  "requirements": "Required: more than 3 years of backend development; production Go; Node.js/TypeScript; payment systems and transaction lifecycle; gateways, acquirers and PSPs; decline handling, retries and routing; 3DS/3DS2, tokenization and PCI DSS; subscriptions and reconciliation; event-driven architecture, idempotency, REST APIs and webhooks; AWS, Docker, automated testing and observability; intermediate English. Preferred: payment orchestration, card vaults, fraud/chargeback prevention, international and multi-currency payments, technical writing and mentoring.",
+  "compensation": "Negotiable; no numerical compensation range disclosed.",
+  "conditions": "Explicitly 100% remote. Brazilian PJ service-provider contract. The public employer posting lists Brazil and is accepting applications. Original publication date is shown by the employer page JobPosting.datePosted; the application deadline is 2026-12-13. No visa sponsorship or relocation support is disclosed.",
+  "source_url": "https://hwpublishing.vagas.solides.com.br/vaga/952917",
+  "source_key": "solides:hwpublishing:952917",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
