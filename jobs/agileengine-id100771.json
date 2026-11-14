@@ -1,0 +1,31 @@
+{
+  "company": "AgileEngine",
+  "job_title": "Mid-level SDET Engineer",
+  "location": "Remote, Brazil and listed LATAM countries",
+  "summary": "Build regression automation and execute manual, smoke, integration, performance and other tests for an AI-powered procurement platform; document results, identify risks, incorporate user feedback and support quality across releases.",
+  "requirements": "At least three years in software QA and three years in automated testing; JavaScript/TypeScript, Gherkin/BDD, prompt/harness engineering and agentic Quality Engineering skills; upper-intermediate English; availability for on-call rotations. Jest/Playwright/Postman/JMeter, GitHub Actions and test-support tools, SQL, Rails, data/security testing and a relevant degree/equivalent experience are preferred.",
+  "compensation": "Not disclosed.",
+  "conditions": "The employer specifies 100% remote work, full-time employment and eligible countries including Brazil, Argentina, Colombia, Mexico and Guatemala. On-call rotations are required. Exact working hours are not disclosed. Original employer JobPosting.datePosted and page datePublished agree on 2026-11-11. The employer currently lists the vacancy and offers an application action.",
+  "source_url": "https://join.agileengine.com/open-positions/mid-level-sdet-engineer-arkestro-id100771/",
+  "source_key": "careers:agileengine:id100771",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "qa"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
