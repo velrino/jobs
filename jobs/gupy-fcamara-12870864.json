@@ -1,0 +1,31 @@
+{
+  "company": "FCamara",
+  "job_title": "Desenvolvedor FullStack - Pleno",
+  "location": "São Paulo, Brazil",
+  "summary": "Responsibilities cover developing and maintaining technical solutions, software testing and quality assurance, system integration and APIs, technical architecture and solution design. The responsibilities explicitly mention Java, Angular, Spring, Spring Boot, SQL, REST, APIs, DevOps.",
+  "requirements": "Required qualifications: Technologies/tools mentioned: Java, Angular, REST, APIs, Git, CI/CD. Knowledge/experience areas: relational databases, version control.\n\nPreferred qualifications are not clearly separated in the source; check the full qualifications before applying.",
+  "compensation": "Not disclosed as an unambiguous salary range in the public posting.",
+  "conditions": "Brazil-based opportunity; the source lists hybrid work. Original publication date verified from the employer posting, not its search-indexing date. Listed registration deadline: 2027-01-10. Visa sponsorship and relocation support are not disclosed; this posting is not classified as a sponsored relocation opportunity.",
+  "source_url": "https://fcamara.gupy.io/jobs/12870864",
+  "source_key": "gupy:fcamara:12870864",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

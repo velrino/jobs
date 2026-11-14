@@ -1,0 +1,31 @@
+{
+  "company": "Monzo",
+  "job_title": "Analytics Engineering Manager, FinCrime",
+  "location": "Cardiff, London or Remote (UK); London; Remote (UK)",
+  "summary": "Lead analytics engineering for financial-crime data, build the team and guide scalable data-warehouse and reporting projects.",
+  "requirements": "Required: engineering management or mentoring, large-scale data warehousing, leadership of ETL/analytics projects and hiring capability. Preferred: banking or regulated industries and experience with dbt, BigQuery or Looker.",
+  "compensation": "GBP 97,800–125,000 per year plus performance-linked incentive awards and benefits.",
+  "conditions": "International mobility: confirmed employer support. UK visa sponsorship and relocation support are explicitly offered. Distributed work is permitted within the UK, with occasional London meetings; the role is not remote from Brazil. Flexible hours and a stated learning budget are available. Original publication is verified from the employer board’s first_published field, not its update date.",
+  "source_url": "https://job-boards.greenhouse.io/monzo/jobs/8281171",
+  "source_key": "greenhouse:monzo:8281171",
+  "published_on": "2026-11-09",
+  "last_checked": "2026-11-14",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "manager"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "europe"
+  ]
+}

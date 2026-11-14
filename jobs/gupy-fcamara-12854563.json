@@ -1,0 +1,31 @@
+{
+  "company": "FCamara",
+  "job_title": "QA de Automação - Sênior",
+  "location": "Brazil",
+  "summary": "Responsibilities cover developing and maintaining technical solutions, software testing and quality assurance, system integration and APIs, technical documentation, requirements analysis and stakeholder collaboration, user experience and interface work. The responsibilities explicitly mention APIs, CI/CD, LGPD, Playwright.",
+  "requirements": "Required qualifications: Technologies/tools mentioned: C#, .NET, APIs, Git, Playwright. Knowledge/experience areas: test automation.\n\nPreferred qualifications: Technologies/tools mentioned: Kafka, RabbitMQ, Azure, Jenkins, GitHub, GitLab, Azure DevOps, DevOps. Knowledge/experience areas: accessibility.",
+  "compensation": "Not disclosed as an unambiguous salary range in the public posting.",
+  "conditions": "Brazil-based opportunity; the source lists remote work. Remote applies to the Brazil location in this listing; international work from other countries is not established. Original publication date verified from the employer posting, not its search-indexing date. Listed registration deadline: 2027-01-08. Visa sponsorship and relocation support are not disclosed; this posting is not classified as a sponsored relocation opportunity.",
+  "source_url": "https://fcamara.gupy.io/jobs/12854563",
+  "source_key": "gupy:fcamara:12854563",
+  "published_on": "2026-11-09",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "qa"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

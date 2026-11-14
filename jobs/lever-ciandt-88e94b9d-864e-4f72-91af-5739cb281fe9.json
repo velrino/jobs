@@ -1,0 +1,31 @@
+{
+  "company": "CI&T",
+  "job_title": "[Job - 32643] Mid DevOps Engineer, Brazil",
+  "location": "Brazil",
+  "summary": "Responsibilities cover developing and maintaining technical solutions, software testing and quality assurance, technical support and incident resolution, infrastructure, network or cloud operations, technical architecture and solution design, requirements analysis and stakeholder collaboration. Role technologies mentioned include Python, AWS, Azure, Google Cloud, Docker, Kubernetes, Terraform, Jenkins, Azure DevOps, CI/CD, DevOps, SRE, Teams, Bash, Senior, Make.",
+  "requirements": "Qualifications mentioned in the public role description: Technologies/tools mentioned: Python, AWS, Azure, Google Cloud, Docker, Kubernetes, Terraform, Jenkins, Azure DevOps, CI/CD, DevOps, SRE, Teams, Bash, Senior, Make.\n\nMandatory and preferred criteria are not consistently separated in the source; consult the full description before applying.",
+  "compensation": "Not disclosed in the public posting.",
+  "conditions": "The employer lists remote work from Brazil. Country eligibility is limited to the listed location, not generalized worldwide. Original publication is corroborated by datePosted in the public employer-hosted JobPosting data, not just the API creation timestamp. Visa sponsorship or international relocation is not disclosed; inclusion is based on the stated Brazil/LATAM work location.",
+  "source_url": "https://jobs.lever.co/ciandt/88e94b9d-864e-4f72-91af-5739cb281fe9",
+  "source_key": "lever:ciandt:88e94b9d-864e-4f72-91af-5739cb281fe9",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

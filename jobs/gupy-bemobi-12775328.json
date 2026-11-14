@@ -1,0 +1,31 @@
+{
+  "company": "Bemobi",
+  "job_title": "Analista Desenvolvimento Pleno .NET",
+  "location": "Brazil",
+  "summary": "Responsibilities cover developing and maintaining technical solutions, system integration and APIs, data analysis and reporting, technical support and incident resolution, infrastructure, network or cloud operations, technical architecture and solution design. The responsibilities explicitly mention C#, .NET, APIs, Terraform, Bitbucket, CI/CD.",
+  "requirements": "Required qualifications: Technologies/tools mentioned: TypeScript, C#, .NET, React, Node.js, APIs, AWS, Docker, Terraform, Git, Bitbucket, CI/CD, Windows, Windows Server, Grafana. Knowledge/experience areas: relational databases.\n\nPreferred qualifications are not clearly separated in the source; check the full qualifications before applying.",
+  "compensation": "Not disclosed as an unambiguous salary range in the public posting.",
+  "conditions": "Brazil-based opportunity; the source lists remote work. Remote applies to the Brazil location in this listing; international work from other countries is not established. Original publication date verified from the employer posting, not its search-indexing date. Listed registration deadline: 2026-12-22. The source includes shift, rota or on-call conditions; check the schedule before applying. Visa sponsorship and relocation support are not disclosed; this posting is not classified as a sponsored relocation opportunity.",
+  "source_url": "https://bemobi.gupy.io/jobs/12775328",
+  "source_key": "gupy:bemobi:12775328",
+  "published_on": "2026-11-10",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

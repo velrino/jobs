@@ -1,0 +1,31 @@
+{
+  "company": "Neon",
+  "job_title": "Analista de Suporte Pleno",
+  "location": "São Paulo",
+  "summary": "Support employees with endpoint, identity and device incidents, maintain asset records and resolve Jira Service Management requests. Configure corporate computers/devices and support secure access.",
+  "requirements": "Required: practical Windows 10/11, macOS and Microsoft 365 knowledge, communication, collaborative troubleshooting and interest in ITSM and automation. Preferred: prior practical exposure (including personal projects/internships) to IdP/MDM or Zero Trust, AWS Cloud Practitioner, event AV and certifications such as CompTIA A+ or ITIL. Cloud operations are explicitly outside the role scope. Preferred also includes scripting, RMM monitoring, knowledge bases and self-service/chatbot flows; mentoring less-experienced colleagues is expected.",
+  "compensation": "Not disclosed in the public posting.",
+  "conditions": "The employer lists on-site work from São Paulo. Country eligibility is limited to the listed location, not generalized worldwide. Original publication is corroborated by datePosted in the public employer-hosted JobPosting data, not just the API creation timestamp. Visa sponsorship or international relocation is not disclosed; inclusion is based on the stated Brazil/LATAM work location. The public workplace field is on-site in São Paulo; remote troubleshooting within the duties does not make the job remote.",
+  "source_url": "https://jobs.lever.co/neon/e4f5e7e8-9fa5-446c-b4e2-23539d914ed1",
+  "source_key": "lever:neon:e4f5e7e8-9fa5-446c-b4e2-23539d914ed1",
+  "published_on": "2026-11-10",
+  "last_checked": "2026-11-14",
+  "role": [
+    "it"
+  ],
+  "specialty": [
+    "it-support"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "on-site"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

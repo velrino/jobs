@@ -1,0 +1,31 @@
+{
+  "company": "FCamara",
+  "job_title": "Pessoa Desenvolvedora Fullstack Sênior",
+  "location": "Brazil",
+  "summary": "Responsibilities cover software testing and quality assurance, infrastructure, network or cloud operations, technical architecture and solution design. The responsibilities explicitly mention Java, Angular, MySQL, Redis, Kafka, Azure, GCP, Kubernetes, Jenkins.",
+  "requirements": "Required qualifications: Technologies/tools mentioned: Java, Angular, SQL, SQL Server, GCP, Google Cloud, Kubernetes. Knowledge/experience areas: relational databases, test automation.\n\nPreferred qualifications are not clearly separated in the source; check the full qualifications before applying.",
+  "compensation": "Not disclosed as an unambiguous salary range in the public posting.",
+  "conditions": "Brazil-based opportunity; the source lists remote work. Remote applies to the Brazil location in this listing; international work from other countries is not established. Original publication date verified from the employer posting, not its search-indexing date. Listed registration deadline: 2027-01-10. Visa sponsorship and relocation support are not disclosed; this posting is not classified as a sponsored relocation opportunity.",
+  "source_url": "https://fcamara.gupy.io/jobs/12871170",
+  "source_key": "gupy:fcamara:12871170",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "company": "Bemol Digital",
+  "job_title": "BEMOL DIGITAL | DATA ENGINEER I",
+  "location": "Brazil",
+  "summary": "Responsibilities cover developing and maintaining technical solutions, data analysis and reporting, technical support and incident resolution, infrastructure, network or cloud operations, requirements analysis and stakeholder collaboration. The responsibilities explicitly mention SQL, ELT, Databricks.",
+  "requirements": "Required qualifications: Technologies/tools mentioned: Python, SQL, Databricks, Spark, PySpark. Knowledge/experience areas: relational databases, data modeling, statistics. Education: completed higher education or a related degree is mentioned; see the source for accepted fields and equivalencies. Experience duration mentioned: 2 years. Check the source for the experience area and whether each duration is mandatory.\n\nPreferred qualifications are not clearly separated in the source; check the full qualifications before applying.",
+  "compensation": "Not disclosed as an unambiguous salary range in the public posting.",
+  "conditions": "Brazil-based opportunity; the source lists remote work. Remote applies to the Brazil location in this listing; international work from other countries is not established. Original publication date verified from the employer posting, not its search-indexing date. Listed registration deadline: 2026-11-30. Visa sponsorship and relocation support are not disclosed; this posting is not classified as a sponsored relocation opportunity. The text offers remote or hybrid work; confirm the specific option with the employer.",
+  "source_url": "https://bemoldigital.gupy.io/jobs/12837197",
+  "source_key": "gupy:bemoldigital:12837197",
+  "published_on": "2026-11-09",
+  "last_checked": "2026-11-14",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

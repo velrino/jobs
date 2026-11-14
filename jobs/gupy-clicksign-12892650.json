@@ -1,0 +1,31 @@
+{
+  "company": "Clicksign",
+  "job_title": "Quality Engineer (QE)",
+  "location": "Brazil",
+  "summary": "Responsibilities cover developing and maintaining technical solutions, software testing and quality assurance, system integration and APIs, technical support and incident resolution, technical architecture and solution design, process automation. The responsibilities explicitly mention APIs.",
+  "requirements": "Required qualifications: Technologies/tools mentioned: SQL, REST, APIs, Git, CI/CD, k6. Knowledge/experience areas: test automation, version control.\n\nPreferred qualifications: Technologies/tools mentioned: TypeScript, Go, Kafka, Grafana, Datadog, Claude, Playwright, Cypress, Selenium, Cucumber. Knowledge/experience areas: microservices, artificial intelligence.",
+  "compensation": "Not disclosed as an unambiguous salary range in the public posting.",
+  "conditions": "Brazil-based opportunity. The employer lists remote work, not worldwide eligibility. Original publication verified from the employer publishedAt field. Visa sponsorship and international relocation support are not disclosed. Listed registration deadline: 2027-01-03.",
+  "source_url": "https://clicksign.gupy.io/jobs/12892650",
+  "source_key": "gupy:clicksign:12892650",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

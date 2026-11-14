@@ -1,0 +1,31 @@
+{
+  "company": "FCamara",
+  "job_title": "Desenvolvedor FullStack .Net/React Sênior",
+  "location": "Brazil",
+  "summary": "Responsibilities cover developing and maintaining technical solutions, software testing and quality assurance, system integration and APIs, technical architecture and solution design, requirements analysis and stakeholder collaboration, user experience and interface work. The responsibilities explicitly mention .NET, React, PostgreSQL, APIs, RabbitMQ, AWS, Docker, Git, Scrum, n8n.",
+  "requirements": "Required qualifications: Technologies/tools mentioned: C#, .NET, ASP.NET, React, SQL, PostgreSQL, API, RabbitMQ, AWS, Docker, GitHub, Git, Jest, Scrum, Kanban. Knowledge/experience areas: version control, agile delivery. Experience duration mentioned: 6-8 years. Check the source for the experience area and whether each duration is mandatory.\n\nPreferred qualifications: Technologies/tools mentioned: Jenkins, GitHub, GitLab, CI/CD, Claude, n8n. Knowledge/experience areas: microservices. English language skills are mentioned; check the source for the required proficiency.",
+  "compensation": "Not disclosed as an unambiguous salary range in the public posting.",
+  "conditions": "Brazil-based opportunity; the source lists remote work. Remote applies to the Brazil location in this listing; international work from other countries is not established. Original publication date verified from the employer posting, not its search-indexing date. Listed registration deadline: 2027-01-11. Visa sponsorship and relocation support are not disclosed; this posting is not classified as a sponsored relocation opportunity.",
+  "source_url": "https://fcamara.gupy.io/jobs/12879597",
+  "source_key": "gupy:fcamara:12879597",
+  "published_on": "2026-11-12",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

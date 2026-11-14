@@ -1,0 +1,31 @@
+{
+  "company": "PUCPR",
+  "job_title": "Analista Inteligência de Dados Jr.",
+  "location": "Curitiba, Paraná, Brazil",
+  "summary": "Responsibilities cover developing and maintaining technical solutions, software testing and quality assurance, technical documentation, technical project delivery. The responsibilities explicitly mention SQL.",
+  "requirements": "Required qualifications: Technologies/tools mentioned: SQL, MySQL, Oracle, Power BI, Tableau. Education: enrollment in a related higher-education or technical course is mentioned; check the accepted courses and semester window. Education: completed higher education or a related degree is mentioned; see the source for accepted fields and equivalencies.\n\nPreferred qualifications are not clearly separated in the source; check the full qualifications before applying.",
+  "compensation": "Not disclosed as an unambiguous salary range in the public posting.",
+  "conditions": "Brazil-based opportunity; the source lists hybrid work. Original publication date verified from the employer posting, not its search-indexing date. Listed registration deadline: 2026-12-14. Visa sponsorship and relocation support are not disclosed; this posting is not classified as a sponsored relocation opportunity.",
+  "source_url": "https://pucpr.gupy.io/jobs/12881456",
+  "source_key": "gupy:pucpr:12881456",
+  "published_on": "2026-11-12",
+  "last_checked": "2026-11-14",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "junior"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

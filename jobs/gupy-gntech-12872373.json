@@ -1,0 +1,31 @@
+{
+  "company": "GnTech Exames",
+  "job_title": "Desenvolvedor de Software Pleno",
+  "location": "Florianópolis, Santa Catarina, Brazil",
+  "summary": "Responsibilities cover developing and maintaining technical solutions, system integration and APIs, technical architecture and solution design, technical documentation. The responsibilities explicitly mention Python, Django, PostgreSQL, REST, APIs, Git, Linux, ERP, CRM.",
+  "requirements": "Required qualifications: Technologies/tools mentioned: JavaScript, Python, Django, SQL, PostgreSQL, REST, APIs, Git, Linux.\n\nPreferred qualifications: Technologies/tools mentioned: React, Node.js, FastAPI, MongoDB, Docker, CI/CD, DevOps. Knowledge/experience areas: microservices.",
+  "compensation": "Not disclosed as an unambiguous salary range in the public posting.",
+  "conditions": "Brazil-based opportunity; the source lists on-site work. Original publication date verified from the employer posting, not its search-indexing date. Listed registration deadline: 2026-12-31. Visa sponsorship and relocation support are not disclosed; this posting is not classified as a sponsored relocation opportunity.",
+  "source_url": "https://gntech.gupy.io/jobs/12872373",
+  "source_key": "gupy:gntech:12872373",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "on-site"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "company": "Leega Consultoria",
+  "job_title": "Engenheiro de Dados e Plataforma de Agentes Sênior (GCP)",
+  "location": "Brazil",
+  "summary": "Responsibilities cover developing and maintaining technical solutions, system integration and APIs, infrastructure, network or cloud operations, technical project delivery. The responsibilities explicitly mention Terraform, CI/CD, LGPD, IAM, BigQuery, MLOps, RAG.",
+  "requirements": "Required qualifications: Technologies/tools mentioned: Python, SQL, GCP, Terraform, GitHub, CI/CD, LGPD, IAM, Airflow, BigQuery, LLM, RAG.\n\nPreferred qualifications: Technologies/tools mentioned: API, GCP, Google Cloud, BigQuery, RAG, LangChain, LangGraph, Gemini. Knowledge/experience areas: machine learning.",
+  "compensation": "Not disclosed as an unambiguous salary range in the public posting.",
+  "conditions": "Brazil-based opportunity; the source lists remote work. Remote applies to the Brazil location in this listing; international work from other countries is not established. Original publication date verified from the employer posting, not its search-indexing date. Listed registration deadline: 2027-01-08. Visa sponsorship and relocation support are not disclosed; this posting is not classified as a sponsored relocation opportunity.",
+  "source_url": "https://leega.gupy.io/jobs/12852154",
+  "source_key": "gupy:leega:12852154",
+  "published_on": "2026-11-09",
+  "last_checked": "2026-11-14",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

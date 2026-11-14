@@ -1,0 +1,33 @@
+{
+  "company": "Accenture",
+  "job_title": "Cientista de Dados Júnior, Pleno e Sênior",
+  "location": "Sao Paulo, Torre Paineira; Maranhão - Porto Alegre; São Paulo - Barueri; Porto Alegre, Rua Uruguai 335; additional Brazil locations in original posting, Brazil",
+  "summary": "Responsibilities cover developing and maintaining technical solutions, data analysis and reporting. The role-specific text mentions ETL, ELT.",
+  "requirements": "Junior: Python/SQL fundamentals, Pandas/Scikit-learn, statistics/ML foundations, data preparation and basic ETL/ELT; willingness to learn NLP, deep learning and cloud.\n\nMid-level: practical ML, Python/SQL, TensorFlow/PyTorch or similar, applied statistics/experiments, large data and ETL/ELT, and AWS/Azure/GCP.\n\nSenior: advanced production ML/deep learning/NLP, model deployment/scaling/monitoring, advanced statistics and pipeline/cloud architecture, with technical direction appropriate to seniority. The source explicitly separates these tracks; senior requirements do not apply wholesale to juniors.",
+  "compensation": "Numerical salary range not disclosed in the public posting; listed benefits are separate from salary.",
+  "conditions": "Brazil-based opportunity. Workday lists remote work; project/client and location conditions in the description still apply. The active public Workday posting is open for applications. Original publication is verified from Workday startDate/postedOn, not the separate search index updateDate. Full-time is explicitly recorded by Workday timeType. Visa sponsorship and international relocation support are not disclosed.",
+  "source_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Cientista-de-Dados---Pleno-e-Snior_R00316703",
+  "source_key": "workday:accenture:R00316703",
+  "published_on": "2026-11-10",
+  "last_checked": "2026-11-14",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "ai-ml"
+  ],
+  "level": [
+    "junior",
+    "mid",
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

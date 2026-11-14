@@ -1,0 +1,31 @@
+{
+  "company": "MTP Métodos e Tecnologia – Brasil",
+  "job_title": "12865061 - Analista de Code Review | Segurança de Aplicações",
+  "location": "Brazil",
+  "summary": "Responsibilities cover developing and maintaining technical solutions, software testing and quality assurance, technical support and incident resolution, infrastructure, network or cloud operations, technical architecture and solution design. The responsibilities explicitly mention Teams, SAST.",
+  "requirements": "Required qualifications: Technologies/tools mentioned: Python, Java, C#, C++, .NET, Node.js, SAST. English language skills are mentioned; check the source for the required proficiency.\n\nPreferred qualifications: Technologies/tools mentioned: AWS, Jenkins, CI/CD, Pentest, Scrum, Kanban. Knowledge/experience areas: microservices, agile delivery, artificial intelligence.",
+  "compensation": "Not disclosed as an unambiguous salary range in the public posting.",
+  "conditions": "Brazil-based opportunity. The employer lists remote work, not worldwide eligibility. Original publication verified from the employer publishedAt field. Visa sponsorship and international relocation support are not disclosed. Listed registration deadline: 2027-01-09.",
+  "source_url": "https://mtpbrasil.gupy.io/jobs/12865061",
+  "source_key": "gupy:mtpbrasil:12865061",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "security"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "company": "Itaú Unibanco",
+  "job_title": "Engenharia de Software Backend Java/Kotlin Jr | Shared Experience IBBA",
+  "location": "São Paulo, Brazil",
+  "summary": "Responsibilities cover developing and maintaining technical solutions, software testing and quality assurance, system integration and APIs, technical documentation. The responsibilities explicitly mention Java, Kotlin, AWS, GitHub, CI/CD.",
+  "requirements": "Required qualifications: Technologies/tools mentioned: Java, Kotlin, HTML, APIs, AWS, Git, Linux. Knowledge/experience areas: microservices, version control. Education: completed higher education or a related degree is mentioned; see the source for accepted fields and equivalencies.\n\nPreferred qualifications are not clearly separated in the source; check the full qualifications before applying.",
+  "compensation": "Not disclosed as an unambiguous salary range in the public posting.",
+  "conditions": "Brazil-based opportunity; the source lists hybrid work. Original publication date verified from the employer posting, not its search-indexing date. Listed registration deadline: 2027-02-08. This is an affirmative/restricted opening; check the original title and posting for the eligible group and required documentation. The source includes shift, rota or on-call conditions; check the schedule before applying. Visa sponsorship and relocation support are not disclosed; this posting is not classified as a sponsored relocation opportunity.",
+  "source_url": "https://vemproitau.gupy.io/jobs/12863024",
+  "source_key": "gupy:vemproitau:12863024",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "junior"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

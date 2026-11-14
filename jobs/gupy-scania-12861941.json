@@ -1,0 +1,31 @@
+{
+  "company": "Scania Latin America",
+  "job_title": "Desenvolvedor FullStack Pleno",
+  "location": "São Bernardo do Campo, São Paulo, Brazil",
+  "summary": "Responsibilities cover developing and maintaining technical solutions, software testing and quality assurance, system integration and APIs, technical support and incident resolution, infrastructure, network or cloud operations. The responsibilities explicitly mention Angular, Vue, SQL, APIs, DevSecOps, Snowflake.",
+  "requirements": "Required qualifications: Technologies/tools mentioned: TypeScript, Angular, Vue, HTML, CSS, SQL, REST, APIs, Azure, Git, CI/CD, DevSecOps, Teams, Databricks, Snowflake, BigQuery, Redshift. Knowledge/experience areas: agile delivery, usability. Education: completed higher education or a related degree is mentioned; see the source for accepted fields and equivalencies. English language skills are mentioned; check the source for the required proficiency.\n\nPreferred qualifications: Technologies/tools mentioned: Python, C#, .NET, DynamoDB, API, AWS, SAS. Knowledge/experience areas: microservices.",
+  "compensation": "Not disclosed as an unambiguous salary range in the public posting.",
+  "conditions": "Brazil-based opportunity; the source lists hybrid work. Original publication date verified from the employer posting, not its search-indexing date. Listed registration deadline: 2026-11-17. Visa sponsorship and relocation support are not disclosed; this posting is not classified as a sponsored relocation opportunity.",
+  "source_url": "https://scania.gupy.io/jobs/12861941",
+  "source_key": "gupy:scania:12861941",
+  "published_on": "2026-11-10",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

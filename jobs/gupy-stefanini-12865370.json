@@ -1,0 +1,31 @@
+{
+  "company": "Stefanini Group",
+  "job_title": "Especialista em Middleware (OpenShift e Kubernetes)",
+  "location": "Brazil",
+  "summary": "Responsibilities cover developing and maintaining technical solutions, system integration and APIs, technical support and incident resolution, infrastructure, network or cloud operations, technical architecture and solution design, requirements analysis and stakeholder collaboration. The responsibilities explicitly mention APIs, Kubernetes, OpenShift, Ansible, Jenkins, Git, Bitbucket, CI/CD, DevOps, Shell, Zabbix, Grafana.",
+  "requirements": "Required: practical middleware/platform operations, troubleshooting/root-cause analysis, automation, technical documentation and architecture support. The role specifically covers Red Hat OpenShift/Kubernetes and critical application platforms; Specialist does not automatically mean Staff.",
+  "compensation": "Not disclosed as an unambiguous salary range in the public posting.",
+  "conditions": "Brazil-based opportunity. The employer lists remote work, not worldwide eligibility. Original publication verified from the employer publishedAt field. Visa sponsorship and international relocation support are not disclosed. Listed registration deadline: 2027-01-09.",
+  "source_url": "https://stefanini.gupy.io/jobs/12865370",
+  "source_key": "gupy:stefanini:12865370",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

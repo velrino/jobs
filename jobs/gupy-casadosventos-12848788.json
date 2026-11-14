@@ -1,0 +1,31 @@
+{
+  "company": "Casa dos Ventos",
+  "job_title": "Analista de Tecnologia Junior (Engenharia de Software)",
+  "location": "Fortaleza, Ceará, Brazil",
+  "summary": "Responsibilities cover developing and maintaining technical solutions, software testing and quality assurance, infrastructure, network or cloud operations, technical architecture and solution design, technical documentation, requirements analysis and stakeholder collaboration. The responsibilities explicitly mention Google Cloud, CI/CD.",
+  "requirements": "Required qualifications: Technologies/tools mentioned: JavaScript, TypeScript, Python, SQL, PostgreSQL, Docker, GitHub, CI/CD, DevOps, Claude, Copilot. Knowledge/experience areas: artificial intelligence, backlog management. English language skills are mentioned; check the source for the required proficiency.\n\nPreferred qualifications: Technologies/tools mentioned: APIs, GCP, Google Cloud, Salesforce, LLMs. Knowledge/experience areas: microservices.",
+  "compensation": "Not disclosed as an unambiguous salary range in the public posting.",
+  "conditions": "Brazil-based opportunity; the source lists on-site work. Original publication date verified from the employer posting, not its search-indexing date. Listed registration deadline: 2027-01-05. Visa sponsorship and relocation support are not disclosed; this posting is not classified as a sponsored relocation opportunity.",
+  "source_url": "https://casadosventos.gupy.io/jobs/12848788",
+  "source_key": "gupy:casadosventos:12848788",
+  "published_on": "2026-11-12",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "junior"
+  ],
+  "work": [
+    "on-site"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

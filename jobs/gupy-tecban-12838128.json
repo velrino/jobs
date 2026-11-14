@@ -1,0 +1,31 @@
+{
+  "company": "Tecban",
+  "job_title": "Especialista II | Tech Lead - Fullstack",
+  "location": "Barueri, São Paulo, Brazil",
+  "summary": "Responsibilities cover developing and maintaining technical solutions, system integration and APIs, infrastructure, network or cloud operations, technical architecture and solution design, process automation.",
+  "requirements": "Required qualifications: Technologies/tools mentioned: Java, Angular, MySQL, PostgreSQL, Oracle, REST, APIs, AWS. Knowledge/experience areas: microservices, relational databases, version control.\n\nPreferred qualifications: Technologies/tools mentioned: Python, C#, .NET, Node.js, CI/CD, DevOps. Knowledge/experience areas: artificial intelligence.",
+  "compensation": "Not disclosed as an unambiguous salary range in the public posting.",
+  "conditions": "Brazil-based opportunity; the source lists hybrid work. Original publication date verified from the employer posting, not its search-indexing date. Listed registration deadline: 2027-01-03. Visa sponsorship and relocation support are not disclosed; this posting is not classified as a sponsored relocation opportunity.",
+  "source_url": "https://tecban.gupy.io/jobs/12838128",
+  "source_key": "gupy:tecban:12838128",
+  "published_on": "2026-11-09",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "lead"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

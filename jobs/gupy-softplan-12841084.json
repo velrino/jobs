@@ -1,0 +1,31 @@
+{
+  "company": "Softplan",
+  "job_title": "Pessoa Administradora de Banco de Dados Sr (Remoto) - 1084",
+  "location": "Brazil",
+  "summary": "Responsibilities cover developing and maintaining technical solutions, software testing and quality assurance, data analysis and reporting, technical support and incident resolution, infrastructure, network or cloud operations, technical architecture and solution design. The responsibilities explicitly mention SQL, MySQL, PostgreSQL, SQL Server, Oracle, MongoDB, AWS, Azure, CI/CD, Zabbix, Grafana, Datadog.",
+  "requirements": "Required qualifications: Technologies/tools mentioned: Python, SQL, MySQL, PostgreSQL, SQL Server, Oracle, AWS, Azure, GitLab, Git, CI/CD, Linux, Windows, Windows Server, PowerShell, Shell, Zabbix, Grafana, Datadog, LLMs. Knowledge/experience areas: version control, statistics.\n\nPreferred qualifications: Technologies/tools mentioned: Oracle, MongoDB, AWS, Azure, Kubernetes, Terraform, Ansible, LGPD, LLMs, RAG. Knowledge/experience areas: artificial intelligence. Spanish language skills are mentioned; check the source for the required proficiency.",
+  "compensation": "Not disclosed as an unambiguous salary range in the public posting.",
+  "conditions": "Brazil-based opportunity; the source lists remote work. Remote applies to the Brazil location in this listing; international work from other countries is not established. Original publication date verified from the employer posting, not its search-indexing date. Listed registration deadline: 2026-11-20. The source includes shift, rota or on-call conditions; check the schedule before applying. Visa sponsorship and relocation support are not disclosed; this posting is not classified as a sponsored relocation opportunity.",
+  "source_url": "https://softplan.gupy.io/jobs/12841084",
+  "source_key": "gupy:softplan:12841084",
+  "published_on": "2026-11-09",
+  "last_checked": "2026-11-14",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

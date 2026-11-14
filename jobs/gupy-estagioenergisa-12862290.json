@@ -1,0 +1,32 @@
+{
+  "company": "Energisa Estágio",
+  "job_title": "ESTÁGIO - PROJETOS E INFRAESTRUTURA TI (DESENVOLVIMENTO DE SOLUÇÕES COM IA)",
+  "location": "Cataguases, Minas Gerais, Brazil",
+  "summary": "Responsibilities cover developing and maintaining technical solutions, software testing and quality assurance, system integration and APIs, technical support and incident resolution, technical documentation, process automation. The responsibilities explicitly mention APIs, RAG, Copilot, Power Automate.",
+  "requirements": "Required qualifications: Technologies/tools mentioned: JavaScript, Python, SQL, REST, APIs, Azure, GitHub, Git, Azure DevOps, DevOps, PowerShell, LLMs, RAG, OpenAI, Copilot, Power Automate. Knowledge/experience areas: programming fundamentals, artificial intelligence, data analysis. Education: enrollment in a related higher-education or technical course is mentioned; check the accepted courses and semester window.\n\nPreferred qualifications: Technologies/tools mentioned: Python, APIs, LLMs, RAG, Copilot, Power Automate.",
+  "compensation": "Not disclosed as an unambiguous salary range in the public posting.",
+  "conditions": "Brazil-based opportunity; the source lists on-site work. Original publication date verified from the employer posting, not its search-indexing date. Listed registration deadline: 2026-11-17. Visa sponsorship and relocation support are not disclosed; this posting is not classified as a sponsored relocation opportunity.",
+  "source_url": "https://estagioenergisa.gupy.io/jobs/12862290",
+  "source_key": "gupy:estagioenergisa:12862290",
+  "published_on": "2026-11-10",
+  "last_checked": "2026-11-14",
+  "role": [
+    "it"
+  ],
+  "specialty": [
+    "ai-ml",
+    "platform"
+  ],
+  "level": [
+    "intern"
+  ],
+  "work": [
+    "on-site"
+  ],
+  "type": [
+    "internship"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "company": "CERN",
+  "job_title": "Junior Distributed Storage Engineer (IT-SD-PDS-2026-246-GRAE)",
+  "location": "Geneva, GENEVA, Switzerland",
+  "summary": "Operate and evolve CERN EOS distributed storage, troubleshoot across software/hardware/networks and improve automation, observability and reliability at exabyte scale.",
+  "requirements": "Required: bachelor’s or master’s in software engineering or a related field, at most two years of professional experience after graduation by the application deadline, nationality of a CERN Member or Associate Member State, and no prior CERN fellow/graduate contract. PhD holders and applicants without a university degree are ineligible. Linux/network/storage knowledge, C++/Python/Git/CI-CD, collaboration and spoken/written English are expected; commit to learning French.",
+  "compensation": "CHF 5,266 or 5,793 net per month, depending on degree, plus stated health/pension benefits and conditional family allowances.",
+  "conditions": "International mobility: confirmed employer support. Brazil is a CERN Associate Member State, making Brazilian nationality eligible for this programme subject to the remaining criteria. Fully on-site in Geneva; 24-month contract, extendable up to 36 months. Forty hours per week; possible stand-by, night, Sunday and holiday work. Target start: 2027-01-01. Relocation installation/travel assistance is conditional on individual circumstances. The posting is active and its original releasedDate is within seven days. CERN membership source: https://home.cern/about/who-we-are/our-stakeholders",
+  "source_url": "https://jobs.smartrecruiters.com/CERN/744000160887379-junior-distributed-storage-engineer-it-sd-pds-2026-246-grae-",
+  "source_key": "smartrecruiters:cern:744000160887379",
+  "published_on": "2026-11-10",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "junior"
+  ],
+  "work": [
+    "on-site"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "europe"
+  ]
+}

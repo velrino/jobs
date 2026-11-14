@@ -1,0 +1,31 @@
+{
+  "company": "Moveon Consulting - Servicos de Consultoria Ltda",
+  "job_title": "Analista de Suporte Pleno",
+  "location": "São Paulo, Brazil",
+  "summary": "Responsibilities cover system integration and APIs, technical support and incident resolution, infrastructure, network or cloud operations, technical documentation, technical project delivery. The responsibilities explicitly mention APIs.",
+  "requirements": "Required qualifications: Technologies/tools mentioned: JavaScript, Python, Java, C#, REST, SOAP, APIs, Docker, Kubernetes, Git, Linux, Windows, PowerShell, Bash, TCP/IP, Postman. Education: completed higher education or a related degree is mentioned; see the source for accepted fields and equivalencies.\n\nPreferred qualifications are not clearly separated in the source; check the full qualifications before applying.",
+  "compensation": "Contractor remuneration: BRL 7,000.00 per month. Hybrid, three on-site days per week in Morumbi, São Paulo.",
+  "conditions": "Brazil-based opportunity; the source lists hybrid work. Original publication date verified from the employer posting, not its search-indexing date. Listed registration deadline: 2027-01-11. Travel availability is mentioned. The source includes shift, rota or on-call conditions; check the schedule before applying. Visa sponsorship and relocation support are not disclosed; this posting is not classified as a sponsored relocation opportunity.",
+  "source_url": "https://moveon.gupy.io/jobs/12878681",
+  "source_key": "gupy:moveon:12878681",
+  "published_on": "2026-11-12",
+  "last_checked": "2026-11-14",
+  "role": [
+    "it"
+  ],
+  "specialty": [
+    "it-support"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "company": "CXP Brasil",
+  "job_title": "Analista de Suporte Junior - Monitoração",
+  "location": "Barueri, São Paulo, Brazil",
+  "summary": "Responsibilities cover data analysis and reporting, technical support and incident resolution, infrastructure, network or cloud operations, technical documentation. The responsibilities explicitly mention ServiceNow, Jira.",
+  "requirements": "Required qualifications: The employer lists role-specific qualifications; consult the original posting for the complete mandatory criteria.\n\nPreferred qualifications: Technologies/tools mentioned: Linux, Windows, Windows Server, TCP/IP, DNS, VPN, Zabbix, Grafana, Datadog, New Relic. Knowledge/experience areas: computer networking. Education: enrollment in a related higher-education or technical course is mentioned; check the accepted courses and semester window. Education: completed higher education or a related degree is mentioned; see the source for accepted fields and equivalencies.",
+  "compensation": "Not disclosed as an unambiguous salary range in the public posting.",
+  "conditions": "Brazil-based opportunity; the source lists hybrid work. Original publication date verified from the employer posting, not its search-indexing date. Listed registration deadline: 2027-01-08. The source includes shift, rota or on-call conditions; check the schedule before applying. Visa sponsorship and relocation support are not disclosed; this posting is not classified as a sponsored relocation opportunity.",
+  "source_url": "https://cxpbrasil.gupy.io/jobs/12855709",
+  "source_key": "gupy:cxpbrasil:12855709",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-14",
+  "role": [
+    "it"
+  ],
+  "specialty": [
+    "it-support"
+  ],
+  "level": [
+    "junior"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

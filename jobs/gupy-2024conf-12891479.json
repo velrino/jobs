@@ -1,0 +1,31 @@
+{
+  "company": "EMPRESA CONFIDENCIAL",
+  "job_title": "Desenvolvedor Full Stack",
+  "location": "Brazil",
+  "summary": "Responsibilities cover developing and maintaining technical solutions, software testing and quality assurance, system integration and APIs, technical architecture and solution design, technical documentation, requirements analysis and stakeholder collaboration. The responsibilities explicitly mention JavaScript, PHP, Laravel, React, Vue, APIs.",
+  "requirements": "Required qualifications: Technologies/tools mentioned: JavaScript, PHP, Laravel, React, Vue, MySQL, PostgreSQL, APIs, RabbitMQ, Git. Knowledge/experience areas: microservices, relational databases, data modeling, version control.\n\nPreferred qualifications are not clearly separated in the source; check the full qualifications before applying.",
+  "compensation": "Not disclosed as an unambiguous salary range in the public posting.",
+  "conditions": "Brazil-based opportunity; the source lists remote work. Remote applies to the Brazil location in this listing; international work from other countries is not established. Original publication date verified from the employer posting, not its search-indexing date. Listed registration deadline: 2027-01-31. Visa sponsorship and relocation support are not disclosed; this posting is not classified as a sponsored relocation opportunity.",
+  "source_url": "https://2024conf.gupy.io/jobs/12891479",
+  "source_key": "gupy:2024conf:12891479",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

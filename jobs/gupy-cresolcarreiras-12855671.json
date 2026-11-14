@@ -1,0 +1,31 @@
+{
+  "company": "Cresol",
+  "job_title": "Desenvolvedor de Sistemas| Backend - Java | Pix e Open Finance | Cresol CSC (Remoto)",
+  "location": "Brazil",
+  "summary": "Responsibilities cover developing and maintaining technical solutions, system integration and APIs, technical support and incident resolution. The responsibilities explicitly mention REST, APIs.",
+  "requirements": "Required qualifications: Technologies/tools mentioned: Java, Quarkus, REST, APIs, RabbitMQ, Azure, Docker, Git, CI/CD, DevOps. Knowledge/experience areas: microservices.\n\nPreferred qualifications: The employer lists role-specific qualifications; consult the original posting for the complete mandatory criteria.",
+  "compensation": "Not disclosed as an unambiguous salary range in the public posting.",
+  "conditions": "Brazil-based opportunity; the source lists remote work. Remote applies to the Brazil location in this listing; international work from other countries is not established. Original publication date verified from the employer posting, not its search-indexing date. Listed registration deadline: 2027-01-08. This is an affirmative/restricted opening; check the original title and posting for the eligible group and required documentation. Visa sponsorship and relocation support are not disclosed; this posting is not classified as a sponsored relocation opportunity.",
+  "source_url": "https://cresolcarreiras.gupy.io/jobs/12855671",
+  "source_key": "gupy:cresolcarreiras:12855671",
+  "published_on": "2026-11-09",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
