@@ -1,0 +1,31 @@
+{
+  "company": "Jump",
+  "job_title": "Engenheiro(a) de Dados | Databricks",
+  "location": "Remote, Brazil",
+  "summary": "Build Databricks ingestion pipelines and integrate relational databases, APIs, SharePoint, files, corporate systems and data lakes. Organize Bronze/Silver/Gold layers, manage Unity Catalog governance and access, transform data with SQL/PySpark/Spark, monitor quality and optimize workloads, and automate deployments.",
+  "requirements": "Senior-level position. Scope includes Databricks Asset Bundles, Azure Data Factory, Unity Catalog permissions and lineage, SQL, PySpark and Spark. Power BI is a plus. The employer does not disclose a minimum year count, degree or language requirement.",
+  "compensation": "Not disclosed.",
+  "conditions": "Senior role. Remote work in Brazil and PJ contracting are explicitly confirmed by the employer. Daily hours and contract duration are not disclosed. Original employer publishedAt, createdAt and lastPublishedAt are all 2026-11-12T19:30:19.988Z. Matching public vacancy, responsibilities and application form verified in the browser.",
+  "source_url": "https://jump.inhire.app/vagas/7fdc7dd4-b40a-4212-9742-d3d8309816ff/engenheiro-a-de-dados-databricks",
+  "source_key": "inhire:jump:7fdc7dd4-b40a-4212-9742-d3d8309816ff",
+  "published_on": "2026-11-12",
+  "last_checked": "2026-11-14",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
