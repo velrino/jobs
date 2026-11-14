@@ -1,0 +1,31 @@
+{
+  "company": "Mimix AI",
+  "job_title": "Desenvolvedor(a) Backend Pleno - White Label e Plataforma",
+  "location": "Remote, Brazil",
+  "summary": "Maintain backend services and integrations for white-label robotics operations, investigate production failures and deliver tested platform features.",
+  "requirements": "Required: backend application development and maintenance, APIs/integrations, production troubleshooting and clear communication. Preferred: white-label or multi-client product experience. No degree, minimum year count or specific stack is stated.",
+  "compensation": "Compensation not disclosed in the original public announcement.",
+  "conditions": "Brazilian PJ service-provider arrangement; hours and project duration are not disclosed. The original public announcement is the open backend-br/vagas issue, with publication verified from created_at; updated_at is not used as publication. The company website was checked separately, but does not independently establish the vacancy details. No visa sponsorship or relocation support is confirmed.",
+  "source_url": "https://github.com/backend-br/vagas/issues/12494",
+  "source_key": "github:backend-br-vagas:12494",
+  "published_on": "2026-11-09",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "company": "MKdigital",
+  "job_title": "Desenvolvedor(a) Back-end Júnior - Python / AI Coding & Agentic AI",
+  "location": "Remote, Brazil (any city)",
+  "summary": "Develop an AI bookkeeping platform with backend APIs, document processing, accounting workflows, database integrations and AI agents; contribute to specification, testing and deployment.",
+  "requirements": "Required: completed or near-completed relevant computing/engineering degree, programming fundamentals, a language preferably Python, Git, interest in Linux and applied AI, independent investigation, communication and willingness to learn accounting/finance. Prior professional experience is not mandatory. Preferred: AI coding agents, personal/open-source AI projects, worktrees, Docker/CI/CD/cloud, Python/FastAPI/React/APIs/databases, document/graph/vision tools, business-process analysis, technical English and German.",
+  "compensation": "BRL 72.50 per hour of services actually delivered; no guaranteed minimum volume. Annual planning estimate BRL 120,060 is not a guaranteed annual salary.",
+  "conditions": "Estimated 12-month non-exclusive service engagement, up to approximately 36 hours/week without fixed mandatory hours. Own computer and stable internet required; employer covers required AI tools, APIs and cloud infrastructure. Preference for ME/CNPJ invoicing; initial autonomous CPF engagement may be accepted for up to three months, with CNPJ required for continuation. Weekly technical reviews and roughly two short alignment meetings per week are expected. The original public announcement is the open backend-br/vagas issue, with publication verified from created_at; updated_at is not used as publication. The company website was checked separately, but does not independently establish the vacancy details. No visa sponsorship or relocation support is confirmed.",
+  "source_url": "https://github.com/backend-br/vagas/issues/12493",
+  "source_key": "github:backend-br-vagas:12493",
+  "published_on": "2026-11-07",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "junior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
