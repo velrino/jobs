@@ -1,0 +1,31 @@
+{
+  "company": "Go.k Digital",
+  "job_title": "Cientista de Dados Sr.",
+  "location": "Remote, Brazil",
+  "summary": "Build predictive models and rigorous statistical analyses for credit, collections, sales and operations; define targets/baselines, engineer features, validate out-of-time performance, document limitations and present business recommendations.",
+  "requirements": "Relevant quantitative degree; practical predictive modeling and validation; Python with pandas, scikit-learn, statsmodels and gradient boosting; advanced analytical SQL; Spark and cloud analytics; statistical inference, causality, experimental design, selection bias, class imbalance and asymmetric error costs; Git and peer review. Credit modeling, interpretability, time series/survival models and independent validation in regulated environments are preferred.",
+  "compensation": "Not disclosed.",
+  "conditions": "The active employer listing explicitly specifies remote work and a Brazil location. PJ contract; weekly hours and contract duration are not disclosed. The original title specifies seniority (Sr.); platform metadata also calls the role Specialist, without establishing Staff/Principal level. Original publication verified from employer JobPosting.datePosted: 2026-11-13. No office-attendance requirement is stated in the description.",
+  "source_url": "https://vagasgok.vagas.solides.com.br/vaga/953337",
+  "source_key": "solides:vagasgok:953337",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-14",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "ai-ml"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

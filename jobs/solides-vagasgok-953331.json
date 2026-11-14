@@ -1,0 +1,31 @@
+{
+  "company": "Go.k Digital",
+  "job_title": "Engenheiro(a) de IA Sr.",
+  "location": "Remote, Brazil",
+  "summary": "Build the production platform for AI models and agents in a financial institution: controlled delivery, MLOps/LLMOps, RAG/agent integrations, monitoring, guardrails and operational recovery.",
+  "requirements": "Software engineering for data/AI systems; Python and Spark; MLOps/LLMOps; agent runtime/state/checkpoint/recovery design; context engineering, skills/tool calling/MCP and RAG evaluation; cloud, containers, CI/CD and infrastructure as code; latency/throughput/cost/failure analysis; AI security and regulated-environment auditability. Financial services, vector databases/model serving, LangGraph/LangChain and AI FinOps are preferred.",
+  "compensation": "Not disclosed.",
+  "conditions": "The active employer listing explicitly specifies remote work and a Brazil location. PJ contract; weekly hours and contract duration are not disclosed. The original title specifies seniority (Sr.); platform metadata also calls the role Specialist, without establishing Staff/Principal level. Original publication verified from employer JobPosting.datePosted: 2026-11-13. No office-attendance requirement is stated in the description.",
+  "source_url": "https://vagasgok.vagas.solides.com.br/vaga/953331",
+  "source_key": "solides:vagasgok:953331",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "ai-ml"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
