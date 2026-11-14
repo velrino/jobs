@@ -1,0 +1,31 @@
+{
+  "company": "Grupo Boticário",
+  "job_title": "Backend Node.js Specialist I",
+  "location": "Brazil",
+  "summary": "Design, develop and maintain production software, collaborating on architecture, automated testing and reliable releases.",
+  "requirements": "Node.js, automated tests, relational/NoSQL databases, AWS, messaging and production observability.",
+  "compensation": "No numerical salary range disclosed in the reviewed source.",
+  "conditions": "Remote in Brazil, confirmed by the employer posting metadata. Permanent employee vacancy; confirm weekly hours, benefits and contractual terms. Original title: Pessoa Desenvolvedora BackEnd  NodeJs Especialista I (Venda Direta). Applications close on 2027-01-11.",
+  "source_url": "https://grupoboticario.gupy.io/jobs/12882517",
+  "source_key": "gupy:grupoboticario:12882517",
+  "published_on": "2026-11-12",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

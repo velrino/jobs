@@ -1,0 +1,31 @@
+{
+  "company": "Magalu Cloud",
+  "job_title": "Senior Full-Stack Developer",
+  "location": "Brazil",
+  "summary": "Design, develop and maintain production software, collaborating on architecture, automated testing and reliable releases.",
+  "requirements": "Go, distributed systems, REST/gRPC, Kubernetes, cloud operations, messaging and AI-assisted coding.",
+  "compensation": "No numerical salary range disclosed in the reviewed source.",
+  "conditions": "Remote in Brazil. CLT employment at Magalu Cloud; the description emphasizes Go backend engineering despite the full-stack title. Confirm working hours and commercial terms.",
+  "source_url": "https://magazineluiza.inhire.app/magalucloud/vagas/1dccd95d-2e30-470a-a0c6-bf08f693e211/desenvolvedora-full-stack-senior",
+  "source_key": "inhire:magazineluiza:1dccd95d-2e30-470a-a0c6-bf08f693e211",
+  "published_on": "2026-11-10",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

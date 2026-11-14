@@ -1,0 +1,31 @@
+{
+  "company": "Montreal Tecnologia e Inovação",
+  "job_title": "Senior Data Scientist — AI Agents",
+  "location": "Brazil",
+  "summary": "Build and integrate machine-learning or AI solutions, taking analytical and engineering work from experimentation into practical use.",
+  "requirements": "Azure AI Foundry/OpenAI/Search, Python, RAG, function calling, MCP and production AI integration.",
+  "compensation": "No numerical salary range disclosed in the reviewed source.",
+  "conditions": "Remote in Brazil, confirmed by the employer posting metadata. Permanent employee vacancy; confirm weekly hours, benefits and contractual terms. Original title: Cientista de Dados Sênior. Applications close on 2027-01-03.",
+  "source_url": "https://montreal.gupy.io/jobs/12834716",
+  "source_key": "gupy:montreal:12834716",
+  "published_on": "2026-11-09",
+  "last_checked": "2026-11-13",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "ai-ml"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "company": "Quality Digital",
+  "job_title": "Senior VTEX Backend Developer",
+  "location": "Brazil",
+  "summary": "Develop VTEX commerce services and integrations, improving API reliability, security and performance.",
+  "requirements": "Go or comparable backend languages, VTEX APIs, resilient integrations, Redis and automated tests.",
+  "compensation": "No numerical salary range disclosed in the reviewed source.",
+  "conditions": "Remote in Brazil, confirmed by the employer posting metadata. Permanent employee vacancy; confirm weekly hours, benefits and contractual terms. Original title: 12879633 -PESSOA DESENVOLVEDORA SÊNIOR VTEX (BACK-END). Applications close on 2027-01-11.",
+  "source_url": "https://qualitydigital.gupy.io/jobs/12879633",
+  "source_key": "gupy:qualitydigital:12879633",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "company": "Compass UOL",
+  "job_title": "Senior Data Scientist — Machine Learning & AI",
+  "location": "Brazil",
+  "summary": "Build and integrate machine-learning or AI solutions, taking analytical and engineering work from experimentation into practical use.",
+  "requirements": "Senior applied data science, Python, Streamlit, deep-learning frameworks, MLflow and generative AI.",
+  "compensation": "No numerical salary range disclosed in the reviewed source.",
+  "conditions": "Remote in Brazil, confirmed by the employer posting metadata. Permanent employee vacancy; confirm weekly hours, benefits and contractual terms. Original title: Cientista de Dados Sênior (Machine Learning & IA) Senior | Remote. Applications close on 2026-12-31.",
+  "source_url": "https://compass.gupy.io/jobs/12882009",
+  "source_key": "gupy:compass:12882009",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-13",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "ai-ml"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

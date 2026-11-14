@@ -1,0 +1,31 @@
+{
+  "company": "Join Tecnologia",
+  "job_title": "Senior Data Administrator",
+  "location": "Brazil",
+  "summary": "Maintain data models, metadata and governance standards while translating business information needs into reliable database structures.",
+  "requirements": "Relevant completed degree, five years in data administration/modeling, advanced SQL Server and T-SQL.",
+  "compensation": "No numerical salary range disclosed in the reviewed source.",
+  "conditions": "Remote in Brazil, confirmed by the employer posting metadata. Permanent employee vacancy; confirm weekly hours, benefits and contractual terms. Original title: Administrador de Dados SR. Applications close on 2027-01-09.",
+  "source_url": "https://jointecnologia.gupy.io/jobs/12868682",
+  "source_key": "gupy:jointecnologia:12868682",
+  "published_on": "2026-11-10",
+  "last_checked": "2026-11-13",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

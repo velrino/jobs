@@ -1,0 +1,31 @@
+{
+  "company": "Grupo Boticário",
+  "job_title": "Analytics Engineer III — FP&A",
+  "location": "Brazil",
+  "summary": "Develop governed analytical data models and transformations supporting financial planning and business decisions.",
+  "requirements": "Advanced SQL, modern data architecture, governance and translating finance requirements into scalable data solutions.",
+  "compensation": "No numerical salary range disclosed in the reviewed source.",
+  "conditions": "Remote in Brazil, confirmed by the employer posting metadata. Permanent employee vacancy; confirm weekly hours, benefits and contractual terms. Original title: Analytics Engineer III (Diretoria de Dados - FP&A). Applications close on 2026-11-18.",
+  "source_url": "https://grupoboticario.gupy.io/jobs/12891414",
+  "source_key": "gupy:grupoboticario:12891414",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-13",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

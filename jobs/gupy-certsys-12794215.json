@@ -1,0 +1,31 @@
+{
+  "company": "Certsys",
+  "job_title": "Data Administrator",
+  "location": "Brazil",
+  "summary": "Maintain data models, metadata and governance standards while translating business information needs into reliable database structures.",
+  "requirements": "Conceptual/logical data modeling, metadata, governance, SQL/NoSQL, PowerDesigner and relevant higher education.",
+  "compensation": "No numerical salary range disclosed in the reviewed source.",
+  "conditions": "Remote in Brazil, confirmed by the employer posting metadata. Permanent employee vacancy; confirm weekly hours, benefits and contractual terms. Original title: ADMINISTRADOR DE DADOS. Applications close on 2026-12-26.",
+  "source_url": "https://certsys.gupy.io/jobs/12794215",
+  "source_key": "gupy:certsys:12794215",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-13",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "company": "Quality Digital",
+  "job_title": "Senior Backend Developer — .NET",
+  "location": "Brazil",
+  "summary": "Design, develop and maintain production software, collaborating on architecture, automated testing and reliable releases.",
+  "requirements": "C#/.NET, SQL Server, legacy-system analysis, AI-assisted coding and unit/integration tests.",
+  "compensation": "No numerical salary range disclosed in the reviewed source.",
+  "conditions": "Remote in Brazil, confirmed by the employer posting metadata. Permanent employee vacancy; confirm weekly hours, benefits and contractual terms. Original title: PESSOA DESENVOLVEDORA SÊNIOR (BACK-END). Applications close on 2027-01-03.",
+  "source_url": "https://qualitydigital.gupy.io/jobs/12837894",
+  "source_key": "gupy:qualitydigital:12837894",
+  "published_on": "2026-11-09",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

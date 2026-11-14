@@ -1,0 +1,31 @@
+{
+  "company": "Stefanini",
+  "job_title": "Mid-Level Full-Stack Developer — Java/Angular",
+  "location": "Brazil",
+  "summary": "Design, develop and maintain production software, collaborating on architecture, automated testing and reliable releases.",
+  "requirements": "Completed relevant degree, Java/Spring Boot, Angular/TypeScript, REST/microservices and SQL.",
+  "compensation": "No numerical salary range disclosed in the reviewed source.",
+  "conditions": "Remote in Brazil, confirmed by the employer posting metadata. Permanent employee vacancy; confirm weekly hours, benefits and contractual terms. Original title: Desenvolvedor Full Stack Pleno | Java e Angular. Applications close on 2027-01-08.",
+  "source_url": "https://stefanini.gupy.io/jobs/12855143",
+  "source_key": "gupy:stefanini:12855143",
+  "published_on": "2026-11-09",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

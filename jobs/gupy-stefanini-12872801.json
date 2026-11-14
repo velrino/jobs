@@ -1,0 +1,31 @@
+{
+  "company": "Stefanini",
+  "job_title": "Mid-Level Developer Analyst — Cybersecurity",
+  "location": "Brazil",
+  "summary": "Build Python pipelines and graph-based data integrations for cybersecurity analysis and security operations.",
+  "requirements": "Three years in Python data engineering, security-log pipelines, Neo4j/Cypher and SQL.",
+  "compensation": "No numerical salary range disclosed in the reviewed source.",
+  "conditions": "Remote in Brazil, confirmed by the employer posting metadata. Permanent employee vacancy; confirm weekly hours, benefits and contractual terms. Original title: Analista Desenvolvedor Pleno (Cibersegurança). Applications close on 2027-01-10.",
+  "source_url": "https://stefanini.gupy.io/jobs/12872801",
+  "source_key": "gupy:stefanini:12872801",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "security"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

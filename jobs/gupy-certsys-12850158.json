@@ -1,0 +1,31 @@
+{
+  "company": "Certsys",
+  "job_title": "Java Developer",
+  "location": "Brazil",
+  "summary": "Design, develop and maintain production software, collaborating on architecture, automated testing and reliable releases.",
+  "requirements": "Java enterprise applications, microservices, REST APIs, Docker/Kubernetes, SQL and CI/CD.",
+  "compensation": "No numerical salary range disclosed in the reviewed source.",
+  "conditions": "Remote in Brazil, confirmed by the employer posting metadata. Permanent employee vacancy; confirm weekly hours, benefits and contractual terms. Original title: DESENVOLVEDOR BAIXA PLATAFORMA - JAVA. Applications close on 2027-01-05.",
+  "source_url": "https://certsys.gupy.io/jobs/12850158",
+  "source_key": "gupy:certsys:12850158",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

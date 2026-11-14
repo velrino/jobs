@@ -1,0 +1,31 @@
+{
+  "company": "ICON Solutions",
+  "job_title": "Staff Software Engineer",
+  "location": "Brazil",
+  "summary": "Design, develop and maintain production software, collaborating on architecture, automated testing and reliable releases.",
+  "requirements": "Full-stack engineering, distributed architecture, data-informed technical decisions and production ownership. Spring and messaging are advantages.",
+  "compensation": "No numerical salary range disclosed in the reviewed source.",
+  "conditions": "Remote in Brazil. PJ contractor role supporting logistics platforms. Confirm working hours and commercial terms.",
+  "source_url": "https://iconit.inhire.app/vagas/9e930b1f-9bb0-4972-83f7-b7d005e07921/staff-software-engineer-remoto",
+  "source_key": "inhire:iconit:9e930b1f-9bb0-4972-83f7-b7d005e07921",
+  "published_on": "2026-11-12",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "staff"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
