@@ -1,0 +1,31 @@
+{
+  "company": "Jump",
+  "job_title": "Analista Data Quality",
+  "location": "Remote, Brazil",
+  "summary": "Structure and evolve data-quality rules and processes for a large financial-sector client. Catalog and implement validation rules, define quality metrics and contracts, investigate root causes and integrate checks into pipelines with engineering and business teams.",
+  "requirements": "Solid data-quality experience covering profiling, rules, metrics and monitoring; strong SQL; PySpark knowledge; experience with DQX, Great Expectations, Deequ or similar frameworks; data-governance knowledge. Preferred: Databricks/DQX and financial-sector or regulated environments. No minimum year count, degree or language requirement is disclosed.",
+  "compensation": "Not disclosed.",
+  "conditions": "Senior role. Remote work in Brazil and CLT employment are explicitly confirmed by the employer. Daily hours and contract duration are not disclosed. Original employer publishedAt, createdAt and lastPublishedAt are all 2026-11-11T20:35:00.882Z. Matching public vacancy, responsibilities and application form verified in the browser.",
+  "source_url": "https://jump.inhire.app/vagas/0f2082f2-ee80-478d-a319-5d9512c17456/analista-data-quality",
+  "source_key": "inhire:jump:0f2082f2-ee80-478d-a319-5d9512c17456",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-14",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
