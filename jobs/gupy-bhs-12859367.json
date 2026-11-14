@@ -1,0 +1,31 @@
+{
+  "company": "BHS",
+  "job_title": "Analista de Jornadas Digitais Sênior (Home Office)",
+  "location": "Remote, Brazil",
+  "summary": "Support and monitor WhatsApp digital journeys; triage incidents, collect evidence, escalate complex issues, track resolutions and SLAs, validate fixes and maintain troubleshooting documentation.",
+  "requirements": "Ticketing tools; advanced Excel; Power BI; SQL Server queries and investigation; basic APIs/integrations; testing, acceptance validation and incident documentation. Systems support, incident/root-cause analysis, observability and agile methods are preferred.",
+  "compensation": "Not disclosed.",
+  "conditions": "The title explicitly specifies home-office work, and the active listing specifies remote work in Brazil. Permanent employment; working hours are not disclosed. Original publication verified from the employer publishedAt field: 2026-11-09. Registration deadline: 2027-01-08.",
+  "source_url": "https://bhs.gupy.io/jobs/12859367",
+  "source_key": "gupy:bhs:12859367",
+  "published_on": "2026-11-09",
+  "last_checked": "2026-11-14",
+  "role": [
+    "it"
+  ],
+  "specialty": [
+    "it-support"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

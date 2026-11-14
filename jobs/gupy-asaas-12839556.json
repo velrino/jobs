@@ -1,0 +1,31 @@
+{
+  "company": "Asaas",
+  "job_title": "Analista de Governança em Identidades e Acessos Sênior (IGA)",
+  "location": "Remote, Brazil",
+  "summary": "Govern identity and access lifecycles, access certifications, RBAC/SoD matrices and privileged/non-human identities; support audits, security controls and workflow automation.",
+  "requirements": "IAM/IGA/PAM, SSO and MFA; RBAC/SoD implementation; identity onboarding/moves/offboarding and access reviews; clear policy/procedure documentation; familiarity with PCI-DSS, ISO 27001/27002 and BCB 85/2021; IGA/IAM and password-vault tools; basic cloud architecture. SOX, n8n, Senhasegura/Keeper, regulated-finance experience and security certifications are preferred.",
+  "compensation": "Not disclosed.",
+  "conditions": "CLT; eight hours per day, Monday to Friday. The employer explicitly permits remote/home-office work for applicants outside Joinville. Original publication verified from the employer publishedAt field: 2026-11-13. Registration deadline: 2027-01-04.",
+  "source_url": "https://asaas.gupy.io/jobs/12839556",
+  "source_key": "gupy:asaas:12839556",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-14",
+  "role": [
+    "it"
+  ],
+  "specialty": [
+    "security"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

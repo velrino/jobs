@@ -1,0 +1,31 @@
+{
+  "company": "Pagaleve",
+  "job_title": "Analista de Red Team Sênior",
+  "location": "Remote, Brazil",
+  "summary": "Build a continuous LLM-based pentesting agent for the company staging environment and CI/CD; conduct manual web/API/mobile/AWS pentests and red/purple-team exercises, report findings and validate fixes.",
+  "requirements": "At least five years in offensive security with end-to-end web/API pentests; OWASP web/API Top 10, authentication/authorization and business-logic testing; Burp Suite; fluent Python or Go/TypeScript and custom tooling; practical LLM agents/tool use; offensive AWS IAM/cloud knowledge; CI/CD integration; clear reports and disciplined scope/ethics. Practical certifications, fintech/Pix, mobile testing, agent evaluation and Terraform/containers are preferred.",
+  "compensation": "Not disclosed.",
+  "conditions": "PJ contract; the employer explicitly specifies remote work and the active vacancy location is Brazil. Testing is exclusively against the company own authorized surface; the role includes technical mentorship, without establishing a people-manager position. Hours and duration are not disclosed. Original publication verified from the employer publishedAt field: 2026-11-09. Registration deadline: 2027-03-31.",
+  "source_url": "https://pagaleve.gupy.io/jobs/12855363",
+  "source_key": "gupy:pagaleve:12855363",
+  "published_on": "2026-11-09",
+  "last_checked": "2026-11-14",
+  "role": [
+    "it"
+  ],
+  "specialty": [
+    "security"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
