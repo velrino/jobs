@@ -1,0 +1,35 @@
+{
+  "company": "Infisical",
+  "job_title": "Full Stack Engineer",
+  "location": "Brazil; US/Canada, India, UK and EU also listed in the role description",
+  "summary": "Build security infrastructure features, enterprise integrations and new secrets-management products; collaborate directly with customers.",
+  "requirements": "Required: deep React, Node.js and TypeScript expertise, attention to detail, independent decision-making and US-hours availability. Preferred: Go, developer tools, open source and startup experience.",
+  "compensation": "USD 100,000–180,000 per year in the YC listing; equity options mentioned.",
+  "conditions": "Remote team with in-person gatherings. Description explicitly includes Brazil; generic YC structured metadata says US and is narrower. Confirm local hiring terms.\n\nHistorical listing included by explicit request, outside the seven-day discovery filter. Original publication date: 2025-06-24. This is not presented as a newly published opening.",
+  "source_url": "https://www.ycombinator.com/companies/infisical/jobs/Bf7eGmW-full-stack-engineer",
+  "source_key": "yc:infisical:Bf7eGmW",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack",
+    "security"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "brazil",
+    "us",
+    "canada",
+    "europe"
+  ],
+  "published_on": "2025-06-24"
+}

@@ -1,0 +1,32 @@
+{
+  "company": "B12",
+  "job_title": "Staff Software Engineer",
+  "location": "Anywhere; confirm country-specific contracting terms",
+  "summary": "Own large full-stack initiatives, mentor engineers, shape product plans and improve production infrastructure and incident response.",
+  "requirements": "Required: 10+ years delivering production systems, strong communication, independent prioritization, and frontend/backend skills with deeper infrastructure expertise. Stack includes Python/Django, TypeScript/React, PostgreSQL and AWS.",
+  "compensation": "Not disclosed in the public posting.",
+  "conditions": "Location is explicitly Anywhere. AI-assisted coding and code-quality practices are part of the team workflow. Employment type and local benefit terms are not explicitly disclosed.\n\nHistorical listing included by explicit request, outside the seven-day discovery filter. Original publication date: 2026-10-02. This is not presented as a newly published opening.",
+  "source_url": "https://job-boards.greenhouse.io/b12/jobs/8249777",
+  "source_key": "greenhouse:b12:8249777",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack",
+    "platform"
+  ],
+  "level": [
+    "staff"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "worldwide"
+  ],
+  "published_on": "2026-10-02"
+}

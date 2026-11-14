@@ -1,0 +1,32 @@
+{
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "company": "Openbenchmarks",
+  "job_title": "Founding Engineer (AI + Backend) - Remote, India",
+  "location": "India only (remote)",
+  "summary": "Build reproducible benchmarks, autonomous evaluation infrastructure and research tooling for agent tool selection and model behavior.",
+  "requirements": "Work involves domain-specific evaluation design, vendor APIs at scale, LLM-as-judge pipelines, scoring, drift detection and synthetic data. The YC experience field accepts any level, including new graduates; formal degree and minimum years are not specified.",
+  "compensation": "INR 4,000,000–4,500,000 per year; 0.50%–0.80% equity in the visible YC header. Generic structured data incorrectly labels the currency USD.",
+  "conditions": "Role title and description explicitly require being based in India. Generic structured location metadata says US and conflicts with that text; use the India requirement. Brazil eligibility is not established.",
+  "source_url": "https://www.ycombinator.com/companies/openbenchmarks/jobs/ZCHAmPD-founding-engineer-ai-backend-remote-india",
+  "source_key": "yc:openbenchmarks:ZCHAmPD",
+  "published_on": "2026-11-12",
+  "specialty": [
+    "backend",
+    "ai-ml"
+  ],
+  "work": [
+    "remote"
+  ],
+  "region": [
+    "india"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "company": "Rivet",
+  "job_title": "Software Engineer",
+  "location": "Remote; YC structured metadata specifies US, Brazil eligibility unconfirmed",
+  "summary": "Build open-source actor infrastructure, agent execution environments, workflow SDKs and cloud services; support customer deployments.",
+  "requirements": "Required: backend/infrastructure projects, production distributed systems, Rust or strong C++/Go systems experience, and working TypeScript knowledge.",
+  "compensation": "USD 80,000–150,000 per year. Listed benefits include paid time off; US-specific insurance and retirement benefits require country confirmation.",
+  "conditions": "Confirm hiring geography before applying. Interview includes a screening call and a paid 24-hour project. Most engineering output is public open source.\n\nHistorical listing included by explicit request, outside the seven-day discovery filter. Original publication date: 2026-08-14. This is not presented as a newly published opening.",
+  "source_url": "https://www.ycombinator.com/companies/rivet/jobs/08lOGd6-software-engineer",
+  "source_key": "yc:rivet:08lOGd6",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend",
+    "platform"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "us"
+  ],
+  "published_on": "2026-08-14"
+}

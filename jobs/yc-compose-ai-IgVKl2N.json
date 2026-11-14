@@ -1,0 +1,32 @@
+{
+  "company": "Compose.ai",
+  "job_title": "Senior Full Stack Engineer",
+  "location": "Remote; YC structured metadata specifies US, Brazil eligibility unconfirmed",
+  "summary": "Own new AI-assisted writing products from concept to delivery, combining machine-learning capabilities with user interfaces.",
+  "requirements": "Required: 5+ years across frontend/backend, distributed systems, JavaScript, HTML/CSS and real-time APIs. Preferred: browser extensions, ML-adjacent work and early-stage startups.",
+  "compensation": "USD 100,000–150,000 per year; visible listing states 1% equity.",
+  "conditions": "Remote listing. The US-visa-not-required field does not establish worldwide employment. Confirm eligible countries and current compensation directly.\n\nHistorical listing included by explicit request, outside the seven-day discovery filter. Original publication date: 2021-12-09. This is not presented as a newly published opening.",
+  "source_url": "https://www.ycombinator.com/companies/compose-ai/jobs/IgVKl2N-senior-full-stack-engineer",
+  "source_key": "yc:compose-ai:IgVKl2N",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack",
+    "ai-ml"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "us"
+  ],
+  "published_on": "2021-12-09"
+}

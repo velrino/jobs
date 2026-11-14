@@ -1,0 +1,31 @@
+{
+  "company": "MANAM Technologies",
+  "job_title": "Application Developer (backend + frontend) - Azure AI Foundry",
+  "location": "Abu Dhabi, UAE / Remote; Brazil eligibility unconfirmed",
+  "summary": "Integrate AI services into production APIs and user interfaces, with authentication, deployment, observability and testing.",
+  "requirements": "Required: 5+ years relevant engineering, Python/FastAPI or Flask, Node.js, React/TypeScript, containers/AKS, REST/GraphQL, databases, fluent English and a related bachelor degree. AI-102 certification preferred.",
+  "compensation": "Not disclosed in the public posting.",
+  "conditions": "Full-time. Visa and relocation support offered for UAE positions. Official careers page provides email application instructions; confirm remote geography and schedule.\n\nHistorical listing included by explicit request, outside the seven-day discovery filter. Original publication date: not disclosed by the source. This is not presented as a newly published opening.",
+  "source_url": "https://manamtechnologies.com/careers/",
+  "source_key": "manam:application-developer-azure-ai-foundry",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack",
+    "ai-ml"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "uae"
+  ]
+}

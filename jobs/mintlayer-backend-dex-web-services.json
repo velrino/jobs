@@ -1,0 +1,30 @@
+{
+  "company": "Mintlayer",
+  "job_title": "Backend Engineer (Go/JS) – DEX & Web Services",
+  "location": "UAE / Remote; Brazil eligibility not confirmed",
+  "summary": "Build exchange backend services, order matching, node integrations and secure low-latency APIs.",
+  "requirements": "Required: strong Go or Node.js/TypeScript, asynchronous microservices, DEX/API/indexing experience, REST/GraphQL, PostgreSQL and Redis/MongoDB, and concurrent systems.",
+  "compensation": "Numerical salary range not disclosed; fiat, Bitcoin or stablecoin payment options mentioned.",
+  "conditions": "Core working hours 10am–1pm CET. UAE visa/relocation support applies to onsite roles. Country-specific remote hiring and employment type require confirmation.\n\nHistorical listing included by explicit request, outside the seven-day discovery filter. Original publication date: not disclosed by the source. This is not presented as a newly published opening.",
+  "source_url": "https://www.mintlayer.com/career/backend-engineer-go-js---dex-web-services/",
+  "source_key": "mintlayer:backend-engineer-go-js-dex-web-services",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "uae"
+  ]
+}

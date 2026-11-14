@@ -1,0 +1,36 @@
+{
+  "company": "Rollstack",
+  "job_title": "AI Software Engineer",
+  "location": "Brazil, US, UK, Portugal, Mexico and Canada listed in the visible header",
+  "summary": "Build AI reporting features, integrations and performance improvements across the product stack.",
+  "requirements": "Required: 3+ years in ML/NLP focused on generative models, advanced Python, production LLM experience and familiarity with RAG, LangChain or LlamaIndex. Agent experience is a bonus.",
+  "compensation": "USD 80,000–240,000 per year; 0.05%–0.20% equity.",
+  "conditions": "Fully remote with an annual company gathering. Visible geography includes Brazil, although generic structured metadata says US. Confirm the country-specific offer.\n\nHistorical listing included by explicit request, outside the seven-day discovery filter. Original publication date: 2026-09-08. This is not presented as a newly published opening.",
+  "source_url": "https://www.ycombinator.com/companies/rollstack-2/jobs/lo23eXr-ai-software-engineer",
+  "source_key": "yc:rollstack-2:lo23eXr",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack",
+    "ai-ml"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "brazil",
+    "us",
+    "europe",
+    "mexico",
+    "canada"
+  ],
+  "published_on": "2026-09-08"
+}

@@ -1,0 +1,33 @@
+{
+  "company": "OpenMined",
+  "job_title": "Senior Software Engineer - AI Oversight",
+  "location": "Colombia, Brazil, Argentina and Uruguay (remote)",
+  "summary": "Build privacy-preserving AI evaluation infrastructure, secure enclaves and PySyft services; deploy with partner organizations.",
+  "requirements": "Required: 5+ years engineering, strong Python, systems design, full-stack project experience, CI/CD and cloud operations. Preferred: TEEs, distributed systems, Kubernetes, AI safety and open-source work.",
+  "compensation": "USD 77,000–109,000 annualized contract fee, invoiced monthly.",
+  "conditions": "Initial 12-month independent contractor term, expected to renew. Substantial US Eastern overlap required; local time must be between one hour behind and two hours ahead of ET.\n\nHistorical listing included by explicit request, outside the seven-day discovery filter. Original publication date: 2026-11-03. This is not presented as a newly published opening.",
+  "source_url": "https://job-boards.greenhouse.io/openmined/jobs/4477421009",
+  "source_key": "greenhouse:openmined:4477421009",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "ai-ml",
+    "platform",
+    "security"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ],
+  "published_on": "2026-11-03"
+}

@@ -1,0 +1,31 @@
+{
+  "company": "CloudWalk",
+  "job_title": "Staff Engineer – Issuing",
+  "location": "Not specified in the current public role page; confirm with employer",
+  "summary": "Own authorization, clearing and ledger services, build Rust systems, diagnose production incidents and guide architecture across teams.",
+  "requirements": "Required: distributed systems, concurrency, consistency, fault tolerance, strong debugging and Rust experience or willingness to develop it. High-reliability or fintech experience is a plus.",
+  "compensation": "Not disclosed in the public posting.",
+  "conditions": "Full-time. The current role page does not explicitly establish work arrangement or eligible applicant geography; do not infer Brazil or worldwide remote hiring from other CloudWalk roles.\n\nHistorical listing included by explicit request, outside the seven-day discovery filter. Original publication date: not disclosed by the source. This is not presented as a newly published opening.",
+  "source_url": "https://lp.cloudwalk.io/jobs/staff-engineer-issuing-14",
+  "source_key": "cloudwalk:staff-engineer-issuing-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend",
+    "platform"
+  ],
+  "level": [
+    "staff"
+  ],
+  "work": [
+    "unspecified"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "unspecified"
+  ],
+  "last_checked": "2026-11-13"
+}

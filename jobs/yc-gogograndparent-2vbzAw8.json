@@ -1,0 +1,31 @@
+{
+  "company": "GoGoGrandparent",
+  "job_title": "Backend Engineer",
+  "location": "Remote; YC structured metadata specifies US, other countries require confirmation",
+  "summary": "Own backend features, architecture, reliability and production monitoring for services supporting older adults.",
+  "requirements": "Required: 6+ years of professional engineering, primarily Node.js and Vue.js, and US working hours or at least four hours of mainland-US overlap. Backend uses TypeScript, MySQL and REST/GraphQL.",
+  "compensation": "USD 80,000–180,000 per year, dependent on location and experience; performance bonuses mentioned.",
+  "conditions": "The description calls this a senior backend role despite the shorter page title. International team wording does not confirm Brazil hiring. US-only benefits are listed separately.\n\nHistorical listing included by explicit request, outside the seven-day discovery filter. Original publication date: 2025-07-21. This is not presented as a newly published opening.",
+  "source_url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
+  "source_key": "yc:gogograndparent:2vbzAw8",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "us"
+  ],
+  "published_on": "2025-07-21"
+}

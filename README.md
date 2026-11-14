@@ -16,7 +16,7 @@ Search **open and closed** issues for the source key and original job URL before
 
 ## Publication dates
 
-New searches are limited to postings originally published within the last seven calendar days. Record the employer-confirmed date in `published_on`; updates, search indexing and discovery dates do not establish recency. Older existing issues remain historical records. Explicitly requested older links must show their original date and explain the exception.
+New searches are limited to postings originally published within the last seven calendar days. Record the employer-confirmed date in `published_on`; updates, search indexing and discovery dates do not establish recency. Older existing issues remain historical records. Explicitly requested historical links must show their original date and explain the exception. If that source does not disclose its original date, state that it is unknown and that the record is an explicitly requested historical exception; never assign a discovery date as its publication date. These exceptions are reviewed separately and never pass the seven-day Action filter.
 
 Use `--max-age-days 7` with the selected new JSON files to reject older or undated postings before any GitHub write. Existing records predating this policy may omit `published_on`. The [source review](docs/source-review-2026-11-13.md) records historical leads excluded from the latest search.
 

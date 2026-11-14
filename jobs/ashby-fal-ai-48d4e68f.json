@@ -1,0 +1,33 @@
+{
+  "company": "fal",
+  "job_title": "Senior Software Engineer, Data Platform",
+  "location": "San Francisco, California, US; relocation assistance offered",
+  "summary": "Build telemetry, ingestion and analytical infrastructure for compute cost, margin and performance; connect production systems to the data platform.",
+  "requirements": "Posting lists 5+ years software/data engineering, Python or Go, safe production changes, warehouse ingestion, low-latency analytics, SQL, dbt and orchestration tooling. GPU instrumentation and FinOps exposure are relevant.",
+  "compensation": "USD 180,000–225,000 OTE per year plus equity and benefits.",
+  "conditions": "Hiring in downtown San Francisco with relocation assistance. Visa sponsorship and remote work are not explicitly offered.\n\nHistorical listing included by explicit request, outside the seven-day discovery filter. Original publication date: 2026-05-07. This is not presented as a newly published opening.",
+  "source_url": "https://jobs.ashbyhq.com/fal-ai/48d4e68f-996b-4fab-8ff1-563d9f1824d5",
+  "source_key": "ashby:fal-ai:48d4e68f-996b-4fab-8ff1-563d9f1824d5",
+  "published_on": "2026-05-07",
+  "role": [
+    "engineering",
+    "data"
+  ],
+  "specialty": [
+    "backend",
+    "platform"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "on-site"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "us"
+  ],
+  "last_checked": "2026-11-13"
+}
