@@ -1,0 +1,31 @@
+{
+  "company": "OpsBox AI",
+  "job_title": "Full-Stack Engineer (TypeScript, Next.JS, Postgres)",
+  "location": "Remote: Brazil and the other eligible countries stated in the posting",
+  "summary": "Build warehouse-management features across screens, server logic and databases; integrate business systems and maintain live operational reliability.",
+  "requirements": "Required: 3–6 years shipping production web applications; strong TypeScript/SQL, end-to-end ownership, practical AI coding tools and clear written English. Preferred: ERP/Shopify/carrier integrations and warehouse/logistics software. The stack includes Next.js/React, Prisma/Postgres, Vercel and LLM APIs.",
+  "compensation": "USD 4,500 per month.",
+  "conditions": "Remote contractor position explicitly open to Mexico, Brazil, Argentina or Colombia, with substantial US Pacific-hours overlap. A paid half-day working assessment is part of the process. Full-time work is stated in the original posting. Publication is corroborated by the public employer advertisement datePosted and the Get on Board published_at field. No visa sponsorship or relocation support is confirmed.",
+  "source_url": "https://www.getonbrd.com/jobs/full-stack-engineer-typescript-next-js-postgres-opsbox-ai-remote",
+  "source_key": "getonbrd:opsbox-ai:64891",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

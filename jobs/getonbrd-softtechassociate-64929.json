@@ -1,0 +1,31 @@
+{
+  "company": "Softtechassociate",
+  "job_title": "Software Engineer(python)",
+  "location": "Remote, Latin America",
+  "summary": "Develop and maintain Python backend services and APIs, improve reliability and collaborate on testing and code reviews.",
+  "requirements": "Required: professional Python development, Django/Flask/FastAPI or similar, REST/backend architecture, relational databases, Git, testing/debugging, professional English and US-hours overlap. Applicants must be based in Latin America. Preferred: cloud platforms, Docker/CI/CD, async programming, Redis/Celery, AI/data processing and scalable systems.",
+  "compensation": "USD 3,000–5,000 per month.",
+  "conditions": "Although the platform displays worldwide remote eligibility, the employer description requires Latin America residence; this narrower condition applies. Full-time work is stated in the original posting. Publication is corroborated by the public employer advertisement datePosted and the Get on Board published_at field. No visa sponsorship or relocation support is confirmed.",
+  "source_url": "https://www.getonbrd.com/jobs/software-engineer-python-softtechassociate-remote",
+  "source_key": "getonbrd:softtechassociate:64929",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "latam"
+  ]
+}

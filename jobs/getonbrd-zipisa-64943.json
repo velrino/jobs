@@ -1,0 +1,31 @@
+{
+  "company": "ZipISA",
+  "job_title": "Full-Stack Developer",
+  "location": "Remote, worldwide",
+  "summary": "Build and operate Python/FastAPI and React/TypeScript products, including CRM integrations, email pipelines, billing, AI features and production monitoring.",
+  "requirements": "Required: 4+ years delivering production web apps; Python/FastAPI/Pydantic/async/pytest, MongoDB, React/TypeScript, API/webhook integrations, Stripe, containers/cloud deployment, privacy awareness and clear writing. Preferred: email deliverability, LLM products, real-estate/ad-tech systems, Next.js, infrastructure automation and AI coding agents.",
+  "compensation": "USD 2,200–3,500 per month.",
+  "conditions": "Worldwide remote eligibility is explicitly stated. Full-time work is stated in the original posting. Publication is corroborated by the public employer advertisement datePosted and the Get on Board published_at field. No visa sponsorship or relocation support is confirmed.",
+  "source_url": "https://www.getonbrd.com/jobs/full-stack-developer-zipisa-remote",
+  "source_key": "getonbrd:zipisa:64943",
+  "published_on": "2026-11-12",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "worldwide"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "company": "TCIT",
+  "job_title": "Full-Stack Developer GCP (Inglés Avanzado)",
+  "location": "Remote, worldwide",
+  "summary": "Develop and support a GCP full-stack platform, triage production incidents, maintain workflow integrations and validate releases.",
+  "requirements": "Required: Angular/TypeScript/Material, Go/Borg, OneStack workflows/Symfony, Cloud Spanner, Google Drive/Gemini integration, production troubleshooting, release validation and runbooks. Advanced English. Preferred: database optimization, monitoring, Google APIs, privacy-aware AI integrations and manual release testing.",
+  "compensation": "Numerical compensation range not disclosed.",
+  "conditions": "Worldwide remote eligibility is explicitly stated. Operational support and coverage expectations should be confirmed with the employer. Full-time work is stated in the original posting. Publication is corroborated by the public employer advertisement datePosted and the Get on Board published_at field. No visa sponsorship or relocation support is confirmed.",
+  "source_url": "https://www.getonbrd.com/jobs/fullstack-developer-gcp-ingles-avanzado-tcit-remote",
+  "source_key": "getonbrd:tcit:64946",
+  "published_on": "2026-11-12",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "worldwide"
+  ]
+}
