@@ -1,0 +1,31 @@
+{
+  "company": "NSTECH",
+  "job_title": "QA Sênior",
+  "location": "Remote, Brazil",
+  "summary": "Plan and execute functional, regression, exploratory and integration testing for KMM cabotage software; validate APIs and data, manage defects and support quality throughout delivery.",
+  "requirements": "Solid web functional QA experience; test planning/cases, defect lifecycle and traceability; Azure DevOps/Jira/ClickUp or equivalent; Scrum/agile; Postman, SOAP, JSON/XML; basic/intermediate SQL and technical documentation. Logistics/TMS knowledge, test automation, programming, Git, CI/CD, performance testing, observability, AI-assisted QA and ISTQB are preferred.",
+  "compensation": "Salary not disclosed. Benefits include health coverage with copayment, dental plan, meal allowance, Wellhub, mental-health sessions, life insurance and funeral assistance.",
+  "conditions": "The employer listing explicitly specifies Remote and Brazil eligibility. CLT employment; weekly hours are not disclosed. Original publication and creation match: 2026-11-13T18:20:00.536Z.",
+  "source_url": "https://nstech.inhire.app/vagas/d9d9c593-2645-4080-9f6a-629f18296016",
+  "source_key": "inhire:nstech:d9d9c593-2645-4080-9f6a-629f18296016",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "qa"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
