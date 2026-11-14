@@ -93,4 +93,3 @@ python3 -m unittest discover -s scripts -p '*_test.py'
 ```
 
 Checks verify the records and generated form. Tests use a fake GitHub CLI in a temporary directory and never access the real GitHub account.
-
