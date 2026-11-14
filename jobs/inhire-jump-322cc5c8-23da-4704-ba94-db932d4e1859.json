@@ -1,0 +1,31 @@
+{
+  "company": "Jump",
+  "job_title": "Desenvolvedor(a) Python/Spark | Engenharia de Software",
+  "location": "Remote, Brazil",
+  "summary": "Develop and modernize Python/PySpark frameworks and libraries for a large financial-sector data platform. Refactor legacy code, manage dependencies and compatibility, handle errors, write automated tests/documentation and integrate reusable components.",
+  "requirements": "Advanced Python software engineering, object-oriented programming, design patterns and testing; PySpark; YAML/JSON configuration and library development; legacy-code refactoring/maintenance; Git/versioning. Databricks and CI/CD are preferred. No minimum year count, degree or language requirement is disclosed.",
+  "compensation": "Not disclosed.",
+  "conditions": "Remote work in Brazil and CLT employment are explicitly confirmed by the employer. Daily/weekly hours and contract duration are not disclosed. Original publishedAt, createdAt and lastPublishedAt all equal 2026-11-11T19:24:24.272Z. The matching active vacancy and application form were verified in a separate research browser window by following the actual employer board link.",
+  "source_url": "https://jump.inhire.app/vagas/322cc5c8-23da-4704-ba94-db932d4e1859/desenvolvedora-pythonspark-or-engenharia-de-software",
+  "source_key": "inhire:jump:322cc5c8-23da-4704-ba94-db932d4e1859",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

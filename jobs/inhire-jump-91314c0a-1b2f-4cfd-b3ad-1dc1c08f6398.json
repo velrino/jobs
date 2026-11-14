@@ -1,0 +1,31 @@
+{
+  "company": "Jump",
+  "job_title": "Engenheiro(a) DevOps / DataOps Databricks",
+  "location": "Remote, Brazil",
+  "summary": "Automate infrastructure, deployments and observability for a large financial-sector data platform. Implement infrastructure as code, maintain CI/CD for code/data pipelines, configure logs/metrics/alerts and manage development, acceptance and production environments.",
+  "requirements": "Solid Terraform experience; CI/CD such as GitHub Actions, Azure DevOps or GitLab CI; Databricks Asset Bundles or Databricks automation; cloud experience, preferably AWS; observability and monitoring. Lakehouse DataOps and tightly regulated security/compliance environments are preferred. No minimum year count, degree or language requirement is disclosed.",
+  "compensation": "Not disclosed.",
+  "conditions": "Remote work in Brazil and CLT employment are explicitly confirmed by the employer. Daily/weekly hours and contract duration are not disclosed. Original publishedAt, createdAt and lastPublishedAt all equal 2026-11-11T20:05:54.934Z. The matching active vacancy and application form were verified in a separate research browser window by following the actual employer board link.",
+  "source_url": "https://jump.inhire.app/vagas/91314c0a-1b2f-4cfd-b3ad-1dc1c08f6398/engenheiroa-devops-dataops-databricks",
+  "source_key": "inhire:jump:91314c0a-1b2f-4cfd-b3ad-1dc1c08f6398",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

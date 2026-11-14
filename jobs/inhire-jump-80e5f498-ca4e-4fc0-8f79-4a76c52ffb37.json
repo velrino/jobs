@@ -1,0 +1,31 @@
+{
+  "company": "Jump",
+  "job_title": "Analista de QA de Dados",
+  "location": "Remote, Brazil",
+  "summary": "Define data-testing strategies, criteria and plans for a large financial-sector migration/modernization project. Compare parity across environments, execute regression/business-rule checks, document acceptance evidence and work with engineering to resolve inconsistencies.",
+  "requirements": "QA/data-testing experience; advanced SQL for validation and reconciliation; data-migration acceptance testing; rigorous evidence documentation. Databricks/PySpark and automated data testing are preferred. No minimum year count, degree or language requirement is disclosed.",
+  "compensation": "Not disclosed.",
+  "conditions": "Remote work in Brazil and CLT employment are explicitly confirmed by the employer. Daily/weekly hours and contract duration are not disclosed. Original publishedAt, createdAt and lastPublishedAt all equal 2026-11-11T20:50:42.097Z. The matching active vacancy and application form were verified in a separate research browser window by following the actual employer board link.",
+  "source_url": "https://jump.inhire.app/vagas/80e5f498-ca4e-4fc0-8f79-4a76c52ffb37/analista-de-qa-de-dados",
+  "source_key": "inhire:jump:80e5f498-ca4e-4fc0-8f79-4a76c52ffb37",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "qa"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
