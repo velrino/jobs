@@ -1,0 +1,31 @@
+{
+  "company": "Affirm",
+  "job_title": "Software Engineer II, Backend",
+  "location": "United States",
+  "summary": "Develop and operate backend financial services, with team matching after interviews.",
+  "requirements": "At least 1.5 years of engineering, Python or Kotlin, distributed-system fundamentals and production ownership. Source level: Software Engineer II.",
+  "compensation": "USD 165,000–225,000/year in CA, WA, NY, NJ and CT; USD 146,000–206,000 in other US states.",
+  "conditions": "Remote within the listed hiring geography. Confirm employment terms, working hours and any in-person gatherings with the employer. This posting does not establish permission to work remotely from Brazil.",
+  "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8196112003",
+  "source_key": "greenhouse:affirm:8196112003",
+  "published_on": "2026-11-06",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "us"
+  ]
+}

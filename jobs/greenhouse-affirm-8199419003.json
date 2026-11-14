@@ -1,0 +1,31 @@
+{
+  "company": "Affirm",
+  "job_title": "Senior Software Engineer, Backend (ML Feature Platform)",
+  "location": "United States",
+  "summary": "Build the machine-learning feature platform, data serving and offline processing infrastructure.",
+  "requirements": "Production backend/platform engineering, scalable data systems and technical ownership.",
+  "compensation": "USD 195,000–225,000/year in CA, WA, NY, NJ and CT; USD 173,000–233,000 in other US states.",
+  "conditions": "Remote within the listed hiring geography. Confirm employment terms, working hours and any in-person gatherings with the employer. This posting does not establish permission to work remotely from Brazil.",
+  "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8199419003",
+  "source_key": "greenhouse:affirm:8199419003",
+  "published_on": "2026-11-12",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "us"
+  ]
+}

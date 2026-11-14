@@ -241,7 +241,9 @@
           "europe",
           "worldwide",
           "unspecified",
-          "uae"
+          "uae",
+          "canada",
+          "mexico"
         ]
       },
       "validations": {

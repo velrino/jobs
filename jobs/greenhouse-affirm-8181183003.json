@@ -1,0 +1,31 @@
+{
+  "company": "Affirm",
+  "job_title": "Software Engineer I, Backend (Continuous Delivery)",
+  "location": "United States",
+  "summary": "Improve continuous-delivery platforms and developer productivity tooling.",
+  "requirements": "Previous work or internship developing backend systems, Python or Kotlin and distributed-system fundamentals. Source level: Software Engineer I.",
+  "compensation": "USD 130,000–180,000/year in CA, WA, NY, NJ and CT; USD 115,000–165,000 in other US states.",
+  "conditions": "Remote within the listed hiring geography. Confirm employment terms, working hours and any in-person gatherings with the employer. This posting does not establish permission to work remotely from Brazil.",
+  "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003",
+  "source_key": "greenhouse:affirm:8181183003",
+  "published_on": "2026-11-12",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "junior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "us"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "company": "GitLab",
+  "job_title": "Senior Backend Engineer (Go), Tenant Scales: Gitaly",
+  "location": "Canada",
+  "summary": "Build Gitaly distributed Git storage with attention to performance and reliability.",
+  "requirements": "Backend engineering, Go, distributed storage and production operations.",
+  "compensation": "No numerical compensation range identified in the reviewed posting.",
+  "conditions": "Remote within the listed hiring geography. Confirm employment terms, working hours and any in-person gatherings with the employer. This posting does not establish permission to work remotely from Brazil.",
+  "source_url": "https://job-boards.greenhouse.io/gitlab/jobs/8937425002",
+  "source_key": "greenhouse:gitlab:8937425002",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "canada"
+  ]
+}

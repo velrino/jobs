@@ -1,0 +1,31 @@
+{
+  "company": "Dropbox",
+  "job_title": "Application Security Engineer",
+  "location": "Mexico",
+  "summary": "Develop security automation and secure-by-default engineering infrastructure.",
+  "requirements": "Four or more years in application/security engineering, security automation and SDLC practices.",
+  "compensation": "No numerical compensation range identified in the reviewed posting.",
+  "conditions": "Remote within the listed hiring geography. Confirm employment terms, working hours and any in-person gatherings with the employer. This posting does not establish permission to work remotely from Brazil.",
+  "source_url": "https://jobs.dropbox.com/listing/8328516",
+  "source_key": "greenhouse:dropbox:8328516",
+  "published_on": "2026-11-12",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "security"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "mexico"
+  ]
+}

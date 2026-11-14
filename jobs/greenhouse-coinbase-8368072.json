@@ -1,0 +1,31 @@
+{
+  "company": "Coinbase",
+  "job_title": "Senior Software Engineer",
+  "location": "Brazil",
+  "summary": "Build customer support experiences across React/TypeScript interfaces and Go services.",
+  "requirements": "Five or more years shipping full-stack applications, production APIs, customer-facing UX and reliable operations.",
+  "compensation": "BRL 443,460–466,800 annual base, excluding equity and bonus.",
+  "conditions": "Remote within the listed hiring geography. Confirm employment terms, working hours and any in-person gatherings with the employer. Quarterly in-person team sessions and on-call participation are described.",
+  "source_url": "https://www.coinbase.com/careers/positions/8368072",
+  "source_key": "greenhouse:coinbase:8368072",
+  "published_on": "2026-11-09",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
