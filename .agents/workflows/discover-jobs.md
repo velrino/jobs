@@ -29,3 +29,5 @@ Do not turn these provider hints into another field schema. The catalog and READ
 
 - Gem: use `first_published_at` from the [public Job Board API](https://api.gem.com/job_board/v0/reference), not `updated_at`. Check `location_type` and eligible locations; company-wide remote language does not establish a remote vacancy.
 - Get on Board: corroborate `published_at` with the original advertisement’s `datePosted` and read its remote-work policy. An API location of `Remote` does not establish country eligibility. Apply narrower employer restrictions when the platform uses a generic worldwide template.
+
+- InHire: an API response with `status=published` and an HTTP 200 HTML shell do not prove that the public application page works. Follow the actual link on the employer board (including its career-page prefix and slug), render it, and confirm the matching title and application action. Defer publication when the public route shows 404 or cannot be verified; do not treat API availability as a substitute.

@@ -1,0 +1,31 @@
+{
+  "company": "INEX",
+  "job_title": "Desenvolvedor(a) .NET Junior",
+  "location": "Remote, Brazil",
+  "summary": "Develop .NET 8 backend APIs and Azure data/integration services, connect asynchronous systems and customize Dynamics 365 and Power Platform.",
+  "requirements": "Demonstrated .NET 8/C# experience; Power Automate and Power Apps automation; Git and unit testing. Azure Data Factory, Functions, Logic Apps, WebJobs, Service Bus, Azure SQL and Dynamics 365 plugins/actions/client-side JavaScript are preferred.",
+  "compensation": "Not disclosed.",
+  "conditions": "Remote Brazil eligibility is explicit in the employer JobPosting. The title says Junior, but the description explicitly calls the role mid-level (Pleno); seniority is therefore left unspecified pending employer clarification. Employment type and weekly hours are not disclosed. Original publication is recorded in JobPosting.datePosted: 2026-11-09T21:27:37.346Z. Employer reference: HEU2874.",
+  "source_url": "https://jobs.quickin.io/inexbr/jobs/6af23ac9cf99270012645aee",
+  "source_key": "quickin:inexbr:6af23ac9cf99270012645aee",
+  "published_on": "2026-11-09",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
