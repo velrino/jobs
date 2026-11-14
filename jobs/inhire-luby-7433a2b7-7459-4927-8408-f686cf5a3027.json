@@ -1,0 +1,31 @@
+{
+  "company": "Luby",
+  "job_title": "Profissional Fullstack (.NET+Vue) Sênior - Remoto",
+  "location": "Remote, Brazil",
+  "summary": "Build .NET microservices and Vue interfaces, support Flutter applications when needed, and improve testing, asynchronous integration and production observability.",
+  "requirements": "Required: C#/.NET Core or 6+, secure REST APIs and microservices, Vue/JavaScript/TypeScript, HTML/CSS, enough Flutter/Dart for maintenance, messaging, SQL Server or PostgreSQL, automated testing, SOLID/DDD, Docker, Git and CI/CD. Preferred: Azure, Python integration, Kubernetes and observability tools.",
+  "compensation": "Numerical salary or contract rate not disclosed; any benefits or allowances are separate from salary.",
+  "conditions": "Remote work with Brazil explicitly listed as the eligible location. The active public employer posting distinguishes original publishedAt from lastPublishedAt/updatedAt; only original publication is used for recency. No visa sponsorship or relocation support is confirmed. The description or contract metadata specifies a Brazilian PJ service-provider arrangement.",
+  "source_url": "https://luby.inhire.app/vagas/7433a2b7-7459-4927-8408-f686cf5a3027/profissional-fullstack-net-vue-senior-remoto",
+  "source_key": "inhire:luby:7433a2b7-7459-4927-8408-f686cf5a3027",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

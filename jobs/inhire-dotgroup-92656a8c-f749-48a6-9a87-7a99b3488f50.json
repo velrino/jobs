@@ -1,0 +1,31 @@
+{
+  "company": "DOT Group",
+  "job_title": "ARQUITETO DE SOFTWARE - INTELIGÊNCIA ARTIFICIAL",
+  "location": "Remote, Brazil",
+  "summary": "Modernize an e-learning platform architecture and guide resilient backend, generative AI and retrieval solutions while mentoring developers.",
+  "requirements": "Required: Python or Node.js backend engineering; SOLID, DDD and Clean Architecture; production GenAI/LLM solutions, RAG, LangChain, vector databases and NoSQL; microservices, CI/CD, Docker and cloud, especially AWS. Preferred: event-driven architecture and messaging, AI agents, observability and Agile teams.",
+  "compensation": "Numerical salary or contract rate not disclosed; any benefits or allowances are separate from salary.",
+  "conditions": "Remote work with Brazil explicitly listed as the eligible location. The active public employer posting distinguishes original publishedAt from lastPublishedAt/updatedAt; only original publication is used for recency. No visa sponsorship or relocation support is confirmed. CLT employment; the description explicitly specifies 40 hours per week and remote work from anywhere in Brazil.",
+  "source_url": "https://dotgroup.inhire.app/vagas/92656a8c-f749-48a6-9a87-7a99b3488f50/arquiteto-de-software-inteligencia-artificial",
+  "source_key": "inhire:dotgroup:92656a8c-f749-48a6-9a87-7a99b3488f50",
+  "published_on": "2026-11-10",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "ai-ml"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

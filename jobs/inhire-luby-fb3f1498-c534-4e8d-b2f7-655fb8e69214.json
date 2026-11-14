@@ -1,0 +1,32 @@
+{
+  "company": "Luby",
+  "job_title": "Profissional Engenheiro(a) de Dados (AWS) Pleno/Sênior - Remoto",
+  "location": "Remote, Brazil",
+  "summary": "Build and maintain AWS ETL pipelines and reusable telecom reliability data products, including quality checks, monitoring and versioned releases.",
+  "requirements": "Required: 4+ years in data engineering; AWS Glue, Spark, Athena, S3, EMR and Step Functions; SQL/Python; production ETL, data quality and dataset versioning. Advanced English and overlap with US Eastern Time. Preferred: telecom/network data, infrastructure as code, data CI/CD, catalog and lineage.",
+  "compensation": "Numerical salary or contract rate not disclosed; any benefits or allowances are separate from salary.",
+  "conditions": "Remote work with Brazil explicitly listed as the eligible location. The active public employer posting distinguishes original publishedAt from lastPublishedAt/updatedAt; only original publication is used for recency. No visa sponsorship or relocation support is confirmed. The description or contract metadata specifies a Brazilian PJ service-provider arrangement. Daily US stakeholder communication and US Eastern Time overlap are required.",
+  "source_url": "https://luby.inhire.app/vagas/fb3f1498-c534-4e8d-b2f7-655fb8e69214/profissional-engenheiro-a-de-dados-aws-pleno-senior-remoto",
+  "source_key": "inhire:luby:fb3f1498-c534-4e8d-b2f7-655fb8e69214",
+  "published_on": "2026-11-09",
+  "last_checked": "2026-11-14",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "mid",
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

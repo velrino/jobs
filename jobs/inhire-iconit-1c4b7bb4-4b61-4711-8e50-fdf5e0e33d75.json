@@ -1,0 +1,31 @@
+{
+  "company": "ICON Solutions do Brasil",
+  "job_title": "Software Engineer Sênior - Remoto",
+  "location": "Remote, Brazil",
+  "summary": "Develop and operate logistics software with a multidisciplinary product team, balancing technical quality, delivery and service reliability.",
+  "requirements": "Required: full-stack delivery experience, data-informed technical decisions, complex problem solving, strong engineering practices, collaboration and distributed software architecture. Preferred: Spring Boot and its ecosystem, JUnit, relational/in-memory databases, NoSQL, Spring Cloud Function and message brokers.",
+  "compensation": "Numerical salary or contract rate not disclosed; any benefits or allowances are separate from salary.",
+  "conditions": "Remote work with Brazil explicitly listed as the eligible location. The active public employer posting distinguishes original publishedAt from lastPublishedAt/updatedAt; only original publication is used for recency. No visa sponsorship or relocation support is confirmed. The description or contract metadata specifies a Brazilian PJ service-provider arrangement.",
+  "source_url": "https://iconit.inhire.app/vagas/1c4b7bb4-4b61-4711-8e50-fdf5e0e33d75/software-engineer-senior-remoto",
+  "source_key": "inhire:iconit:1c4b7bb4-4b61-4711-8e50-fdf5e0e33d75",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
