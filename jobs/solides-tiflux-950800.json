@@ -1,0 +1,32 @@
+{
+  "company": "Tiflux Sistema De Gestao Ltda",
+  "job_title": "DEVOPS ENGINEER",
+  "location": "Remote, Brazil (Joinville listed)",
+  "summary": "Operate AWS infrastructure, Terraform and deployment pipelines, improve observability/security, support incidents and help distribute desktop agents.",
+  "requirements": "The description seeks junior or mid-level applicants and lists AWS, Terraform, GitHub Actions/AWS CodePipeline, CloudWatch/Datadog, security/access/certificates, desktop packaging and operational documentation. No minimum year count is stated. Preferred: desktop development/distribution, DevSecOps, cloud security, web development, AWS certifications and AI coding tools.",
+  "compensation": "Numerical compensation not disclosed.",
+  "conditions": "The active Brazilian employer posting lists remote work. Original publication is shown by its JobPosting.datePosted, rather than creation or discovery date. The description explicitly accepts junior or mid-level applicants, although the structured seniority field says mid-level. No visa sponsorship or relocation support is confirmed.",
+  "source_url": "https://tiflux.vagas.solides.com.br/vaga/950800",
+  "source_key": "solides:tiflux:950800",
+  "published_on": "2026-11-09",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "junior",
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

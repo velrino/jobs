@@ -1,0 +1,31 @@
+{
+  "company": "PAKETA SERVICOS FINANCEIROS SA",
+  "job_title": "Engenheiro de Software",
+  "location": "Remote, Brazil (São Paulo listed)",
+  "summary": "Develop AWS serverless credit-offer services and financial calculations, event-driven integrations, automated tests and production observability.",
+  "requirements": "Required: Node.js/TypeScript backend development, AWS Lambda/serverless and IaC, event/message processing, DynamoDB/DocumentDB or PostgreSQL, testing and monitoring/security fundamentals. Preferred: finance/credit products, financial mathematics, AWS certifications and Agile delivery.",
+  "compensation": "Numerical compensation not disclosed.",
+  "conditions": "The active Brazilian employer posting lists remote work. Original publication is shown by its JobPosting.datePosted, rather than creation or discovery date. Senior classification comes from the employer seniority field; CLT employment is stated. No visa sponsorship or relocation support is confirmed.",
+  "source_url": "https://paketa.vagas.solides.com.br/vaga/952113",
+  "source_key": "solides:paketa:952113",
+  "published_on": "2026-11-10",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
