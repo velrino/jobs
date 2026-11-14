@@ -1,0 +1,31 @@
+{
+  "company": "Verity",
+  "job_title": "QA Automation Engineer Sênior - Remoto",
+  "location": "Remote, Brazil",
+  "summary": "Automate web and API tests for a solution using generative AI, intelligent agents and application integrations. Define BDD/Gherkin scenarios and acceptance criteria, validate data with SQL, integrate tests into CI/CD, track defects and collaborate with developers and product owners.",
+  "requirements": "The title says Senior, but the requirements explicitly ask for basic QA, functional/regression/exploratory tests, REST/HTTP, Postman, and practical academic or professional automation experience with Playwright, Cypress, Selenium or equivalents. Python/JavaScript/TypeScript basics, Agile, SQL, Git and CI/CD; academic, internship or personal QA projects are mentioned. Additional knowledge includes generative AI/LLMs/agents, integration/microservices testing and basic Docker/cloud, especially Azure. Plus: Appium/mobile Device Farm, banking/payments and Security by Design/vulnerability analysis. No minimum year count, degree or language requirement is disclosed.",
+  "compensation": "Not disclosed.",
+  "conditions": "Remote work in Brazil. Seniority conflict: the original title and introductory role description say Senior, while the requirement section describes basic knowledge and academic/personal-project experience; the title is preserved and the role is not relabeled junior. Employment type, hours and duration are not disclosed. Employer reference CCO7826. Original JobPosting.datePosted and public created_at both equal 2026-11-13T00:41:11.941Z, corresponding to 12 November in America/Sao_Paulo. Active matching employer page and application action verified.",
+  "source_url": "https://jobs.quickin.io/verity/jobs/6af65ca7ff2e83001331c78b",
+  "source_key": "quickin:verity:6af65ca7ff2e83001331c78b",
+  "published_on": "2026-11-12",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "qa"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

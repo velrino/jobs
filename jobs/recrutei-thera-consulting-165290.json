@@ -1,0 +1,31 @@
+{
+  "company": "THERA CONSULTING",
+  "job_title": "Consultor FI Sênior",
+  "location": "Remote, Brazil",
+  "summary": "Analyze SAP FI requirements, configure S/4HANA and deliver functional specifications, unit/integration/regression/UAT tests, incident/root-cause analysis and documentation. Scope includes FI-GL/AP/AR/AA, banks, payments and clearing.",
+  "requirements": "Consistent SAP FI and practical S/4HANA experience; cross-module integration, testing/UAT and direct business-user collaboration. Plus: Brazil localization, IBS/CBS tax reform, fiscal/legal compliance, Fiori and basic ABAP/API/CPI knowledge.",
+  "compensation": "Not disclosed.",
+  "conditions": "Remote work in Brazil, explicitly confirmed by the employer. Immediate start; six-month PJ contract, potentially extendable. Original employer JobPosting.datePosted: 2026-11-11T13:43:19-03:00. The vacancy remains listed on the employer board; matching public description and application action verified.",
+  "source_url": "https://jobs.recrutei.com.br/thera-consulting/vacancy/165290-consultor-fi-senior",
+  "source_key": "recrutei:thera-consulting:165290",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
