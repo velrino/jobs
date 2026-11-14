@@ -1,0 +1,31 @@
+{
+  "company": "Creative Chaos",
+  "job_title": "Senior Software Engineer - Windows Endpoint Security (C#)",
+  "location": "Remote: Pakistan, India, Argentina, Germany, Brazil, Romania",
+  "summary": "Build and operate Windows endpoint security agents, including network filtering, local proxying, enterprise-agent interoperability and on-device ML.",
+  "requirements": "Required: 5+ years building Windows C#/.NET system software; services, Win32/PInvoke, WFP/filter drivers, networking/TLS and local proxies; production compatibility with Zscaler/Netskope or similar, on-device inference and shipping enterprise agents. English communication with US/Western teams. Preferred: DirectML/quantization and enterprise deployment/signing.",
+  "compensation": "Numerical compensation not disclosed.",
+  "conditions": "Remote work with Brazil explicitly included in the public employer location list. Original publication is shown in the public posting published field. No visa sponsorship or relocation support is confirmed. Engagement type and working hours are not explicitly confirmed.",
+  "source_url": "https://apply.workable.com/creativechaos/j/C875D37743/",
+  "source_key": "workable:creativechaos:C875D37743",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "security"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

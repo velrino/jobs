@@ -1,0 +1,31 @@
+{
+  "company": "ICON Solutions do Brasil",
+  "job_title": "Engenheiro(a) de Dados AWS Sênior",
+  "location": "Remote, Brazil",
+  "summary": "Implement AWS data ingestion from external APIs into an existing lake, including Landing/Raw/Trusted transformations, validation, monitoring, documentation and hypercare.",
+  "requirements": "Required: AWS data engineering, Python/SQL, Glue/S3/Athena, REST ingestion, ETL/ELT, incremental loads/checkpoints, deduplication/validation, JSON/Parquet and Git. Preferred: Lambda, Step Functions, EventBridge, Glue Catalog, OpenAPI, infrastructure as code and enterprise data governance.",
+  "compensation": "Numerical salary or contract rate not disclosed.",
+  "conditions": "The public employer posting explicitly lists remote work and Brazil. Original publishedAt is used instead of the separate lastPublishedAt/updatedAt fields. No visa sponsorship or relocation support is confirmed. Estimated project duration: two months, including implementation and hypercare; contract type and hours are not explicitly stated.",
+  "source_url": "https://iconit.inhire.app/vagas/7b5631ca-a475-4a2f-9871-c8770ba63abd",
+  "source_key": "inhire:iconit:7b5631ca-a475-4a2f-9871-c8770ba63abd",
+  "published_on": "2026-11-09",
+  "last_checked": "2026-11-14",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
