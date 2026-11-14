@@ -1,0 +1,31 @@
+{
+  "company": "EPAM Systems",
+  "job_title": "Cloud Architect",
+  "location": "Remote: Argentina, Brazil, Chile, Colombia, Mexico",
+  "summary": "Design AWS landing zones, networking and governance, with reusable infrastructure automation and enterprise reference architectures.",
+  "requirements": "1+ year as software architect; AWS multi-account landing zones, Organizations/Control Tower and SCPs; networking and hybrid connectivity; Terraform, CI/CD, GitOps, IAM Identity Center, governance and reference architectures; AWS compute, cloud security and policy-as-code knowledge. English B2+. See the original posting for complete requirements and additional preferred skills.",
+  "compensation": "Numerical compensation range not disclosed in the public posting.",
+  "conditions": "The employer lists telecommuting and explicitly includes Brazil among the eligible countries. Publication date is verified from the original employer JobPosting.datePosted. Employment contract and hours are not explicitly established by the structured posting. No visa sponsorship or relocation support is confirmed. Equivalent country variants are consolidated rather than counted as separate opportunities.",
+  "source_url": "https://careers.epam.com/en/vacancy/cloud-architect-bltcjo69jdhn68vwgcf_en",
+  "source_key": "epam:careers:bltcjo69jdhn68vwgcf",
+  "published_on": "2026-11-12",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "architecture"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
