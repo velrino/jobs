@@ -1,0 +1,31 @@
+{
+  "company": "EPAM Systems",
+  "job_title": "Lead Cloud Network Engineer",
+  "location": "Remote: Argentina, Brazil, Chile, Colombia, Mexico",
+  "summary": "Design and operate cloud network foundations, security controls and reusable network patterns for enterprise delivery.",
+  "requirements": "At least 5 years in large-scale networks, including 3 years in public cloud; VPC design, routing, segmentation and IPAM; Cloud WAN, Transit Gateway, peering, Direct Connect, VPNs and hybrid networks; ZTNA, firewalls, observability and performance. AWS is strongly preferred. English B2 or higher. See the original posting for the complete requirements and additional preferred skills.",
+  "compensation": "Numerical compensation range not disclosed in the public posting.",
+  "conditions": "The employer lists telecommuting and explicitly includes Brazil among the eligible countries. Publication date is verified from the original employer JobPosting.datePosted. Employment contract and hours are not explicitly established by the structured posting. No visa sponsorship or relocation support is confirmed. Country and similarly titled variants are consolidated rather than counted as separate opportunities.",
+  "source_url": "https://careers.epam.com/en/vacancy/lead-cloud-network-engineer-bltjrk68syuy9rimva0_en",
+  "source_key": "epam:careers:bltjrk68syuy9rimva0",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "lead"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

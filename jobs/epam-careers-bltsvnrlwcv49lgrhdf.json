@@ -1,0 +1,31 @@
+{
+  "company": "EPAM Systems",
+  "job_title": "Senior Full-Stack .NET Developer",
+  "location": "Remote: Mexico, Brazil, Colombia",
+  "summary": "Modernize and maintain legacy .NET systems while improving application security and database access.",
+  "requirements": "At least 3 years of full-stack .NET experience; delivery on large legacy systems; C#, .NET Framework, ASP.NET MVC, WCF, SQL Server, ADO.NET and OWASP risk remediation. English B2. See the original posting for the complete requirements and additional preferred skills.",
+  "compensation": "Numerical compensation range not disclosed in the public posting.",
+  "conditions": "The employer lists telecommuting and explicitly includes Brazil among the eligible countries. Publication date is verified from the original employer JobPosting.datePosted. Employment contract and hours are not explicitly established by the structured posting. No visa sponsorship or relocation support is confirmed. Country and similarly titled variants are consolidated rather than counted as separate opportunities.",
+  "source_url": "https://careers.epam.com/en/vacancy/senior-full-stack-net-developer-bltsvnrlwcv49lgrhdf_en",
+  "source_key": "epam:careers:bltsvnrlwcv49lgrhdf",
+  "published_on": "2026-11-12",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
