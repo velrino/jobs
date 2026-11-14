@@ -1,0 +1,31 @@
+{
+  "company": "INEX",
+  "job_title": "Desenvolvedor(a) .NET Pleno",
+  "location": "Remote, Brazil",
+  "summary": "Design event-driven Azure integrations and .NET backend architectures, optimize Azure SQL, architect Dynamics 365 customizations and establish Power Platform ALM/governance; review code and mentor engineers.",
+  "requirements": "Solid .NET 8/C# backend architecture, Clean Architecture and SOLID; deep Dynamics 365 plugin execution/transacting/actions knowledge; Power Platform governance and ALM; advanced Azure SQL tuning; Azure DevOps or GitHub Actions CI/CD. Azure Service Bus, Data Factory, Logic Apps and Functions integration patterns are preferred.",
+  "compensation": "Not disclosed.",
+  "conditions": "Employer JobPosting explicitly states TELECOMMUTE and Brazil applicant eligibility. Title specifies mid-level (Pleno), with architecture and technical mentoring responsibilities. Employment type and weekly hours are not disclosed. Original datePosted and matching public creation timestamp: 2026-11-09T21:31:50.919Z. This is a separate listing from the Junior-titled role, with materially different architecture/governance requirements.",
+  "source_url": "https://jobs.quickin.io/inexbr/jobs/6af23bc6cf9927001264b53e",
+  "source_key": "quickin:inexbr:6af23bc6cf9927001264b53e",
+  "published_on": "2026-11-09",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
