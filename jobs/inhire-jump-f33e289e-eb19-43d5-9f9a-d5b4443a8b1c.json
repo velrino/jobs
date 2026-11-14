@@ -1,0 +1,31 @@
+{
+  "company": "Jump",
+  "job_title": "Engenheiro(a) de Dados",
+  "location": "Remote, Brazil",
+  "summary": "Build SQL INSERT scripts and Azure Data Factory/Databricks pipelines across development, test and production; validate source/documentation consistency, investigate discrepancies and coordinate deployment dependencies and SLAs.",
+  "requirements": "Practical Azure Data Factory and Databricks experience; SQL INSERT scripts; pipeline creation/configuration; data migration and manipulation between environments; development, test and production workflows. Analytical, organized, detail-focused and independent approach. No minimum year count, degree or language requirement is disclosed.",
+  "compensation": "Not disclosed.",
+  "conditions": "Mid-level (Pleno) role. Remote work in Brazil and CLT employment are explicitly confirmed by the employer. Daily hours and contract duration are not disclosed. Original employer publishedAt, createdAt and lastPublishedAt are all 2026-11-10T19:38:05.218Z. Matching public vacancy, responsibilities and application form verified in the browser.",
+  "source_url": "https://jump.inhire.app/vagas/f33e289e-eb19-43d5-9f9a-d5b4443a8b1c/engenheiro-a-de-dados",
+  "source_key": "inhire:jump:f33e289e-eb19-43d5-9f9a-d5b4443a8b1c",
+  "published_on": "2026-11-10",
+  "last_checked": "2026-11-14",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
