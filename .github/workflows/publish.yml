@@ -1,0 +1,32 @@
+name: Publish selected jobs
+on:
+  workflow_dispatch:
+    inputs:
+      files:
+        description: 'Committed jobs/NAME.json paths, separated by spaces or newlines'
+        required: true
+        type: string
+      apply:
+        description: 'Sync labels and create missing issues after preview'
+        default: false
+        type: boolean
+permissions:
+  contents: read
+  issues: write
+concurrency:
+  group: job-publication
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    env:
+      TZ: America/Sao_Paulo
+      GH_TOKEN: ${{ github.token }}
+      JOB_FILES: ${{ inputs.files }}
+      APPLY: ${{ inputs.apply }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python3 scripts/publish_workflow.py

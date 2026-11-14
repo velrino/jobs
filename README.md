@@ -71,6 +71,14 @@ Publication creates missing issues; it does not overwrite existing descriptions,
 
 Keep issues open while the vacancy is available at the last check. Close filled or expired postings as completed. Close duplicates or discarded postings as not planned with a reason. Issue state provides the lifecycle; no duplicate status labels are needed.
 
+## Manual workflows
+
+Agents start with [AGENTS.md](AGENTS.md): [discover jobs](.agents/workflows/discover-jobs.md) covers source verification and registration; [maintain jobs](.agents/workflows/maintain-jobs.md) covers corrections and availability reviews. Both reuse the policies and publisher above.
+
+For committed records, open [Publish selected jobs](https://github.com/velrino/jobs/actions/workflows/publish.yml), choose **Run workflow**, enter explicit `jobs/NAME.json` paths and leave `apply` unchecked to preview. Review the run log, then run with `apply` checked to sync labels and create missing issues. Select the default branch with reviewed records. Inputs are passed as data, never executed as shell commands.
+
+The Action enforces the seven-day window using the America/Sao_Paulo calendar, validates before writing and serializes Action runs. Coordinate local publishers separately. It searches neither the web nor live vacancy availability: discovery and maintenance require an agent to inspect employer sources. No recurring schedule is enabled.
+
 ## Validation
 
 ```sh
