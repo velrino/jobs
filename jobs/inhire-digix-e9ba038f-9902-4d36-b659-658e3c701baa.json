@@ -1,0 +1,31 @@
+{
+  "company": "Digix",
+  "job_title": "Analista de banco de dados (Remoto)",
+  "location": "Remote, Brazil; hybrid alternative in Campo Grande",
+  "summary": "Administer and optimize SQL Server databases for the Cheff Escolar school-meal platform, support data modeling/migrations, manage recovery and security, and investigate production incidents.",
+  "requirements": "Professional DBA/relational database administration experience; solid SQL Server and T-SQL, stored procedures/views/functions/triggers; performance tuning, indexes, execution plans, locks/deadlocks; backup/restore, high availability and recovery; relational modeling, migrations and Git; incident investigation; data security/LGPD and agile/Azure DevOps basics. Azure SQL, CI/CD, Docker, Java/Spring/Hibernate, monitoring and Power BI are preferred.",
+  "compensation": "Salary not disclosed. Meal/food allowance: BRL 882 (period not stated). Benefits include a flexible allowance by seniority, health/dental coverage, learning subsidy, company equipment, life insurance and wellbeing support.",
+  "conditions": "Employer metadata specifies Remote and Brazil. The body offers remote work or hybrid work in Campo Grande; no mandatory office visits are stated for the remote option. CLT employment; seniority and weekly hours are not specified. Original publishedAt and createdAt match: 2026-11-12T17:16:58.848Z.",
+  "source_url": "https://digix.inhire.app/vagas/e9ba038f-9902-4d36-b659-658e3c701baa",
+  "source_key": "inhire:digix:e9ba038f-9902-4d36-b659-658e3c701baa",
+  "published_on": "2026-11-12",
+  "last_checked": "2026-11-14",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
