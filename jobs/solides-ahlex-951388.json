@@ -1,0 +1,31 @@
+{
+  "company": "Ahlex",
+  "job_title": "Desenvolvedor(a) Júnior (C# / .NET)",
+  "location": "Remote, Brazil",
+  "summary": "Develop and maintain a B2B e-procurement SaaS platform using C#/.NET; implement features, fix bugs, support REST integrations, test changes and participate in code review and agile delivery.",
+  "requirements": "Initial practical software/web development through internships, academic/personal projects or work; C#/.NET fundamentals, basic relational SQL, Git, programming logic and object orientation. Communication and organization for remote work. Relevant higher education, Entity Framework/LINQ, SaaS/e-procurement and technical support experience are preferred, not mandatory.",
+  "compensation": "Not disclosed.",
+  "conditions": "The employer explicitly states 100% remote under PJ or cooperative engagement. The listing is located in Brazil (São Paulo reference location); no office-attendance requirement is stated. Weekly hours and contract duration are not disclosed. Applications remain open; original publication verified from employer JobPosting.datePosted: 2026-11-09.",
+  "source_url": "https://ahlex.vagas.solides.com.br/vaga/951388",
+  "source_key": "solides:ahlex:951388",
+  "published_on": "2026-11-09",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "junior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
