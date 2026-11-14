@@ -1,0 +1,31 @@
+{
+  "company": "FourHands Brasil",
+  "job_title": "Arquiteto de Software Sênior - Remoto com Remuneração PJ de até 24k",
+  "location": "Remote, Brazil",
+  "summary": "Design and evolve mission-critical distributed software, APIs and integrations. Guide developers, review code, translate business requirements into architecture, define security/performance/observability standards, support cloud decisions and troubleshoot systems.",
+  "requirements": "Solid software architect, technical lead or senior development experience with architecture; object-oriented development; distributed systems; functional/non-functional requirements; APIs, microservices, integrations, cloud and security/performance/scalability. AWS is preferred. Desired experience across a significant subset of Java, JavaScript, Angular, Stencil.js, Elasticsearch, MongoDB, AWS, REST, events, Git, CI/CD, Docker and Kubernetes. Plus: low-code/BPM, corporate transformation, critical integrations and architecture/cloud certifications. No minimum year count or degree requirement is disclosed.",
+  "compensation": "BRL 18,000–24,000 per month, PJ; final amount depends on experience and fit.",
+  "conditions": "100% remote PJ contract. The description uses \"hybrid\" to describe the combination of architecture and hands-on development duties, not office attendance. Structured workHours=\"0h semanais\" is a placeholder; actual hours and contract duration are not disclosed. Original publication confirmed by employer JobPosting.datePosted: 2026-11-13T17:59:06-03:00. Active matching public page and application action verified.",
+  "source_url": "https://jobs.recrutei.com.br/fourhands-brasil/vacancy/165770-arquiteto-de-software-senior-remoto-com-remuneracao-pj-de-ate-24k",
+  "source_key": "recrutei:fourhands-brasil:165770",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "architecture"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
