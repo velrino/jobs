@@ -80,7 +80,9 @@
         "data": "Data engineering and analytics roles",
         "design": "Product and user experience design",
         "product": "Product management roles",
-        "unspecified": "Role category not stated"
+        "unspecified": "Role category not stated",
+        "it": "IT support, operations and governance roles",
+        "operations": "Business operations and process improvement roles"
       }
     },
     {
@@ -99,7 +101,11 @@
         "ai-ml": "Artificial intelligence and machine learning",
         "platform": "Platform and infrastructure engineering",
         "unspecified": "Specialty not stated",
-        "security": "Application security and security engineering"
+        "security": "Application security and security engineering",
+        "it-support": "Technical support and service desk",
+        "embedded": "Embedded and hardware-adjacent software",
+        "game-development": "Game programming, technical art and production",
+        "visual-design": "Visual design, animation and digital art"
       }
     },
     {
@@ -117,7 +123,8 @@
         "manager": "People management roles",
         "unspecified": "Level not explicitly stated; do not infer Staff from Architect",
         "lead": "Explicit technical lead roles; not necessarily people management",
-        "intern": "Internship or student placement"
+        "intern": "Internship or student placement",
+        "entry-level": "Graduate, trainee, working-student or explicitly early-career roles; check experience requirements"
       }
     },
     {
@@ -144,7 +151,9 @@
         "part-time": "Explicitly part-time employment",
         "contract": "Explicit contractor or contract role",
         "internship": "Internship role",
-        "unspecified": "Employment type not stated"
+        "unspecified": "Employment type not stated",
+        "permanent": "Permanent employee position; working hours are stated separately",
+        "apprenticeship": "Explicit apprenticeship or alternating work-study contract"
       }
     },
     {
@@ -163,7 +172,11 @@
         "uae": "Work based in the United Arab Emirates; check relocation conditions",
         "canada": "Applicants may work from Canada",
         "mexico": "Applicants may work from Mexico",
-        "india": "Applicants may work from India"
+        "india": "Applicants may work from India",
+        "argentina": "Applicants may work from Argentina",
+        "chile": "Applicants may work from Chile",
+        "costa-rica": "Applicants may work from Costa Rica",
+        "vietnam": "Applicants may work from Vietnam"
       }
     }
   ]

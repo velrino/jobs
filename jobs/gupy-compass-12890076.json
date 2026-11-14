@@ -1,0 +1,31 @@
+{
+  "company": "Compass UOL",
+  "job_title": "QA Test Automation | Mid (Remote)",
+  "location": "Brazil",
+  "summary": "Plan and automate functional, API, integration and performance tests, and integrate validation into delivery pipelines.",
+  "requirements": "Required: IT degree/postgraduate study, at least one ATC/CBTS/CTFL or equivalent certification, manual/automated testing, Selenium, Postman, Robot Framework, JMeter, Azure DevOps, C#/.NET or JavaScript and databases.",
+  "compensation": "Not disclosed in the public posting.",
+  "conditions": "Mid-level remote role in Brazil. This is not a beginner vacancy: a recognized testing certification is mandatory.",
+  "source_url": "https://compass.gupy.io/jobs/12890076",
+  "source_key": "gupy:compass:12890076",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "qa"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "company": "Compass UOL",
+  "job_title": "JavaScript Front-End Developer | Mid (Remote)",
+  "location": "Brazil",
+  "summary": "Build responsive interfaces, integrate frontend/backend services and deliver features with automated quality checks.",
+  "requirements": "Required: JavaScript/ES5/6+, AngularJS/jQuery, HTML/CSS, Oracle/SQL, REST and enterprise integrations, responsive/PWA interfaces, Jenkins, test automation and Git.",
+  "compensation": "Not disclosed in the public posting.",
+  "conditions": "Mid-level remote role in Brazil. The stack includes significant enterprise and legacy-framework work.",
+  "source_url": "https://compass.gupy.io/jobs/12854870",
+  "source_key": "gupy:compass:12854870",
+  "published_on": "2026-11-09",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "frontend"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

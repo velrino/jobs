@@ -4,6 +4,12 @@ A repository for sharing job opportunities through GitHub Issues. Postings and l
 
 Browse [open positions](https://github.com/velrino/jobs/issues) or [create a job posting](https://github.com/velrino/jobs/issues/new/choose).
 
+## Find an opportunity
+
+Start with [internships](https://github.com/velrino/jobs/issues?q=is%3Aissue%20is%3Aopen%20label%3Alevel%3Aintern), [junior roles](https://github.com/velrino/jobs/issues?q=is%3Aissue%20is%3Aopen%20label%3Alevel%3Ajunior), [graduate and entry-level roles](https://github.com/velrino/jobs/issues?q=is%3Aissue%20is%3Aopen%20label%3Alevel%3Aentry-level). For location-based searches, try [Brazil](https://github.com/velrino/jobs/issues?q=is%3Aissue%20is%3Aopen%20label%3Aregion%3Abrazil) or [remote roles in Brazil](https://github.com/velrino/jobs/issues?q=is%3Aissue%20is%3Aopen%20label%3Aregion%3Abrazil%20label%3Awork%3Aremote), then combine other country, specialty and seniority labels in GitHub's issue filters.
+
+Read each posting's education, graduation window, experience and work-authorization conditions. An internship can require a master's or PhD; a junior role may still request prior experience. Graduate/trainee programs are classified separately from internships. Permanent employment does not by itself establish full-time hours. The original job title is preserved, with an English summary of the opportunity.
+
 ## Share an opportunity
 
 Use the **Job opportunity** issue form. Blank issues are disabled so every posting follows this structure. Verify the original listing, summarize its responsibilities and requirements, and include its public application link, job ID, eligible location and verification date. Include compensation with currency and pay period when disclosed; mark missing information explicitly.
@@ -18,7 +24,7 @@ Search **open and closed** issues for the source key and original job URL before
 
 New searches are limited to postings originally published within the last seven calendar days. Record the employer-confirmed date in `published_on`; updates, search indexing and discovery dates do not establish recency. Older existing issues remain historical records. Explicitly requested historical links must show their original date and explain the exception. If that source does not disclose its original date, state that it is unknown and that the record is an explicitly requested historical exception; never assign a discovery date as its publication date. These exceptions are reviewed separately and never pass the seven-day Action filter.
 
-Use `--max-age-days 7` with the selected new JSON files to reject older or undated postings before any GitHub write. Existing records predating this policy may omit `published_on`. The [source review](docs/source-review-2026-11-13.md) records historical leads excluded from the latest search.
+Use `--max-age-days 7` with the selected new JSON files to reject older or undated postings before any GitHub write. Existing records predating this policy may omit `published_on`. The [initial source review](docs/source-review-2026-11-13.md) records historical leads excluded from that search. The [early-career source review](docs/source-review-2026-11-13-early-career.md) documents the additional 100 recent opportunities and eligibility caveats.
 
 ## Reusable classifications
 

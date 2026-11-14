@@ -1,0 +1,31 @@
+{
+  "company": "Quality Digital",
+  "job_title": "12778499 - ANALISTA DE SUPORTE TÉCNICO JÚNIOR",
+  "location": "Rio de Janeiro, RJ, Brazil",
+  "summary": "Provide first-line infrastructure and application support, register incidents and escalate unresolved user issues.",
+  "requirements": "Required: basic Windows, Active Directory/Certificate Services, Cluster/NLB, IIS, Terminal Server, networking and information-security knowledge.",
+  "compensation": "Not disclosed in the public posting.",
+  "conditions": "Fully onsite in Rio de Janeiro; 12-hours-on/36-hours-off day shifts, 06:00–18:00.",
+  "source_url": "https://qualitydigital.gupy.io/jobs/12778499",
+  "source_key": "gupy:qualitydigital:12778499",
+  "published_on": "2026-11-08",
+  "last_checked": "2026-11-13",
+  "role": [
+    "it"
+  ],
+  "specialty": [
+    "it-support"
+  ],
+  "level": [
+    "junior"
+  ],
+  "work": [
+    "on-site"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

@@ -136,7 +136,9 @@
           "data",
           "design",
           "product",
-          "unspecified"
+          "unspecified",
+          "it",
+          "operations"
         ]
       },
       "validations": {
@@ -160,7 +162,11 @@
           "ai-ml",
           "platform",
           "unspecified",
-          "security"
+          "security",
+          "it-support",
+          "embedded",
+          "game-development",
+          "visual-design"
         ]
       },
       "validations": {
@@ -183,7 +189,8 @@
           "manager",
           "unspecified",
           "lead",
-          "intern"
+          "intern",
+          "entry-level"
         ]
       },
       "validations": {
@@ -220,7 +227,9 @@
           "part-time",
           "contract",
           "internship",
-          "unspecified"
+          "unspecified",
+          "permanent",
+          "apprenticeship"
         ]
       },
       "validations": {
@@ -244,7 +253,11 @@
           "uae",
           "canada",
           "mexico",
-          "india"
+          "india",
+          "argentina",
+          "chile",
+          "costa-rica",
+          "vietnam"
         ]
       },
       "validations": {

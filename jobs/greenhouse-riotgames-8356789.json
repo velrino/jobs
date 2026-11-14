@@ -1,0 +1,33 @@
+{
+  "company": "Riot Games",
+  "job_title": "Anti-Cheat Engineering Intern (Masters/PhD) - Summer 2027",
+  "location": "Los Angeles, USA",
+  "summary": "Research how agentic AI affects obfuscation and reverse engineering, build repeatable evaluation harnesses and document anti-cheat findings.",
+  "requirements": "Required: current relevant master/PhD enrollment, C/C++ from coursework/research/projects, agentic-AI tooling and full-time 12-week availability. Graduation in 2028 and Python/research-tooling experience preferred.",
+  "compensation": "USD 80.77 per hour disclosed for remote placements; confirm applicability.",
+  "conditions": "Los Angeles-listed summer 2027 internship; US work authorization required, with no visa sponsorship for the internship or conversion. Work arrangement is not explicitly established; the pay statement is marked Remote Only.",
+  "source_url": "https://job-boards.greenhouse.io/riotgames/jobs/8356789",
+  "source_key": "greenhouse:riotgames:8356789",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "security",
+    "ai-ml",
+    "game-development"
+  ],
+  "level": [
+    "intern"
+  ],
+  "work": [
+    "unspecified"
+  ],
+  "type": [
+    "internship"
+  ],
+  "region": [
+    "us"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "company": "Samsara",
+  "job_title": "Software Engineering Internship - San Francisco",
+  "location": "San Francisco - SF9",
+  "summary": "Contribute to backend, full-stack or platform engineering for connected-operations products with a matched engineering team.",
+  "requirements": "Required: current junior-year bachelor student in a listed computing/STEM field, graduating spring/summer/fall 2028 or winter 2029. Similar programming-stack experience is encouraged; exact Go/TypeScript/React experience is not mandatory.",
+  "compensation": "USD 61.90 per hour.",
+  "conditions": "Full-time paid internship, three office days weekly in San Francisco. Relocation assistance available; cannot remain enrolled in school full-time during the placement.",
+  "source_url": "https://job-boards.greenhouse.io/samsara/jobs/8358786",
+  "source_key": "greenhouse:samsara:8358786",
+  "published_on": "2026-11-06",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack",
+    "platform"
+  ],
+  "level": [
+    "intern"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "internship"
+  ],
+  "region": [
+    "us"
+  ]
+}

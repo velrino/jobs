@@ -1,0 +1,33 @@
+{
+  "company": "Montreal | Tecnologia e Inovação",
+  "job_title": "Arquiteto de Software Sênior",
+  "location": "Jundiaí, SP, Brazil",
+  "summary": "Define software architecture and development standards, design integrations and guide mobile/backend engineering.",
+  "requirements": "Required: completed degree, .NET MAUI for Android/iOS, .NET Core REST APIs, Azure DevOps CI/CD, mobile design systems, backend design patterns and technical training/documentation.",
+  "compensation": "Not disclosed in the public posting.",
+  "conditions": "Senior architect role, hybrid in Jundiaí. Architect does not imply Staff classification.",
+  "source_url": "https://montreal.gupy.io/jobs/12879742",
+  "source_key": "gupy:montreal:12879742",
+  "published_on": "2026-11-12",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "architecture",
+    "mobile",
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

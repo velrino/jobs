@@ -1,0 +1,32 @@
+{
+  "company": "Nuro",
+  "job_title": "Systems Engineering, New Grad 2027",
+  "location": "Mountain View, California (HQ)",
+  "summary": "Define and verify autonomous-driving requirements, performance metrics and system validation across hardware/software/operations.",
+  "requirements": "Required: relevant BS/MS/PhD completing by June 2027, strong Python or C++, safety-minded analysis and clear technical communication.",
+  "compensation": "USD 153,000–176,000 annual base pay; performance bonus and equity may be additional.",
+  "conditions": "New-graduate role based at Mountain View headquarters. Work arrangement and immigration sponsorship are not explicitly established.",
+  "source_url": "https://job-boards.greenhouse.io/nuro/jobs/8360415",
+  "source_key": "greenhouse:nuro:8360415",
+  "published_on": "2026-11-12",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "qa",
+    "ai-ml"
+  ],
+  "level": [
+    "entry-level"
+  ],
+  "work": [
+    "unspecified"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "us"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "company": "Brex",
+  "job_title": "Software Engineer, Internship - 2027",
+  "location": "São Paulo, São Paulo, Brazil",
+  "summary": "Build products, backend services and infrastructure with mentorship and data-driven engineering practices.",
+  "requirements": "Required: relevant computing bachelor programme graduating in 2027; backend language experience such as Java/Kotlin/Python, SQL/NoSQL databases and cross-functional collaboration. Functional programming and cloud exposure preferred.",
+  "compensation": "Not disclosed in the public posting.",
+  "conditions": "Remote internship. Applicants must be in São Paulo state or willing to relocate if converted to a hybrid full-time role.",
+  "source_url": "https://job-boards.greenhouse.io/brex/jobs/8935242002",
+  "source_key": "greenhouse:brex:8935242002",
+  "published_on": "2026-11-09",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend",
+    "platform"
+  ],
+  "level": [
+    "intern"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "internship"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

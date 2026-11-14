@@ -1,0 +1,32 @@
+{
+  "company": "Stefanini Group",
+  "job_title": "Desenvolvedor(a) .NET / Dynamics / Azure – Júnior",
+  "location": "Jaguariúna, SP, Brazil",
+  "summary": "Develop supervised C#/.NET features, Dynamics 365 and Power Apps customizations, and basic Azure integrations.",
+  "requirements": "Required: C#/.NET Core fundamentals, practical exposure to Dynamics 365/Power Apps and core Azure services. Microsoft certifications preferred.",
+  "compensation": "Not disclosed in the public posting.",
+  "conditions": "Hybrid in Jaguariúna, São Paulo. Mentoring and technical training benefits are advertised.",
+  "source_url": "https://stefanini.gupy.io/jobs/12861027",
+  "source_key": "gupy:stefanini:12861027",
+  "published_on": "2026-11-10",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend",
+    "platform"
+  ],
+  "level": [
+    "junior"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

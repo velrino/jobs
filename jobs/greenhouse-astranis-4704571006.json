@@ -1,0 +1,31 @@
+{
+  "company": "Astranis",
+  "job_title": "Embedded Software Developer, Network/Payload Intern (Winter 2027)",
+  "location": "San Francisco",
+  "summary": "Design, prototype and test network/payload software interacting with space-vehicle and ground hardware.",
+  "requirements": "Required: current relevant technical bachelor programme, C++ and Python, ability to write/test hardware-interacting software, RF/signal processing and real-time operating systems.",
+  "compensation": "USD 29 per hour.",
+  "conditions": "Typically 12 weeks in San Francisco, Winter 2027. US citizen, permanent resident or protected refugee/asylee status required for export-control access. Workplace arrangement is not explicitly specified.",
+  "source_url": "https://job-boards.greenhouse.io/astranis/jobs/4704571006",
+  "source_key": "greenhouse:astranis:4704571006",
+  "published_on": "2026-11-06",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "embedded"
+  ],
+  "level": [
+    "intern"
+  ],
+  "work": [
+    "unspecified"
+  ],
+  "type": [
+    "internship"
+  ],
+  "region": [
+    "us"
+  ]
+}

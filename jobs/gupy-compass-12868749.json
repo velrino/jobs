@@ -1,0 +1,31 @@
+{
+  "company": "Compass UOL",
+  "job_title": "Java Back-End Developer Pleno | Remote",
+  "location": "Brazil",
+  "summary": "Develop Java services and business rules, integrate systems and maintain secure, tested backend applications.",
+  "requirements": "Required: Java SE/Web and Quarkus, JPA/Jakarta EE, REST APIs, microservices/SOA, messaging, relational SQL, automated testing, Git and CI/CD. Some web/frontend knowledge is also requested.",
+  "compensation": "Not disclosed in the public posting.",
+  "conditions": "Mid-level remote role in Brazil. Enterprise integration, Azure AZ-900 and legacy-platform experience are advantages.",
+  "source_url": "https://compass.gupy.io/jobs/12868749",
+  "source_key": "gupy:compass:12868749",
+  "published_on": "2026-11-10",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

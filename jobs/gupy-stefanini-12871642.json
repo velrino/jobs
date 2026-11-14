@@ -1,0 +1,32 @@
+{
+  "company": "Stefanini Group",
+  "job_title": "ANALISTA DESENVOLVEDOR PYTHON",
+  "location": "Araras, SP, Brazil",
+  "summary": "Develop and integrate Python/Java enterprise solutions, scalable architectures and automation involving Power Platform, Copilot Studio and GenAI.",
+  "requirements": "Required: completed IT higher education, Python and Java development, Git, CI/CD and build/deployment automation.",
+  "compensation": "Not disclosed in the public posting.",
+  "conditions": "Hybrid in Araras, São Paulo. The description explicitly requests a senior Python developer despite the shorter public title.",
+  "source_url": "https://stefanini.gupy.io/jobs/12871642",
+  "source_key": "gupy:stefanini:12871642",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend",
+    "ai-ml"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

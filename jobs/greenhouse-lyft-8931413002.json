@@ -1,0 +1,32 @@
+{
+  "company": "Lyft",
+  "job_title": "Data Engineer",
+  "location": "Toronto, Canada",
+  "summary": "Build backend/data workflows and scalable models for advertising delivery, targeting and measurement.",
+  "requirements": "Required: relevant computing degree or work experience, 2+ years backend/data engineering, Python/Go/Java, distributed systems, SQL/NoSQL databases and Linux. Explicitly described as an early-career opportunity.",
+  "compensation": "CAD 108,000–135,000 expected annual base salary; equity/bonus may be additional.",
+  "conditions": "Hybrid in Toronto, at least three office days weekly: Monday, Wednesday and Thursday. Up to four work-from-anywhere weeks annually.",
+  "source_url": "https://job-boards.greenhouse.io/lyft/jobs/8931413002",
+  "source_key": "greenhouse:lyft:8931413002",
+  "published_on": "2026-11-10",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering",
+    "data"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "entry-level"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "canada"
+  ]
+}

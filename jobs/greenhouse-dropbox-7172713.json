@@ -1,0 +1,32 @@
+{
+  "company": "Dropbox",
+  "job_title": "Infrastructure Software Engineer",
+  "location": "Remote - Mexico",
+  "summary": "Develop scalable distributed infrastructure and improve production performance, reliability and security.",
+  "requirements": "Required: relevant technical degree or equivalent experience, 5+ years software development, large distributed backend systems, Python/Go/C++/Java and systems-level infrastructure knowledge.",
+  "compensation": "Not disclosed in the public posting.",
+  "conditions": "Remote in Mexico. Occasional on-call work may be necessary; global or Brazil-based eligibility is not established.",
+  "source_url": "https://job-boards.greenhouse.io/dropbox/jobs/7172713",
+  "source_key": "greenhouse:dropbox:7172713",
+  "published_on": "2026-11-06",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend",
+    "platform"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "mexico"
+  ]
+}

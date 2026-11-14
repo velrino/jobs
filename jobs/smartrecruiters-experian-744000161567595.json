@@ -1,0 +1,32 @@
+{
+  "company": "Experian",
+  "job_title": "Staff AI Engineer",
+  "location": "São Paulo, Brazil",
+  "summary": "Own applied GenAI strategy, production RAG/agents, evaluation standards and adoption across product squads.",
+  "requirements": "Required: 5+ years software/data/ML engineering, organizational technical change, production GenAI, advanced Python, SQL, statistics, LLM evaluation, MCP servers and technical mentoring. Advanced English required.",
+  "compensation": "Not disclosed in the public posting.",
+  "conditions": "Senior individual-contributor role with functional technical leadership, explicitly no current hierarchical people management. Public employer metadata explicitly marks this role as hybrid.",
+  "source_url": "https://jobs.smartrecruiters.com/Experian/744000161567595-staff-ai-engineer",
+  "source_key": "smartrecruiters:experian:744000161567595",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "ai-ml",
+    "architecture"
+  ],
+  "level": [
+    "staff"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "company": "Endava",
+  "job_title": "Junior DevOps Engineer",
+  "location": "Ho Chi Minh City, Vietnam",
+  "summary": "Maintain cloud-native CI/CD and release pipelines, diagnose infrastructure issues and automate Kubernetes-based delivery/testing.",
+  "requirements": "Required: relevant university qualification, Docker/Kubernetes/Helm, GitLab CI/CD, Java/bash, Linux, debugging and spoken/written English.",
+  "compensation": "Not disclosed in the public posting.",
+  "conditions": "Based in Ho Chi Minh City. Title explicitly says Junior despite conflicting generic mid-senior metadata. Confirm office/hybrid schedule.",
+  "source_url": "https://jobs.smartrecruiters.com/Endava/744000160141315-junior-devops-engineer",
+  "source_key": "smartrecruiters:endava:744000160141315",
+  "published_on": "2026-11-06",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "junior"
+  ],
+  "work": [
+    "unspecified"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "vietnam"
+  ]
+}

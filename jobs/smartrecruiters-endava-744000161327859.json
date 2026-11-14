@@ -1,0 +1,33 @@
+{
+  "company": "Endava",
+  "job_title": "Machine Learning Engineer",
+  "location": "Córdoba, Cordoba, Argentina",
+  "summary": "Deploy and monitor production ML models and build feature/data pipelines for a mobile trading application.",
+  "requirements": "Required: 4+ years software/ML engineering with production models, Python, model-serving APIs, containers, AWS, orchestration, CI/CD and observability. Financial-sector and ML-platform experience preferred.",
+  "compensation": "Not disclosed in the public posting.",
+  "conditions": "Hybrid in Córdoba, Argentina. Provider classifies the role as mid-senior; exact hiring level should be confirmed.",
+  "source_url": "https://jobs.smartrecruiters.com/Endava/744000161327859-machine-learning-engineer-",
+  "source_key": "smartrecruiters:endava:744000161327859",
+  "published_on": "2026-11-12",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "ai-ml",
+    "platform"
+  ],
+  "level": [
+    "mid",
+    "senior"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "argentina"
+  ]
+}

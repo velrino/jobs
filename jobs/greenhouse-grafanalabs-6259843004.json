@@ -1,0 +1,33 @@
+{
+  "company": "Grafana Labs",
+  "job_title": "Staff Mobile Engineer - Session Replay | Canada | Remote",
+  "location": "Canada (Remote)",
+  "summary": "Build native mobile session-replay SDKs and capture/ingestion/playback pipelines, with privacy masking and consent built in.",
+  "requirements": "Required: deep Android or iOS engineering, external-developer SDK/library experience, API design, clear English, production reliability and privacy awareness. Android depth is prioritized; Kotlin/Java, Swift/Obj-C, Go and TypeScript/React span the stack.",
+  "compensation": "Canada OTE/base compensation range: CAD 192,891–231,469; RSUs included. Confirm pay period and offer structure.",
+  "conditions": "Full-time remote. Description permits US and Canada only, in Eastern or Central time zones; this is the Canada posting. Country-specific compensation applies.",
+  "source_url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6259843004",
+  "source_key": "greenhouse:grafanalabs:6259843004",
+  "published_on": "2026-11-12",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "mobile",
+    "platform"
+  ],
+  "level": [
+    "staff"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "canada",
+    "us"
+  ]
+}

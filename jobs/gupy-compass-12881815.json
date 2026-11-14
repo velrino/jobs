@@ -1,0 +1,32 @@
+{
+  "company": "Compass UOL",
+  "job_title": "Python Data Science | Mid (Remote)",
+  "location": "Brazil",
+  "summary": "Translate operational problems into optimization models and deploy prescriptive analytics services.",
+  "requirements": "Required: mathematical optimization/LP/MIP, production Python or C/C++, optimization algorithms/solvers, containers/CI/CD, DevSecOps, statistics/ML and Git/testing. Pyomo, Gurobi or CPLEX preferred.",
+  "compensation": "Not disclosed in the public posting.",
+  "conditions": "Mid-level remote role in Brazil. Focus is operations research and production modeling, not introductory data analysis.",
+  "source_url": "https://compass.gupy.io/jobs/12881815",
+  "source_key": "gupy:compass:12881815",
+  "published_on": "2026-11-12",
+  "last_checked": "2026-11-13",
+  "role": [
+    "data",
+    "engineering"
+  ],
+  "specialty": [
+    "ai-ml"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

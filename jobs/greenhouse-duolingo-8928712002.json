@@ -1,0 +1,32 @@
+{
+  "company": "Duolingo",
+  "job_title": "AI Research Intern (PhD)",
+  "location": "New York, NY; Pittsburgh, PA",
+  "summary": "Research, prototype and evaluate AI models and help bring research findings into educational products.",
+  "requirements": "Required: current relevant AI/ML/NLP PhD, expected graduation by August 2028, research contributions/portfolio, implementation skills in Python/Java/Scala/C++ and strong debugging.",
+  "compensation": "USD 67–69 per hour.",
+  "conditions": "Twelve consecutive weeks in Pittsburgh or New York; May 24–August 13 or June 14–September 3, 2027. Relocation required; visa terms not disclosed.",
+  "source_url": "https://job-boards.greenhouse.io/duolingo/jobs/8928712002",
+  "source_key": "greenhouse:duolingo:8928712002",
+  "published_on": "2026-11-06",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering",
+    "data"
+  ],
+  "specialty": [
+    "ai-ml"
+  ],
+  "level": [
+    "intern"
+  ],
+  "work": [
+    "on-site"
+  ],
+  "type": [
+    "internship"
+  ],
+  "region": [
+    "us"
+  ]
+}

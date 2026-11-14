@@ -1,0 +1,31 @@
+{
+  "company": "Experian",
+  "job_title": "Analista de Desenvolvimento de Software Sênior (Java)",
+  "location": "Blumenau, Brazil",
+  "summary": "Build and operate scalable Java backend microservices, APIs and event-driven systems throughout the delivery lifecycle.",
+  "requirements": "Required: strong Java with Spring Boot or Quarkus, REST APIs, AWS, Docker/Kubernetes, Kafka/SQS/SNS, databases, observability and code-quality practices. Python or Go preferred.",
+  "compensation": "Not disclosed in the public posting.",
+  "conditions": "Full-time role listed in Blumenau. Public employer metadata explicitly marks this role as hybrid.",
+  "source_url": "https://jobs.smartrecruiters.com/Experian/744000160734049-analista-de-desenvolvimento-de-software-senior-java-",
+  "source_key": "smartrecruiters:experian:744000160734049",
+  "published_on": "2026-11-09",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "company": "Experian",
+  "job_title": "Data Management Specialist",
+  "location": "Santiago, SANTIAGO, Chile",
+  "summary": "Support AWS data ingestion, onboarding, pipeline monitoring and operational data quality.",
+  "requirements": "Required: relevant degree or equivalent experience, data operations/analysis, ingestion monitoring, large datasets, AWS workflows, SQL, process documentation and governance.",
+  "compensation": "Not disclosed in the public posting.",
+  "conditions": "Listed in Santiago, Chile. The description calls the scope Data Operations Analyst II; the public title is Data Management Specialist. Public employer metadata explicitly marks this role as hybrid.",
+  "source_url": "https://jobs.smartrecruiters.com/Experian/744000160668669-data-management-specialist",
+  "source_key": "smartrecruiters:experian:744000160668669",
+  "published_on": "2026-11-09",
+  "last_checked": "2026-11-13",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "chile"
+  ]
+}

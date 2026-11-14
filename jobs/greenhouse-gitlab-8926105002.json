@@ -1,0 +1,32 @@
+{
+  "company": "GitLab",
+  "job_title": "Staff Backend Engineer, Performance Enablement",
+  "location": "Remote, Poland",
+  "summary": "Define a self-service performance platform, build testing/analysis capabilities and guide cross-team technical adoption.",
+  "requirements": "Required: Staff-level backend/platform experience, performance-enablement leadership, multi-quarter technical strategy, load-testing tools such as k6, Kubernetes and cloud infrastructure.",
+  "compensation": "PLN 328,000–492,000 base-salary range. Pay period is not explicitly stated in the checked text; confirm with employer.",
+  "conditions": "Remote in Poland. The disclosed range applies to the specified EU hiring location; on-call may apply.",
+  "source_url": "https://job-boards.greenhouse.io/gitlab/jobs/8926105002",
+  "source_key": "greenhouse:gitlab:8926105002",
+  "published_on": "2026-11-12",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend",
+    "platform"
+  ],
+  "level": [
+    "staff"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "europe"
+  ]
+}

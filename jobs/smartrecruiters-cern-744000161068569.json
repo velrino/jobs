@@ -1,0 +1,32 @@
+{
+  "company": "CERN",
+  "job_title": "Junior Automation & Controls Engineer (SY-EPC-CCS-2026-254-GRAE)",
+  "location": "Geneva, GENEVA, Switzerland",
+  "summary": "Develop industrial control systems, Python hardware-in-the-loop tests and CI/CD, and help adopt AI-assisted engineering tools.",
+  "requirements": "Required: relevant bachelor or master degree, at most two years post-graduation professional experience, practical Siemens S7-1500 controls, Python and Git/CI/CD. No PhD and no previous CERN fellow/graduate contract. English with commitment to learn French.",
+  "compensation": "CHF 5,266 or CHF 5,793 net per month, depending on degree; allowances may apply.",
+  "conditions": "Hybrid in Geneva, 40 hours weekly; 24-month appointment, potentially 36 months. Target start March 2027; deadline 2026-12-01, 23:59 CET. CERN requires nationality of a Member or Associate Member State for this program; Brazil is an Associate Member according to https://home.cern/about/who-we-are/our-stakeholders. This is work in Geneva, not remote from Brazil.",
+  "source_url": "https://jobs.smartrecruiters.com/CERN/744000161068569-junior-automation-controls-engineer-sy-epc-ccs-2026-254-grae-",
+  "source_key": "smartrecruiters:cern:744000161068569",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "embedded",
+    "qa"
+  ],
+  "level": [
+    "junior"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "europe"
+  ]
+}

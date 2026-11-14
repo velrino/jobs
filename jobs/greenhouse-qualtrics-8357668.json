@@ -1,0 +1,31 @@
+{
+  "company": "Qualtrics",
+  "job_title": "Software Engineer II - Discover Studio",
+  "location": "Mexico City, Mexico",
+  "summary": "Build customer-facing web applications and supporting services, with automated testing and collaborative delivery.",
+  "requirements": "Required: computer-science bachelor degree, 3–5 years relevant experience, scalable web services/UI, modern stacks such as React/Node/Java/Spring, data systems, containers and CI/CD.",
+  "compensation": "Not disclosed in the public posting.",
+  "conditions": "Hybrid in Mexico City, three office days weekly. Engineer II is preserved as the employer title; exact seniority classification should be confirmed.",
+  "source_url": "https://job-boards.greenhouse.io/qualtrics/jobs/8357668",
+  "source_key": "greenhouse:qualtrics:8357668",
+  "published_on": "2026-11-09",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "mexico"
+  ]
+}

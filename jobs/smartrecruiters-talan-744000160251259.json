@@ -1,0 +1,32 @@
+{
+  "company": "Talan",
+  "job_title": "DevSecOps Engineer",
+  "location": "Buenos Aires, Buenos Aires, Argentina",
+  "summary": "Build secure AWS/EKS platforms, automate delivery and infrastructure, and support cloud migrations and observability.",
+  "requirements": "Required: 5+ years DevSecOps/DevOps, AWS, Kubernetes/EKS, GitHub CI/CD, Terraform, Docker, Linux, IAM and CloudWatch. Python, Java, Dynatrace and financial-services exposure preferred.",
+  "compensation": "Not disclosed in the public posting.",
+  "conditions": "B2B contract. Buenos Aires is listed, but the description restricts remote work to CET timezone; confirm residence and schedule eligibility.",
+  "source_url": "https://jobs.smartrecruiters.com/Talan/744000160251259-devsecops-engineer",
+  "source_key": "smartrecruiters:talan:744000160251259",
+  "published_on": "2026-11-06",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform",
+    "security"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "unspecified"
+  ]
+}

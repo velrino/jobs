@@ -1,0 +1,32 @@
+{
+  "company": "Stefanini Group",
+  "job_title": "Desenvolvedor(a) .NET / Dynamics / Azure – Pleno",
+  "location": "Jaguariúna, SP, Brazil",
+  "summary": "Build C#/.NET and Dynamics 365 solutions, Azure integrations and CI/CD pipelines, and support junior engineers.",
+  "requirements": "Required: advanced C#/.NET, practical Dynamics 365 CE/F&O architecture, Azure Functions/App Services/Service Bus and Azure DevOps pipelines. Relevant Microsoft certifications and Power Platform preferred.",
+  "compensation": "Not disclosed in the public posting.",
+  "conditions": "Hybrid in Jaguariúna, São Paulo; mid-level position.",
+  "source_url": "https://stefanini.gupy.io/jobs/12861026",
+  "source_key": "gupy:stefanini:12861026",
+  "published_on": "2026-11-10",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend",
+    "platform"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

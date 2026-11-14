@@ -1,0 +1,32 @@
+{
+  "company": "GitLab",
+  "job_title": "Engineering Manager, Security Platform: Authentication",
+  "location": "Bangalore, India",
+  "summary": "Build and lead an authentication engineering team, coordinate cross-team migrations and own operational reliability.",
+  "requirements": "Required: substantial backend/platform engineering management, hiring and mentoring senior engineers, identity/security protocols such as OAuth/OIDC/SAML/JWT, production operations, Ruby on Rails or Go, and clear written English.",
+  "compensation": "Not disclosed in the public posting.",
+  "conditions": "Remote role listed in Bangalore, India. Includes on-call/operational ownership where needed; location-specific hiring restrictions apply.",
+  "source_url": "https://job-boards.greenhouse.io/gitlab/jobs/8929723002",
+  "source_key": "greenhouse:gitlab:8929723002",
+  "published_on": "2026-11-10",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "security",
+    "platform"
+  ],
+  "level": [
+    "manager"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "india"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "company": "Bosch Group",
+  "job_title": "Working Student Embedded ADAS Software",
+  "location": "Cluj-Napoca, CJ, Romania",
+  "summary": "Develop embedded AI components and inference integration, then evaluate ADAS model quality and hardware efficiency.",
+  "requirements": "Required: algorithms, real-time embedded programming, hardware architectures, OOP, operating systems, multithreading and good English. Final-year bachelor or first-year master enrollment preferred.",
+  "compensation": "Not disclosed in the public posting.",
+  "conditions": "Working-student role in Cluj-Napoca. API lists full-time; confirm the student schedule and office attendance. Public employer metadata explicitly marks this role as hybrid.",
+  "source_url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539-working-student-embedded-adas-software",
+  "source_key": "smartrecruiters:boschgroup:744000161438539",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "embedded",
+    "ai-ml"
+  ],
+  "level": [
+    "entry-level"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "europe"
+  ]
+}

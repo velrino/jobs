@@ -1,0 +1,32 @@
+{
+  "company": "Rubrik",
+  "job_title": "Software Engineer - Virtual Platform",
+  "location": "Palo Alto, CA",
+  "summary": "Build and operate scalable cloud/virtual-platform software supporting enterprise data protection.",
+  "requirements": "Required: computing bachelor/master or equivalent, 0–1 years experience, strong data structures/algorithms/distributed-systems foundations, systems programming and C++/Java/Scala debugging.",
+  "compensation": "USD 131,400–197,200 annual base salary; bonus/equity may be additional.",
+  "conditions": "Explicit new-college-graduate opening in Palo Alto. Remote work and visa sponsorship are not established.",
+  "source_url": "https://job-boards.greenhouse.io/rubrik/jobs/8351288",
+  "source_key": "greenhouse:rubrik:8351288",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-13",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend",
+    "platform"
+  ],
+  "level": [
+    "entry-level"
+  ],
+  "work": [
+    "unspecified"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "us"
+  ]
+}
