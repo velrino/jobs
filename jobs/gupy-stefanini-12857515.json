@@ -1,0 +1,32 @@
+{
+  "company": "Stefanini",
+  "job_title": "Arquiteto(a) de IA Generativa / Arquitetura Agêntica",
+  "location": "Remote, Brazil",
+  "summary": "Design enterprise generative-AI and multi-agent architectures, orchestration and RAG; define guardrails, auditability and governance, guide squad architecture decisions and integrate solutions with corporate systems.",
+  "requirements": "Generative-AI solution architecture and agentic systems; LangGraph, LangChain, CrewAI, Semantic Kernel or similar; RAG and LLMs such as Azure OpenAI/OpenAI/Anthropic/Gemini; advanced prompting; responsible-AI governance; APIs/microservices and corporate integrations; preferably Azure. Regulated-domain AI, enterprise architecture and Azure certifications are preferred.",
+  "compensation": "Not disclosed.",
+  "conditions": "The active employer listing specifies remote work in Brazil, with no office-attendance requirement stated. Permanent employment; hours are not disclosed. The employer does not specify a seniority level; Architect and technical decision leadership do not establish Staff/Principal or people-manager seniority. Original publication verified from the employer publishedAt field: 2026-11-09. Registration deadline: 2027-01-08.",
+  "source_url": "https://stefanini.gupy.io/jobs/12857515",
+  "source_key": "gupy:stefanini:12857515",
+  "published_on": "2026-11-09",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "architecture",
+    "ai-ml"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
