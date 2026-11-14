@@ -1,0 +1,31 @@
+{
+  "company": "Dev.Pro",
+  "job_title": "Senior Data Engineer - OP02326",
+  "location": "Remote: São Paulo, Brazil; Santiago, Chile; Bogotá, Colombia",
+  "summary": "Build AWS data pipelines connecting point-of-sale systems with a hotel data platform, including database integrations and reporting.",
+  "requirements": "5+ years in data engineering; AWS data services and pipelines; data integration/transformation, Python, SQL, troubleshooting and client communication; Upper-Intermediate+ English. Preferred: Snowflake/data apps, GCP, JavaScript/frontend, Java or Scala and POS experience.",
+  "compensation": "Numerical compensation range not disclosed in the public posting; benefits, if listed, are separate from salary.",
+  "conditions": "The active employer posting explicitly lists remote work and Brazil among its eligible locations. Publication date comes from the public employer posting published field (calendar date as presented by Workable). Only one opportunity is counted across its multiple locations. No visa sponsorship or relocation support is confirmed. The employer states that it works with independent contractors. An English CV is requested.",
+  "source_url": "https://apply.workable.com/devpro/j/D2F00A49D0/",
+  "source_key": "workable:devpro:D2F00A49D0",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-14",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

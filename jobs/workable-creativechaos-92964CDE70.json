@@ -1,0 +1,31 @@
+{
+  "company": "Creative Chaos",
+  "job_title": "Senior Backend Engineer (Go / AWS Streaming)",
+  "location": "Remote: Pakistan; India; Germany; Romania; Argentina; Brazil",
+  "summary": "Build Go telemetry services and AWS ingestion/streaming pipelines, load analytics warehouses and improve reliability, monitoring and cost.",
+  "requirements": "5+ years in backend engineering with 2–3+ years of production Go; streaming systems such as Kinesis or Kafka, AWS IoT/device telemetry and MQTT, Redshift or comparable warehouses, SQL, AWS infrastructure, Terraform/CDK, Docker and CI/CD. English communication with a US product team.",
+  "compensation": "Numerical compensation range not disclosed in the public posting; benefits, if listed, are separate from salary.",
+  "conditions": "The active employer posting explicitly lists remote work and Brazil among its eligible locations. Publication date comes from the public employer posting published field (calendar date as presented by Workable). Only one opportunity is counted across its multiple locations. No visa sponsorship or relocation support is confirmed. Employment contract and working hours are not explicitly established in the public posting.",
+  "source_url": "https://apply.workable.com/creativechaos/j/92964CDE70/",
+  "source_key": "workable:creativechaos:92964CDE70",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

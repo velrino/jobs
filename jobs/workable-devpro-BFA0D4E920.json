@@ -1,0 +1,31 @@
+{
+  "company": "Dev.Pro",
+  "job_title": "Senior DevOps Engineer - OP02309-OS",
+  "location": "Remote: São Paulo, Brazil; Buenos Aires, Argentina; Bogotá, Colombia",
+  "summary": "Build AWS and distributed Linux infrastructure, GitLab delivery pipelines, infrastructure automation and IoT observability; support incident response.",
+  "requirements": "4+ years in DevOps/SRE and 2+ supporting product engineering teams; AWS/Linux, GitLab CI/CD, distributed systems, Terraform, Docker, Kubernetes and scripting; IoT observability, microservices/serverless, infrastructure automation and incident response. Ubuntu experience is preferred.",
+  "compensation": "Numerical compensation range not disclosed in the public posting; benefits, if listed, are separate from salary.",
+  "conditions": "The active employer posting explicitly lists remote work and Brazil among its eligible locations. Publication date comes from the public employer posting published field (calendar date as presented by Workable). Only one opportunity is counted across its multiple locations. No visa sponsorship or relocation support is confirmed. The employer states that it works with independent contractors. An English CV is requested.",
+  "source_url": "https://apply.workable.com/devpro/j/BFA0D4E920/",
+  "source_key": "workable:devpro:BFA0D4E920",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
