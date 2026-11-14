@@ -1,0 +1,31 @@
+{
+  "company": "CTC",
+  "job_title": "Desenvolvedor Apex SR",
+  "location": "Remote, Brazil",
+  "summary": "Develop and support Oracle APEX applications, provide technical guidance, build REST/SOAP and SAP integrations, optimize Oracle SQL/PLSQL and coordinate production releases.",
+  "requirements": "Fluent English or Spanish; strong Oracle APEX, Oracle SQL/PLSQL, advanced Oracle data modeling, REST/SOAP with JSON/XML, enterprise integrations, SQL ANSI, procedures/functions/packages/triggers/jobs, JavaScript/jQuery/HTML5/CSS, troubleshooting and Git. Preferred: Oracle ORDS/Integration Cloud, APEX security, CI/CD, frontend frameworks, Agile, Oracle certifications and finance/insurance experience.",
+  "compensation": "Not disclosed.",
+  "conditions": "Remote in Brazil, Brazilian PJ contractor arrangement. Senior role with architecture, technical review, mentoring and production-release responsibilities; no people-management role is stated. The introduction also describes infrastructure/equipment/user-access support across LATAM, while the detailed responsibilities describe Oracle APEX engineering; clarify this scope inconsistency with the employer. Contract duration, daily hours and minimum year count are not disclosed. Original employer publishedAt: 2026-11-11T17:13:27.111Z, distinct from lastPublishedAt. Matching public vacancy and application form verified in the browser.",
+  "source_url": "https://ctctech.inhire.app/vagas/fc68df74-e28f-4485-82e5-31124d2e1a85/desenvolvedor-apex-sr",
+  "source_key": "inhire:ctctech:fc68df74-e28f-4485-82e5-31124d2e1a85",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
