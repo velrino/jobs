@@ -1,0 +1,31 @@
+{
+  "company": "ília",
+  "job_title": "PL Desenvolvimento Fullstack (Java + React)",
+  "location": "Remote, Brazil",
+  "summary": "Build and evolve Java/Spring Boot microservices for a loyalty-program client; implement asynchronous messaging, MongoDB/NoSQL data access, production support and AWS integrations. Develop React/TypeScript micro-frontends and Node.js/NestJS BFFs; contribute to reviews and knowledge sharing.",
+  "requirements": "Solid Java/Spring Boot microservices experience; NoSQL, preferably MongoDB; asynchronous messaging such as RabbitMQ; AWS; React/TypeScript micro-frontends; Node.js/NestJS/TypeScript; production support. Preferred: Spring Cloud, Keycloak/JWT/OAuth2, automated testing, code-quality tools, Docker/Kubernetes/Helm, AWS EKS/ECR/S3/CloudFront, GitLab CI/CD and Dynatrace. No minimum year count, degree or language requirement is disclosed.",
+  "compensation": "Not disclosed.",
+  "conditions": "Mid-level role. Remote CLT employment in Brazil, 40 hours per week with flexible hours. No contract duration is disclosed. Original first_published: 2026-11-13T15:21:40-05:00. The vacancy remains listed on the active employer board; the matching public posting and application form were verified.",
+  "source_url": "https://job-boards.greenhouse.io/ilia/jobs/6261726004",
+  "source_key": "greenhouse:ilia:6261726004",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

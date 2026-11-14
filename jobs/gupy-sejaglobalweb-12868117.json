@@ -1,0 +1,31 @@
+{
+  "company": "Globalweb",
+  "job_title": "[SERPRO POSTO] - DESENVOLVEDOR JAVA SR",
+  "location": "Remote, Brazil",
+  "summary": "Develop and maintain secure, performant Java applications for SERPRO/Receita Federal tax-reform projects. Design components and data models, write unit tests and traceable code changes, maintain development/build environments and participate in Scrum ceremonies.",
+  "requirements": "Fullstack Java background with at least one listed stack combination: React/Oracle; Spring Boot/Angular; Quarkus/Kafka/Angular; Spring Boot/Kafka/Angular/MongoDB; Spring Boot/Kafka; or Java 8/Kafka/Angular 4. Secure development/privacy, UML and data modeling, CI/CD, version/build/release tools, WCAG 2, SAST/DAST/HP Fortify, REST/design patterns, monolithic and decoupled systems, unit testing and Git. Completed MEC-recognized IT degree, OR any completed recognized degree plus a completed software-engineering/development postgraduate course of at least 360 hours. No minimum year count or language requirement is disclosed.",
+  "compensation": "Amount not disclosed; payments are monthly for active assignments.",
+  "conditions": "Senior remote role in Brazil, PJ with non-exclusive dedication. SERPRO contract spans October 2026–October 2028. Allocation is by client service orders with start/end dates; gaps between orders may mean no work and no billing. Minimum productivity and quality targets apply. Daily/weekly hours are not disclosed. Original publication confirmed by JobPosting.datePosted=2026-11-14 and publishedAt=2026-11-14T12:54:13.322Z; active public page and application action verified.",
+  "source_url": "https://sejaglobalweb.gupy.io/jobs/12868117",
+  "source_key": "gupy:sejaglobalweb:12868117",
+  "published_on": "2026-11-14",
+  "last_checked": "2026-11-14",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
