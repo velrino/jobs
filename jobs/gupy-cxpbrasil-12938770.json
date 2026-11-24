@@ -1,0 +1,31 @@
+{
+  "company": "CXP Brasil",
+  "job_title": "Analista de Devops Sênior - Híbrido/SP - 3 vezes",
+  "location": "São Paulo, SP, Brazil",
+  "summary": "Operate critical DevOps infrastructure, observability and automated incident workflows using Datadog and cloud tooling.",
+  "requirements": "Solid DevOps, Datadog APM/logs/monitors/cost governance, Command Center/NOC operations, Python/Bash/Go, cloud, Kubernetes/Docker, CI/CD and Terraform. AIOps/LLMs and auto-remediation preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "PJ contractor; three office days per week in Sao Paulo. Visa sponsorship and relocation support are not established.",
+  "source_url": "https://cxpbrasil.gupy.io/jobs/12938770",
+  "source_key": "gupy:cxpbrasil:12938770",
+  "published_on": "2026-11-24",
+  "last_checked": "2026-11-24",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

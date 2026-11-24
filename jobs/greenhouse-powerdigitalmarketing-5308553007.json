@@ -1,0 +1,31 @@
+{
+  "company": "Power Digital",
+  "job_title": "Senior Data Product Engineer",
+  "location": "Brazil — remote",
+  "summary": "Ship data products end to end, combining production pipelines, predictive models and AI-assisted engineering for marketing decisions.",
+  "requirements": "5+ years in production data/software roles; strong SQL/Python, data pipelines, predictive modeling, statistics, testing/version control and daily responsible AI coding. Production dbt experience is explicitly requested. Advanced English required; Snowflake/cloud/IaC preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote role explicitly open to Brazil and other advertised US/Latin America locations. Salary, employment type and visa sponsorship are not disclosed.",
+  "source_url": "https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5308553007",
+  "source_key": "greenhouse:powerdigitalmarketing:5308553007",
+  "published_on": "2026-11-24",
+  "last_checked": "2026-11-24",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "ai-ml"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

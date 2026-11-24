@@ -1,0 +1,31 @@
+{
+  "company": "Stefanini Group",
+  "job_title": "ANALISTA DESENVOLVEDOR SR",
+  "location": "Brazil — hybrid",
+  "summary": "Build Python orchestration services for security AI agents, persisted state machines, audit controls and human approval workflows.",
+  "requirements": "5+ years production Python backend, REST/FastAPI/Pydantic, PostgreSQL, persistent workflow/state orchestration, LLM output validation, reliable integrations, access controls/auditing and secrets management. CI/CD/IaC on OCI and AI security preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Brazil-based opportunity. The description explicitly tags the role hybrid despite remote board metadata. Office city and attendance frequency are not disclosed; clarify before applying. Permanent vacancy according to the employer; salary, visa sponsorship and relocation support are not disclosed.",
+  "source_url": "https://stefanini.gupy.io/jobs/12872803",
+  "source_key": "gupy:stefanini:12872803",
+  "published_on": "2026-11-24",
+  "last_checked": "2026-11-24",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "ai-ml"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

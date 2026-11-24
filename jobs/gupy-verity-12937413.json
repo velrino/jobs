@@ -1,0 +1,31 @@
+{
+  "company": "Verity",
+  "job_title": "Go Lang Backend Developer  Sênior - REMOTO",
+  "location": "Brazil — remote",
+  "summary": "Develop Go services and GraphQL integrations, evolve existing systems and support technology migration.",
+  "requirements": "Go, gqlgen/GraphQL federation/schema contracts, Node/TypeScript, REST, Go unit/contract tests, Clean Architecture/DDD basics, Git/CI/CD, GCP/Helm, OpenTelemetry/Grafana, Redis and MongoDB.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Brazil-based opportunity. Remote work from Brazil.  Permanent vacancy according to the employer; salary, visa sponsorship and relocation support are not disclosed.",
+  "source_url": "https://verity.gupy.io/jobs/12937413",
+  "source_key": "gupy:verity:12937413",
+  "published_on": "2026-11-24",
+  "last_checked": "2026-11-24",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

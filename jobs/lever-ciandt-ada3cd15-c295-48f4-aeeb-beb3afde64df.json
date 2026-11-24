@@ -1,0 +1,31 @@
+{
+  "company": "CI&T",
+  "job_title": "[Job-32748] Sr Data Developer, Brazil",
+  "location": "Brazil — remote",
+  "summary": "Build cloud data architectures and ETL/ELT pipelines, optimizing reliability, governance and analytical performance.",
+  "requirements": "AWS/Azure/GCP, Databricks or Snowflake, data pipelines and warehousing, SQL and Python/Scala/Java, modeling and AI-assisted engineering. B2+ English required; dbt/Airflow, IaC, certifications and Spanish preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote Brazil opening. Employment type, numerical salary and visa sponsorship are not disclosed.",
+  "source_url": "https://jobs.lever.co/ciandt/ada3cd15-c295-48f4-aeeb-beb3afde64df",
+  "source_key": "lever:ciandt:ada3cd15-c295-48f4-aeeb-beb3afde64df",
+  "published_on": "2026-11-24",
+  "last_checked": "2026-11-24",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

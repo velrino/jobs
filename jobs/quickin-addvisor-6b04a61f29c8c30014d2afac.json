@@ -1,0 +1,31 @@
+{
+  "company": "Addvisor",
+  "job_title": "Desenvolvedor Fullstack Junior",
+  "location": "Sao Paulo, SP, Brazil — remote",
+  "summary": "Implement full-stack features, integrations and fixes with guidance from experienced engineers.",
+  "requirements": "Foundations in C#/.NET Core/6+, Angular, TypeScript/HTML/CSS, APIs, AWS, messaging, SQL/NoSQL, ORM, tests and Git/CI/CD. Intermediate English for reading and technical understanding.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "100% remote in Brazil. Contract type, salary and sponsorship are not disclosed. The employer explicitly requests professionals based in Sao Paulo; this is not unrestricted nationwide remote work.",
+  "source_url": "https://jobs.quickin.io/addvisor/jobs/6b04a61f29c8c30014d2afac",
+  "source_key": "quickin:addvisor:6b04a61f29c8c30014d2afac",
+  "published_on": "2026-11-23",
+  "last_checked": "2026-11-24",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "junior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

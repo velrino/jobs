@@ -1,0 +1,31 @@
+{
+  "company": "CI&T",
+  "job_title": "[Job-32768] Senior Fullstack Developer (Java & React), Brazil",
+  "location": "Brazil — remote",
+  "summary": "Develop Java/React applications and REST integrations with automated tests and production-quality delivery practices.",
+  "requirements": "Java 17+, React 19+, TypeScript, Spring/JPA, Maven/Vite, Oracle SQL/basic PL/SQL, REST, JUnit/Mockito and Vitest/Jest/React Testing Library, accessible frontend and CI/CD. Good English required.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote Brazil opening. Employment type, numerical salary and visa sponsorship are not disclosed.",
+  "source_url": "https://jobs.lever.co/ciandt/7463e161-34b1-41b6-986c-41d921dfeb34",
+  "source_key": "lever:ciandt:7463e161-34b1-41b6-986c-41d921dfeb34",
+  "published_on": "2026-11-24",
+  "last_checked": "2026-11-24",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

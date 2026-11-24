@@ -1,0 +1,31 @@
+{
+  "company": "Addvisor",
+  "job_title": "Desenvolvedor Fullstack Pleno",
+  "location": "Sao Paulo, SP, Brazil — remote",
+  "summary": "Develop cloud financial-sector applications across .NET services and Angular interfaces.",
+  "requirements": "C#/.NET Core/6+, Angular/TypeScript, REST, microservices, AWS, messaging, SQL/NoSQL, Entity Framework, automated tests, Git/CI/CD and clean code. Advanced spoken English required.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "100% remote in Brazil. Contract type, salary and sponsorship are not disclosed. The employer explicitly requests professionals based in Sao Paulo; this is not unrestricted nationwide remote work.",
+  "source_url": "https://jobs.quickin.io/addvisor/jobs/6b04a6ad0e0ddf00141b3495",
+  "source_key": "quickin:addvisor:6b04a6ad0e0ddf00141b3495",
+  "published_on": "2026-11-23",
+  "last_checked": "2026-11-24",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

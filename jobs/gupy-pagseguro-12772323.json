@@ -1,0 +1,31 @@
+{
+  "company": "PagBank",
+  "job_title": "Engenheiro de Sistemas Sr. (SRE)",
+  "location": "São Paulo, SP, Brazil",
+  "summary": "Improve production reliability through SRE metrics, automation, observability, incident response and platform practices.",
+  "requirements": "Completed higher education, SRE/DevOps/cloud experience, critical high-availability systems, AWS/EKS, observability, distributed systems, incidents, IaC, GitOps/CI/CD, Linux and networking.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Hybrid in Sao Paulo. Flexible-shift availability explicitly includes 23:00–08:00 or 15:00–00:00. Visa sponsorship and relocation support are not established.",
+  "source_url": "https://pagseguro.gupy.io/jobs/12772323",
+  "source_key": "gupy:pagseguro:12772323",
+  "published_on": "2026-11-24",
+  "last_checked": "2026-11-24",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

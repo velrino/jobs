@@ -1,0 +1,31 @@
+{
+  "company": "WiTi",
+  "job_title": "DevOps / Plataforma Senior (DevSecOps & FinOps)",
+  "location": "Latin America — remote",
+  "summary": "Own TypeScript monorepo delivery pipelines, security automation and measurable cloud-cost improvements.",
+  "requirements": "5+ years DevOps/platform/SRE, 3+ AWS production, GitHub Actions as code, Kubernetes troubleshooting, vulnerabilities/secrets, FinOps, Node/TypeScript pipelines and Bash/Node/Python. B1 English for technical reading.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "100% remote from Latin America, with hours coordinated with Chile. Santiago residence is preferred but not mandatory. Long-term contract; exact legal engagement and salary not disclosed. Public posting labels the working commitment full-time.",
+  "source_url": "https://www.getonbrd.com/jobs/devops-plataforma-senior-devsecops-finops-witi-remote",
+  "source_key": "getonbrd:witi:65080",
+  "published_on": "2026-11-18",
+  "last_checked": "2026-11-24",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "latam"
+  ]
+}

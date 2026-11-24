@@ -1,0 +1,31 @@
+{
+  "company": "Compass UOL",
+  "job_title": "Java Analista de Aplicação/Suporte | Junior (Remote)",
+  "location": "Brazil — remote",
+  "summary": "Support and improve Java applications, investigating production incidents and delivering small-to-medium fixes.",
+  "requirements": "Application support at N2/N3, production incident/log/source-code analysis, Java bug fixes, SQL, Git, AWS, APIs and technical documentation.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Brazil-based opportunity. Remote work from Brazil.  Permanent vacancy according to the employer; salary, visa sponsorship and relocation support are not disclosed.",
+  "source_url": "https://compass.gupy.io/jobs/12939355",
+  "source_key": "gupy:compass:12939355",
+  "published_on": "2026-11-24",
+  "last_checked": "2026-11-24",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "junior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

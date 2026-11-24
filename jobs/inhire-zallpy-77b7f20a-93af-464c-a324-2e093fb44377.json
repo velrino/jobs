@@ -1,0 +1,31 @@
+{
+  "company": "Zallpy Digital",
+  "job_title": "Senior Cloud Engineer",
+  "location": "Brazil — remote",
+  "summary": "Operate and modernize Azure infrastructure, automating landing zones, Kubernetes deployments, monitoring, cost governance and audit evidence.",
+  "requirements": "AZ-900/AZ-104 certifications OR demonstrated Azure administration; Azure Monitor/Log Analytics, AKS/networking/backup/recovery, RBAC/Entra ID, Cost Management, Policy/tagging, Terraform/ARM and ITSM. Advanced Portuguese, intermediate/advanced English with fluent writing, and basic Spanish.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote opportunity based in Brazil. 100% remote. CLT or cooperative engagement; benefits depend on the selected legal arrangement. Visa sponsorship and international work from other countries are not established.",
+  "source_url": "https://zallpy.inhire.app/vagas/77b7f20a-93af-464c-a324-2e093fb44377/senior-cloud-engineer",
+  "source_key": "inhire:zallpy:77b7f20a-93af-464c-a324-2e093fb44377",
+  "published_on": "2026-11-23",
+  "last_checked": "2026-11-24",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

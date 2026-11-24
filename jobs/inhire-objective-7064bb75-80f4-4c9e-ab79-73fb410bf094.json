@@ -1,0 +1,31 @@
+{
+  "company": "Objective",
+  "job_title": "Engenheiro(a) de Dados SAP SR - SAP HANA XSA & S/4HANA | Remoto",
+  "location": "Brazil — remote",
+  "summary": "Build SAP HANA XSA views and data flows into Databricks, supporting parallel ECC/S4 operations and critical go-live transitions.",
+  "requirements": "Solid SAP data engineering and ECC/S4 migration or parallel operations; Calculation Views/Web IDE, native SAP tables, replication/filtering and autonomous diagnostics. Databricks ingestion/Silver and Datasphere/Data Intelligence preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote opportunity based in Brazil. Recruitment includes live coding and a client interview. Contract type, hours and numerical compensation not disclosed. Visa sponsorship and international work from other countries are not established.",
+  "source_url": "https://objective.inhire.app/vagas/7064bb75-80f4-4c9e-ab79-73fb410bf094/engenheiroa-de-dados-sap-sr-sap-hana-xsa-and-s4hana-or-remoto",
+  "source_key": "inhire:objective:7064bb75-80f4-4c9e-ab79-73fb410bf094",
+  "published_on": "2026-11-24",
+  "last_checked": "2026-11-24",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "company": "PagBank",
+  "job_title": "Analista de Segurança da Informação Jr. (Blue Team/CSIRT)",
+  "location": "São Paulo, SP, Brazil",
+  "summary": "Investigate security incidents and improve detection, endpoint protection and CSIRT response capabilities.",
+  "requirements": "Completed IT-related degree, Blue Team/SOC/CSIRT and enterprise cyber experience, cloud/on-prem security, SIEM/SOAR/EDR/firewall/DLP, incident response, scripting and security frameworks. Intermediate English.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Hybrid in Sao Paulo. Despite the junior title, prior security-operation experience is required. Visa sponsorship and relocation support are not established.",
+  "source_url": "https://pagseguro.gupy.io/jobs/12863675",
+  "source_key": "gupy:pagseguro:12863675",
+  "published_on": "2026-11-24",
+  "last_checked": "2026-11-24",
+  "role": [
+    "it"
+  ],
+  "specialty": [
+    "security"
+  ],
+  "level": [
+    "junior"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

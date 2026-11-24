@@ -1,0 +1,31 @@
+{
+  "company": "Stefanini Group",
+  "job_title": "ANALISTA DESENVOLVEDOR PL (Java/ Legado)",
+  "location": "Taboão da Serra, SP, Brazil",
+  "summary": "Develop and maintain legacy Java enterprise applications, integrations and database-backed systems.",
+  "requirements": "Completed technology degree; Java 16, Jakarta EE 8/Java EE 7, JPA/Hibernate/JSF, REST/SOAP, Eclipse/Maven, WildFly/Tomcat and Oracle.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "CLT. Position is designated on site in Taboao da Serra but is currently home office; do not assume permanent remote work. Monday-Friday 08:00–17:00. Visa sponsorship and relocation support are not established.",
+  "source_url": "https://stefanini.gupy.io/jobs/12939852",
+  "source_key": "gupy:stefanini:12939852",
+  "published_on": "2026-11-24",
+  "last_checked": "2026-11-24",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "on-site"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

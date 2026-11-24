@@ -1,0 +1,31 @@
+{
+  "company": "Nortal",
+  "job_title": "(1638) Senior Site Reliability Engineering",
+  "location": "Latin America — remote",
+  "summary": "Improve cloud reliability and secure delivery pipelines, automate infrastructure and support production incidents.",
+  "requirements": "Related degree/diploma or equivalent experience; 8–10 years in software engineering and IaC, strong AWS, Terraform/CloudFormation, GitLab/Octopus CI/CD, Kubernetes/EKS, monitoring/Grafana, troubleshooting and excellent English. AWS Professional certification preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "100% remote within the advertised Latin America region. Emergency after-hours support is required when needed. Salary is denominated in USD but a numerical range, employment type and sponsorship are not disclosed.",
+  "source_url": "https://job-boards.greenhouse.io/nortal/jobs/5308541007",
+  "source_key": "greenhouse:nortal:5308541007",
+  "published_on": "2026-11-24",
+  "last_checked": "2026-11-24",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "latam"
+  ]
+}

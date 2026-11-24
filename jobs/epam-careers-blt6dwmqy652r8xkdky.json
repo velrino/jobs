@@ -1,0 +1,31 @@
+{
+  "company": "EPAM",
+  "job_title": "Senior Security Cloud Engineer",
+  "location": "Brazil — remote",
+  "summary": "Engineer cyber-recovery capabilities including immutable backups, isolated recovery environments and validated ransomware recovery.",
+  "requirements": "3+ years in DR/cloud/security/SRE; AWS backup/recovery, Vault Lock/cross-account copies, scripting preferably Python, IaC, validated LLM use, DR testing/RTO/RPO and C1 English.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Major incident support outside business hours is required. Equivalent Security Cloud Engineer variant bltnrgdwuot2w2xx0ko is consolidated. Employment type, salary, relocation support and visa sponsorship are not disclosed.",
+  "source_url": "https://careers.epam.com/en/vacancy/senior-security-cloud-engineer-blt6dwmqy652r8xkdky_en",
+  "source_key": "epam:careers:blt6dwmqy652r8xkdky",
+  "published_on": "2026-11-20",
+  "last_checked": "2026-11-24",
+  "role": [
+    "it"
+  ],
+  "specialty": [
+    "security"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

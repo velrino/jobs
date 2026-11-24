@@ -1,0 +1,31 @@
+{
+  "company": "Grupo QuintoAndar",
+  "job_title": "Grupo QuintoAndar | Senior Software Engineer, Productivity Platform (Black People Applicants Only)",
+  "location": "Brazil — remote",
+  "summary": "Build developer productivity products including CI/CD, release tooling, Backstage, internal CLI and AI-assisted workflows.",
+  "requirements": "Software architecture, AWS, Kubernetes APIs, CI/CD, networking, production software development, cloud operations and English proficiency. Go, Terraform/ArgoCD, Kubernetes operators and platform productivity metrics preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote-first from anywhere in Brazil; optional Sao Paulo office/coworking use. Includes an on-call rotation. Primary posting is exclusively for Black applicants. Equivalent women-only variant is consolidated here: https://job-boards.greenhouse.io/quintoandar/jobs/4519524009 . Confirm the applicable affirmative pathway. Salary and contract type are not disclosed.",
+  "source_url": "https://job-boards.greenhouse.io/quintoandar/jobs/4519526009",
+  "source_key": "greenhouse:quintoandar:4519526009",
+  "published_on": "2026-11-23",
+  "last_checked": "2026-11-24",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

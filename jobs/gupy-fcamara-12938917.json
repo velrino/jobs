@@ -1,0 +1,31 @@
+{
+  "company": "FCamara",
+  "job_title": "Pessoa Desenvolvedora Ruby on Rails - Sênior",
+  "location": "Brazil — remote",
+  "summary": "Develop and operate Ruby on Rails APIs, evolving a core platform, microservices and partner integrations.",
+  "requirements": "Proven senior Ruby on Rails, TypeScript, REST, PostgreSQL, Git, RSpec/automated tests, AWS, Docker/Kubernetes, NoSQL/cache and CI/CD. Messaging and Spanish preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Brazil-based opportunity. Remote work from Brazil.  Permanent vacancy according to the employer; salary, visa sponsorship and relocation support are not disclosed.",
+  "source_url": "https://fcamara.gupy.io/jobs/12938917",
+  "source_key": "gupy:fcamara:12938917",
+  "published_on": "2026-11-24",
+  "last_checked": "2026-11-24",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

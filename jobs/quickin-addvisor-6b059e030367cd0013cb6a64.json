@@ -1,0 +1,31 @@
+{
+  "company": "Addvisor",
+  "job_title": "Consultor Fullstack Sr",
+  "location": "Brazil — remote",
+  "summary": "Build enterprise full-stack integrations and cloud services using a Node.js/NestJS-centered stack.",
+  "requirements": "Node.js/NestJS, MongoDB/NoSQL, Datadog, Azure Pipelines, Docker/Kubernetes, messaging/events, APIs and Clean/Hexagonal Architecture. Advanced spoken English required. AKS, Service Bus/EventHub and security-quality tools preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "100% remote in Brazil. Contract type, salary and sponsorship are not disclosed.",
+  "source_url": "https://jobs.quickin.io/addvisor/jobs/6b059e030367cd0013cb6a64",
+  "source_key": "quickin:addvisor:6b059e030367cd0013cb6a64",
+  "published_on": "2026-11-24",
+  "last_checked": "2026-11-24",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

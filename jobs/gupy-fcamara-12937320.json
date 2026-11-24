@@ -1,0 +1,31 @@
+{
+  "company": "FCamara",
+  "job_title": "Desenvolvedor Kotlin - Especialista",
+  "location": "São Paulo, SP, Brazil",
+  "summary": "Develop Kotlin BFFs, aggregate microservices and optimize API performance for banking journeys.",
+  "requirements": "Strong Kotlin/Coroutines/Flow, production BFFs, Spring Boot/Ktor, REST/gRPC/GraphQL, Docker/Kubernetes, Apigee/Node.js, SQL/Redis, JUnit/MockK/Testcontainers, CI/CD/security and proven banking/finance experience. Technical English for reading/documentation preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Temporary vacancy on site in Sao Paulo. Duration and precise legal engagement are not disclosed. Multiple equivalent Kotlin specialist IDs are consolidated into this opportunity. Visa sponsorship and relocation support are not established.",
+  "source_url": "https://fcamara.gupy.io/jobs/12937320",
+  "source_key": "gupy:fcamara:12937320",
+  "published_on": "2026-11-24",
+  "last_checked": "2026-11-24",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "on-site"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

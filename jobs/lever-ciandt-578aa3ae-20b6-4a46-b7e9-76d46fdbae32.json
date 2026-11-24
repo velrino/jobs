@@ -1,0 +1,31 @@
+{
+  "company": "CI&T",
+  "job_title": "[Job-32736]Senior Backend Developer (Python/AI), Brazil",
+  "location": "Brazil — remote",
+  "summary": "Build Python APIs and asynchronous microservice integrations while promoting AI-assisted engineering practices.",
+  "requirements": "Solid Python/FastAPI, async/await/asyncio or asyncua, PostgreSQL, pytest, microservices, Service Bus/RabbitMQ, CI/CD/Gitflow and AI/SDD practices. Intermediate/advanced English required.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote Brazil opening. Employment type, numerical salary and visa sponsorship are not disclosed.",
+  "source_url": "https://jobs.lever.co/ciandt/578aa3ae-20b6-4a46-b7e9-76d46fdbae32",
+  "source_key": "lever:ciandt:578aa3ae-20b6-4a46-b7e9-76d46fdbae32",
+  "published_on": "2026-11-17",
+  "last_checked": "2026-11-24",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

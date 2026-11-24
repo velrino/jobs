@@ -1,0 +1,32 @@
+{
+  "company": "INEX",
+  "job_title": "Analista / Desenvolvedor de BI Pleno/Sênior (Migração Tableau para Power BI)",
+  "location": "Brazil — remote",
+  "summary": "Migrate Tableau workbooks to Power BI, redesigning analytical models and validating numerical integrity.",
+  "requirements": "Advanced Power BI/DAX/Power Query, dimensional modeling and performance tools; intermediate/advanced Tableau including LOD/context filters; advanced SQL and relational warehouses.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "100% remote in Brazil. Contract type, salary and sponsorship are not disclosed.",
+  "source_url": "https://jobs.quickin.io/inexbr/jobs/6b05ea99010332001307f0ef",
+  "source_key": "quickin:inexbr:6b05ea99010332001307f0ef",
+  "published_on": "2026-11-24",
+  "last_checked": "2026-11-24",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "mid",
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

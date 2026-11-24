@@ -1,0 +1,31 @@
+{
+  "company": "Stone",
+  "job_title": "[GenAI] Sênior Software Engineer - híbrido Florianópolis",
+  "location": "Florianopolis, SC, Brazil",
+  "summary": "Build and operate a generative-AI platform, chatbots, APIs and integrations with scalable production engineering practices.",
+  "requirements": "5+ years building software/APIs/AI or messaging, strong TypeScript and/or Node.js, CI/CD, AWS/GCP/Azure and agile engineering. Python, PostgreSQL, Kubernetes, messaging and ML/LLM knowledge preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Hybrid attendance in Florianopolis; frequency not disclosed. Salary, employment type and visa sponsorship are not disclosed.",
+  "source_url": "https://job-boards.greenhouse.io/stone/jobs/8040256003",
+  "source_key": "greenhouse:stone:8040256003",
+  "published_on": "2026-11-23",
+  "last_checked": "2026-11-24",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "ai-ml"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

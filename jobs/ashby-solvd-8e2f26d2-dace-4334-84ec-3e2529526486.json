@@ -1,0 +1,31 @@
+{
+  "company": "Solvd",
+  "job_title": "Senior Software Engineer (React + Python)",
+  "location": "Brazil — remote",
+  "summary": "Build a higher-education transactional platform with Python/React, payments, cloud services and analytical data workflows.",
+  "requirements": "5–7 years software development, at least 4 full-stack; production Python/React, AWS, Flask/Tornado/Django, Pandas/NumPy/Airflow, agile/automated testing, mentoring and related degree or equivalent experience. Stripe/LMS experience preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote Brazil is explicitly listed among eligible countries. Salary and visa sponsorship are not disclosed.",
+  "source_url": "https://jobs.ashbyhq.com/Solvd/8e2f26d2-dace-4334-84ec-3e2529526486",
+  "source_key": "ashby:solvd:8e2f26d2-dace-4334-84ec-3e2529526486",
+  "published_on": "2026-11-18",
+  "last_checked": "2026-11-24",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

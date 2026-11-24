@@ -1,0 +1,31 @@
+{
+  "company": "Aggrandize",
+  "job_title": "Engenheiro de Dados Pleno | Databricks (Remoto)",
+  "location": "Brazil — remote",
+  "summary": "Develop Databricks/Azure Data Factory pipelines and organize reliable analytical data within lakehouse architectures.",
+  "requirements": "Databricks, Azure Data Factory, SQL, PySpark, data modeling, lakehouse layers, pipeline maintenance, data quality and collaborative squad delivery.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote opportunity in Brazil. Remote; CLT or PJ modalities are offered. Listed meal/home-office allowances are benefits, not salary. Numerical salary, visa sponsorship and international work from other countries are not established.",
+  "source_url": "https://aggrandize.vagas.solides.com.br/vaga/957028",
+  "source_key": "solides:aggrandize:957028",
+  "published_on": "2026-11-22",
+  "last_checked": "2026-11-24",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

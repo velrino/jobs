@@ -1,0 +1,31 @@
+{
+  "company": "AZ Tecnologia",
+  "job_title": "Desenvolvedor(a) Fullstack Júnior (Exclusiva para pessoas com deficiência)",
+  "location": "Brazil — remote",
+  "summary": "Implement features and integrations, fix bugs and develop frontend components and unit tests with team guidance.",
+  "requirements": "Foundations for software development, APIs/web services, unit testing and frontend work, plus willingness to learn AI concepts. The public description emphasizes duties and does not specify a degree or mandatory named technology stack.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote opportunity in Brazil. 100% remote CLT position exclusively for people with disabilities. Numerical salary, visa sponsorship and international work from other countries are not established.",
+  "source_url": "https://aztecnologia.vagas.solides.com.br/vaga/957052",
+  "source_key": "solides:aztecnologia:957052",
+  "published_on": "2026-11-23",
+  "last_checked": "2026-11-24",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "junior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

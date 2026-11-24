@@ -1,0 +1,31 @@
+{
+  "company": "AZ Tecnologia",
+  "job_title": "Desenvolvedor(a) Fullstack Pleno (Java 8 e 11, Spring Boot, AngularJS/ReactJS/VueJS)",
+  "location": "Brazil — remote",
+  "summary": "Implement complex software features, scalable architecture and secure integrations, using AI to improve delivery.",
+  "requirements": "Title specifies Java 8/11, Spring Boot and AngularJS/ReactJS/VueJS. Work includes OAuth2/OIDC, LGPD, architecture, code reviews, quality/performance and technical documentation; 2 years in the role is desirable.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote opportunity in Brazil. CLT employment, 100% remote. Numerical salary, visa sponsorship and international work from other countries are not established.",
+  "source_url": "https://aztecnologia.vagas.solides.com.br/vaga/957389",
+  "source_key": "solides:aztecnologia:957389",
+  "published_on": "2026-11-23",
+  "last_checked": "2026-11-24",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

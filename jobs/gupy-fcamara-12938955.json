@@ -1,0 +1,32 @@
+{
+  "company": "FCamara",
+  "job_title": "Pessoa Desenvolvedora Typescript - Pleno",
+  "location": "Brazil — remote",
+  "summary": "Build TypeScript backend APIs and integrations, designing reliable services and automated quality checks.",
+  "requirements": "Strong Node.js/TypeScript, REST APIs, PostgreSQL/MongoDB, Git, backend automated tests and AWS. Microservices, messaging, containers, CI/CD and Ruby integration preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Brazil-based opportunity. Remote work from Brazil. CLT employment. Title states mid-level while qualifications request senior backend/full-stack experience; confirm expected level. International interactions are written; foreign-language fluency is not required. Permanent vacancy according to the employer; salary, visa sponsorship and relocation support are not disclosed.",
+  "source_url": "https://fcamara.gupy.io/jobs/12938955",
+  "source_key": "gupy:fcamara:12938955",
+  "published_on": "2026-11-24",
+  "last_checked": "2026-11-24",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "mid",
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "company": "Darkroom / Shadow",
+  "job_title": "Senior Data Engineer",
+  "location": "Brazil — remote",
+  "summary": "Build scalable marketing-data ingestion, normalization and reliable multi-tenant pipelines feeding AI agents.",
+  "requirements": "Production enterprise-scale pipelines, SQL/Python, modern warehouses, ETL/ELT, API/OAuth integrations and observability; experience with SOC 2 security and sensitive customer data. GCP/BigQuery, dbt/Airflow and marketing data preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Fully remote from Brazil or Mexico; supports 09:00–17:00 US Eastern hours. The employer separately requires hybrid attendance for staff near its New York/Lisbon headquarters; this Brazilian posting is remote. Salary and visa sponsorship are not disclosed.",
+  "source_url": "https://jobs.ashbyhq.com/darkroom/827679f7-17cc-481b-bdee-9c60f80fe8d3",
+  "source_key": "ashby:darkroom:827679f7-17cc-481b-bdee-9c60f80fe8d3",
+  "published_on": "2026-11-24",
+  "last_checked": "2026-11-24",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

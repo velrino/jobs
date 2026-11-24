@@ -1,0 +1,31 @@
+{
+  "company": "Jump",
+  "job_title": "Desenvolvedor(a) Fullstack",
+  "location": "Brazil — remote",
+  "summary": "Build AI-enabled full-stack workflows, enterprise integrations and RAG pipelines with vector databases.",
+  "requirements": "Advanced Python/FastAPI, NLP/LLMs, Node.js, MCP, GCP Cloud Run/PubSub/Firestore/BigQuery, security/LGPD, Next.js, Postgres and n8n. Observability, embeddings and vector databases preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote opportunity based in Brazil. The description explicitly identifies mid-level seniority. Contract type and working hours not disclosed. Visa sponsorship and international work from other countries are not established.",
+  "source_url": "https://jump.inhire.app/vagas/40947782-1827-467a-a2eb-4927acdcb06f/desenvolvedora-fullstack",
+  "source_key": "inhire:jump:40947782-1827-467a-a2eb-4927acdcb06f",
+  "published_on": "2026-11-24",
+  "last_checked": "2026-11-24",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}
