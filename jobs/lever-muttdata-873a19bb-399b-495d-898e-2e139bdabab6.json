@@ -1,0 +1,31 @@
+{
+  "company": "Mutt Data",
+  "job_title": "#11 Data Engineer Senior - Databricks - Latam",
+  "location": "Latin America — remote",
+  "summary": "Build Databricks batch/streaming data products, define data contracts and mentor domain teams.",
+  "requirements": "Data engineering and pipeline optimization, Databricks, Python/Spark and BI visualization such as Looker or Tableau. Feature Store and agentic infrastructure skills preferred. See the employer posting for full requirements and preferred skills.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote position advertised for Latin America. Salary, contract type, working hours and visa sponsorship are not disclosed.",
+  "source_url": "https://jobs.lever.co/muttdata/873a19bb-399b-495d-898e-2e139bdabab6",
+  "source_key": "lever:muttdata:873a19bb-399b-495d-898e-2e139bdabab6",
+  "published_on": "2026-11-18",
+  "last_checked": "2026-11-20",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "latam"
+  ]
+}

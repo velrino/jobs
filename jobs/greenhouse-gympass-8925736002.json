@@ -1,0 +1,31 @@
+{
+  "company": "Wellhub",
+  "job_title": "Mid-level Software Engineer | Professional Services Engineering",
+  "location": "Remote, Brazil only",
+  "summary": "Build and maintain enterprise HR, payroll and benefits integrations on a Node.js/TypeScript ETL platform; keep production integrations reliable, deliver APIs and data transformations, and collaborate with product and enterprise clients.",
+  "requirements": "Required: backend engineering with Node.js/TypeScript and SQL; bachelor degree in Computer Science or equivalent professional experience; high-traffic APIs, PostgreSQL/MySQL, Docker/Kubernetes, observability, analytical skills and advanced/fluent English. Advanced Excel is preferred.",
+  "compensation": "Numerical salary or contract rate not disclosed.",
+  "conditions": "The role-specific description explicitly permits work from anywhere in Brazil and excludes applicants outside Brazil. A generic benefits paragraph says the work model can be discussed; confirm remote terms in the offer. Benefits include health/dental/life insurance, wellbeing programs, home-office support and leave. Hours and employment category are not disclosed. Original Greenhouse first_published: 2026-11-18T07:38:27-05:00.",
+  "source_url": "https://job-boards.greenhouse.io/gympass/jobs/8925736002",
+  "source_key": "greenhouse:gympass:8925736002",
+  "published_on": "2026-11-18",
+  "last_checked": "2026-11-18",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

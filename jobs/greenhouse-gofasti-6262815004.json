@@ -1,0 +1,32 @@
+{
+  "company": "GoFasti",
+  "job_title": "1192 - Sr. BIM Software Developer",
+  "location": "Remote, Latin America including Brazil",
+  "summary": "Build ASP.NET internal applications and C# Autodesk/BIM integrations; automate data workflows using PowerShell/Python, troubleshoot tools, document implementations and align with the client team.",
+  "requirements": "Required: fluent English; Latin America residence; 4–5 years developing Revit/AutoCAD/Navisworks plugins with C# and Autodesk APIs; .NET, ASP.NET, PowerShell/Python and the Microsoft stack (Visual Studio, SQL Server, Azure or IIS). Preferred: architecture/engineering/construction or BIM background, Dynamo and BIM automation.",
+  "compensation": "USD 3,500–4,500 per month, depending on seniority and skills.",
+  "conditions": "Full-time contractor engagement through a payroll platform, allocated remotely to a client. Initial duration is one month, with extension dependent on client needs. Exact weekly hours, benefits and time-zone requirements are not disclosed. Original Greenhouse first_published: 2026-11-16T15:18:13-05:00.",
+  "source_url": "https://careers.gofasti.com/job-application/6262815004?gh_jid=6262815004",
+  "source_key": "greenhouse:gofasti:6262815004",
+  "published_on": "2026-11-16",
+  "last_checked": "2026-11-18",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil",
+    "latam"
+  ]
+}

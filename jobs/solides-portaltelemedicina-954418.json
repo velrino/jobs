@@ -1,0 +1,31 @@
+{
+  "company": "Portal Telemedicina",
+  "job_title": "Analista de Teste QA - Senior",
+  "location": "Remote, Brazil",
+  "summary": "Own QA for telediagnosis products: design and execute manual/exploratory tests, maintain API/E2E automation, validate clinical/access rules and improve release checks and quality metrics.",
+  "requirements": "Required: web testing techniques, REST/OpenAPI testing, Cypress/Playwright/Robot, SQL, Git/PR/CI basics, agile tools and browser debugging. Preferred: JavaScript/TypeScript/React, .NET, healthcare interoperability, LGPD, performance/accessibility testing, AI-assisted testing and CTFL.",
+  "compensation": "Numerical salary or contract rate not disclosed.",
+  "conditions": "The active employer page explicitly lists remote work in Brazil. Benefits include annual bonus after 12 months, paid rest, health/dental and wellbeing support. Meal/transport benefits mention in-person days only if applicable; no mandatory office attendance is stated. Zero salary bounds are not treated as real pay. PJ contracting and an integral schedule are listed. Employer JobPosting.datePosted: 2026-11-17.",
+  "source_url": "https://portaltelemedicina.vagas.solides.com.br/vaga/954418",
+  "source_key": "solides:portaltelemedicina:954418",
+  "published_on": "2026-11-17",
+  "last_checked": "2026-11-19",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "qa"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

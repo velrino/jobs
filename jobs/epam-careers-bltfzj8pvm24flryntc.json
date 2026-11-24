@@ -1,0 +1,31 @@
+{
+  "company": "EPAM Systems",
+  "job_title": "Senior MuleSoft Developer",
+  "location": "Remote: Brazil, Argentina, Chile, Colombia, Mexico",
+  "summary": "Build Mule 4 integrations, DataWeave mappings and MUnit tests and deploy through CI/CD.",
+  "requirements": "3+ years with Mule 4, Anypoint Studio and DataWeave; RAML and REST. Developer Level 1 certification preferred. English B2+ and 4+ hours overlap with US Eastern time. See the employer posting for the complete required and preferred qualifications.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote role with Brazil explicitly included among eligible countries. Contract type, working hours and visa sponsorship are not disclosed. Equivalent country variants are consolidated.",
+  "source_url": "https://careers.epam.com/en/vacancy/senior-mulesoft-developer-bltfzj8pvm24flryntc_en",
+  "source_key": "epam:careers:bltfzj8pvm24flryntc",
+  "published_on": "2026-11-20",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

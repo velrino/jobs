@@ -1,0 +1,31 @@
+{
+  "company": "Verity",
+  "job_title": "Data Engineer Pleno - HÍBRIDO",
+  "location": "São Paulo, SP, Brazil",
+  "summary": "Migrate legacy cost datasets to GCP and build governed, scalable analytical pipelines.",
+  "requirements": "Mid-level data engineering experience; ETL/ELT and medallion modeling; GCP/BigQuery with cloud ingestion/storage tools; advanced SQL, Python or PySpark and translating financial/cost business rules.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Hybrid opportunity in Brazil requiring attendance at the stated location. The employer labels the vacancy as permanent; weekly hours are not otherwise established. Listed application deadline: 2027-01-16. International work from other countries, visa sponsorship and relocation support are not established.",
+  "source_url": "https://verity.gupy.io/jobs/12907844",
+  "source_key": "gupy:verity:12907844",
+  "published_on": "2026-11-17",
+  "last_checked": "2026-11-23",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

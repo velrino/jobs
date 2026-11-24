@@ -1,0 +1,31 @@
+{
+  "company": "Dataside",
+  "job_title": "Engenheiro de Dados Azure Sênior - Remoto",
+  "location": "Brazil",
+  "summary": "Lead Azure/Databricks architecture, governance and engineering standards; optimize reliability, capacity and costs, mentor engineers and guide client technical roadmaps.",
+  "requirements": "Required: DP-203, DP-600 or DP-700; Databricks Data Engineer Associate or Spark Developer; English B1/B2; advanced Databricks/Delta Lake/Unity Catalog, governance, CI/CD and infrastructure as code. Preferred: professional Databricks certification, Azure/AI certifications, streaming/CDC and Azure networking/security architecture; advert lists 5+ years under preferred qualifications.",
+  "compensation": "Salary or contract rate not disclosed.",
+  "conditions": "PJ contract; weekly hours are not disclosed. An equivalent active advertisement (74dfa16b-1617-488d-8894-55c6e371f208, published November 12) repeats the title and scope and is consolidated here. Benefits include medical allowance, wellbeing, paid rest and learning support; the insurance policy value is not salary. Original publication verified from publishedAt, rather than lastPublishedAt/updatedAt. Public job description and application form verified in a rendered browser.",
+  "source_url": "https://dataside.inhire.app/vagas/50306a2f-ef3d-4fbb-932b-8c040f338fb4/engenheiro-de-dados-azure-senior-remoto",
+  "source_key": "inhire:dataside:50306a2f-ef3d-4fbb-932b-8c040f338fb4",
+  "published_on": "2026-11-10",
+  "last_checked": "2026-11-15",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

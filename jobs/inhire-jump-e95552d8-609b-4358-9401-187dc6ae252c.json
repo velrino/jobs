@@ -1,0 +1,31 @@
+{
+  "company": "Jump",
+  "job_title": "Engenheiro(a) de Dados",
+  "location": "Brazil — remote",
+  "summary": "Build distributed data ingestion, transformation and integration pipelines, including real-time delivery.",
+  "requirements": "Hadoop/Spark/Kafka ecosystem, Python/Java/SQL or R, Linux/shell, DevOps tooling, SAS/Teradata architecture, relational/distributed data processing, ETL and pipeline process mapping. See the employer posting for all required and preferred qualifications.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote in Brazil. Employer contract model: CLT. Salary, working hours and visa sponsorship are not disclosed.",
+  "source_url": "https://jump.inhire.app/vagas/e95552d8-609b-4358-9401-187dc6ae252c/engenheiroa-de-dados",
+  "source_key": "inhire:jump:e95552d8-609b-4358-9401-187dc6ae252c",
+  "published_on": "2026-11-16",
+  "last_checked": "2026-11-20",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "company": "Verity",
+  "job_title": "SRE Engineer - REMOTO",
+  "location": "Brazil — remote",
+  "summary": "Improve service reliability through SLOs, observability, incident prevention, automation and resilient cloud operations.",
+  "requirements": "SRE experience, AWS/GCP/Azure, Kubernetes/Docker, Linux, observability/APM, incident response, networking, IaC and CI/CD. Terraform/Ansible and financial systems preferred. See the employer posting for full requirements and preferred skills.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote CLT employment in Brazil. Salary and working hours not disclosed.",
+  "source_url": "https://jobs.quickin.io/verity/jobs/6aff6a8296ed470013314ddc",
+  "source_key": "quickin:verity:6aff6a8296ed470013314ddc",
+  "published_on": "2026-11-19",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

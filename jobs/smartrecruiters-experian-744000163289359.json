@@ -1,0 +1,31 @@
+{
+  "company": "Experian",
+  "job_title": "Analista de Desenvolvimento de Software Pleno (Go/Python)",
+  "location": "Blumenau, SC or São Paulo, SP, Brazil — hybrid",
+  "summary": "Build Python/Go microservices and APIs, implement tests and operate distributed cloud products.",
+  "requirements": "Python and/or Go, AWS or other cloud, API design/versioning, microservices, Git, Docker/Kubernetes, SQL/NoSQL, observability and asynchronous systems such as SQS/SNS. FastAPI, PostgreSQL/DynamoDB/Mongo/Redis and financial products preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Full-time employment. Salary and visa sponsorship not disclosed. Office attendance required. Two office days per week. Equivalent city variants are consolidated into one opportunity.",
+  "source_url": "https://jobs.smartrecruiters.com/Experian/744000163289359-analista-de-desenvolvimento-de-software-pleno-go-python-",
+  "source_key": "smartrecruiters:experian:744000163289359",
+  "published_on": "2026-11-23",
+  "last_checked": "2026-11-23",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

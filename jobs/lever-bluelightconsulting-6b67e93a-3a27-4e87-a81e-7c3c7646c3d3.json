@@ -1,0 +1,31 @@
+{
+  "company": "Bluelight Consulting",
+  "job_title": "Senior Laravel Developer + React - Remote, Latin America",
+  "location": "Latin America — remote",
+  "summary": "Build and operate Laravel applications and reactive frontends for consultancy clients.",
+  "requirements": "5+ years in production Laravel, modern PHP, Eloquent/auth/queues/cache, AWS, CI/CD, automated tests and REST APIs with React/Vue/Inertia/Livewire. Tailwind and accessible UI preferred. See the employer posting for full requirements and preferred skills.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote position advertised for Latin America. Salary, contract type, working hours and visa sponsorship are not disclosed. Equivalent city variants are consolidated into one opportunity.",
+  "source_url": "https://jobs.lever.co/bluelightconsulting/6b67e93a-3a27-4e87-a81e-7c3c7646c3d3",
+  "source_key": "lever:bluelightconsulting:6b67e93a-3a27-4e87-a81e-7c3c7646c3d3",
+  "published_on": "2026-11-19",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "latam"
+  ]
+}

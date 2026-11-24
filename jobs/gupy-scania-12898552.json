@@ -1,0 +1,31 @@
+{
+  "company": "Scania Latin America",
+  "job_title": "Desenvolvedor(a) TI Pleno – Component Assembly IT",
+  "location": "São Bernardo do Campo, SP, Brazil",
+  "summary": "Develop and support industrial IT software and integrations for component-assembly operations.",
+  "requirements": "Completed Automation Engineering or related degree; intermediate English; PLC/SCADA/HMI development using TIA Portal, WinCC or Ignition and industrial equipment integration. MES/MOM integration and industrial networks are preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Hybrid opportunity in Brazil requiring attendance at the stated location. The employer labels the vacancy as permanent; weekly hours are not otherwise established. At least three office days weekly where compatible with the operation. The employer discloses an already identified potential candidate, who will be assessed by the same criteria as other applicants. Listed application deadline: 2026-11-24. International work from other countries, visa sponsorship and relocation support are not established.",
+  "source_url": "https://scania.gupy.io/jobs/12898552",
+  "source_key": "gupy:scania:12898552",
+  "published_on": "2026-11-16",
+  "last_checked": "2026-11-23",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "embedded"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

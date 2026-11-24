@@ -1,0 +1,31 @@
+{
+  "company": "Stefanini Group",
+  "job_title": "CIENTISTA DE DADOS SR",
+  "location": "Brazil — remote",
+  "summary": "Build and deploy industrial predictive analytics and machine-learning models and support production pipelines.",
+  "requirements": "Relevant degree, advanced English, strong data science experience, Python, SQL, statistics/time series/anomaly detection, scikit-learn/PyTorch or TensorFlow, Docker, APIs, cloud and MLOps. Manufacturing experience preferred. See the original posting for all requirements and preferred skills.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote position in Brazil. Salary, working hours and visa sponsorship are not disclosed unless otherwise noted in the requirements. Apply through the employer recruitment page.",
+  "source_url": "https://stefanini.gupy.io/jobs/12923112",
+  "source_key": "gupy:stefanini:12923112",
+  "published_on": "2026-11-19",
+  "last_checked": "2026-11-20",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "ai-ml"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

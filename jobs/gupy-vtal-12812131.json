@@ -1,0 +1,31 @@
+{
+  "company": "V.tal | o futuro passa por aqui",
+  "job_title": "Desenvolvedor Pleno",
+  "location": "Brazil — remote",
+  "summary": "Build backend and React/Vue applications, integrate APIs and sustain containerized services.",
+  "requirements": "Backend Node.js/TypeScript, Java or .NET; React or Vue, Apigee APIs, GitHub CI/CD and relevant degree. Azure DevOps, AI coding tools and certifications preferred. See the original posting for all requirements and preferred skills.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote position in Brazil. Salary, working hours and visa sponsorship are not disclosed unless otherwise noted in the requirements. Apply through the employer recruitment page.",
+  "source_url": "https://vtal.gupy.io/jobs/12812131",
+  "source_key": "gupy:vtal:12812131",
+  "published_on": "2026-11-18",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "company": "Zallpy",
+  "job_title": "Senior AI/ML Platform Engineer (AWS & Agentic AI)",
+  "location": "Porto Alegre, Rio Grande do Sul, Brazil",
+  "summary": "Support production AWS and AI platforms, maintain Databricks metadata pipelines, deploy and monitor SageMaker models, and improve agent orchestration, guardrails and vector retrieval.",
+  "requirements": "Required: advanced English; production AWS Lambda/API Gateway, SageMaker/MLOps, Databricks pipelines, generative/agentic AI, OpenSearch/vector databases and CI/CD. Preferred: agent frameworks, LLMOps, retrieval optimization and full ML lifecycle experience.",
+  "compensation": "Salary or contract rate not disclosed.",
+  "conditions": "Fully remote, explicitly limited to candidates living in Porto Alegre, RS. CLT employment; weekly hours are not disclosed. Includes health/dental plans, meal allowance and wellbeing benefits subject to employer rules. Original publication verified from publishedAt, rather than lastPublishedAt/updatedAt. Public job description and application form verified in a rendered browser.",
+  "source_url": "https://zallpy.inhire.app/vagas/d6934a76-c99f-460d-8c87-35ebacc4c957/senior-aiml-platform-engineer-aws-and-agentic-ai",
+  "source_key": "inhire:zallpy:d6934a76-c99f-460d-8c87-35ebacc4c957",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-15",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "ai-ml",
+    "platform"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

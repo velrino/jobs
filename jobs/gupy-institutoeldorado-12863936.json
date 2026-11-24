@@ -1,0 +1,31 @@
+{
+  "company": "Instituto de Pesquisas Eldorado",
+  "job_title": "Pessoa desenvolvedora Mobile - KMP",
+  "location": "Brasília, DF, Brazil",
+  "summary": "Develop Kotlin/KMP applications sharing code across Android/iOS and integrate mobile with enterprise services.",
+  "requirements": "Related higher education; Android/Kotlin and practical Kotlin Multiplatform, iOS integration, mobile architecture, APIs, Git/tests, and full-stack familiarity with Angular, React or .NET. Qualifications explicitly request mid-level experience.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Hybrid opportunity in Brazil requiring attendance at the stated location. The employer labels the vacancy as permanent; weekly hours are not otherwise established. Listed application deadline: 2027-01-09. International work from other countries, visa sponsorship and relocation support are not established.",
+  "source_url": "https://institutoeldorado.gupy.io/jobs/12863936",
+  "source_key": "gupy:institutoeldorado:12863936",
+  "published_on": "2026-11-23",
+  "last_checked": "2026-11-23",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "mobile"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "company": "Cedro Technologies",
+  "job_title": "Analista de Desenvolvimento TI  Sênior .NET Core | Remoto",
+  "location": "Remote, Brazil",
+  "summary": "Develop .NET APIs and distributed services with MongoDB/Redis, contribute Angular frontend work, operate Docker/cloud workloads and improve delivery, security, performance and observability.",
+  "requirements": "Required: senior .NET Core/.NET 8 and C#/ASP.NET Core; REST/authentication/architecture; MongoDB, Redis, about 3 years Angular, Docker, cloud and Git/CI/CD. Preferred: AI coding tools, Kubernetes/Helm/ArgoCD, messaging, observability and high-availability financial systems.",
+  "compensation": "Numerical salary or contract rate not disclosed.",
+  "conditions": "The active employer page explicitly lists remote work in Brazil. Displayed zero salary bounds are placeholders and are not treated as a valid pay range. PJ contracting and an integral schedule are listed. Employer JobPosting.datePosted: 2026-11-18.",
+  "source_url": "https://cedrotech.vagas.solides.com.br/vaga/955560",
+  "source_key": "solides:cedrotech:955560",
+  "published_on": "2026-11-18",
+  "last_checked": "2026-11-19",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack",
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "company": "EPAM Systems",
+  "job_title": "Senior Software Engineer, Network as a Service",
+  "location": "Remote: Argentina, Brazil, Chile, Colombia, Mexico",
+  "summary": "Automate AWS networking, DNS/DHCP and IP address management using Terraform, Python and GitHub Actions.",
+  "requirements": "5+ years in software/platform/infrastructure engineering; Terraform, Python, BlueCat or Infoblox, DNS/DHCP, AWS networking, DevSecOps, Linux and Docker; daily use of Claude Code. See the employer posting for the complete required and preferred qualifications.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote role with Brazil explicitly included among eligible countries. Contract type, working hours and visa sponsorship are not disclosed. Equivalent country variants are consolidated. The posting specifies a contract through December 2027.",
+  "source_url": "https://careers.epam.com/en/vacancy/senior-software-engineer-network-as-a-service-bltqfi4xmsd1ojgl6lk_en",
+  "source_key": "epam:careers:bltqfi4xmsd1ojgl6lk",
+  "published_on": "2026-11-20",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

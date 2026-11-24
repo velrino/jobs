@@ -1,0 +1,31 @@
+{
+  "company": "Porto",
+  "job_title": "Engenheiro(a) de Software Java - Pleno | Squad de Parcerias (Afirmativa para Mulheres)",
+  "location": "Barueri, SP, Brazil",
+  "summary": "Develop Java services and resilient B2B/B2B2C integrations for the partnerships squad.",
+  "requirements": "Solid Java and AWS, relational/nonrelational databases, clean architecture and adaptability to .NET/Python. Frontend and high-availability API integration experience are preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Hybrid opportunity in Brazil requiring attendance at the stated location. The employer labels the vacancy as permanent; weekly hours are not otherwise established. Affirmative opportunity for women. Hybrid attendance details will be discussed during recruitment. Listed application deadline: 2026-11-25. International work from other countries, visa sponsorship and relocation support are not established.",
+  "source_url": "https://porto.gupy.io/jobs/12846671",
+  "source_key": "gupy:porto:12846671",
+  "published_on": "2026-11-19",
+  "last_checked": "2026-11-23",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "company": "Zallpy Digital",
+  "job_title": "Pessoa Desenvolvedora Back End SR",
+  "location": "Brazil — remote",
+  "summary": "Build and maintain Java backend services and integrations across financial platforms.",
+  "requirements": "Java 8/17/21, Spring Boot, Gradle, Liquibase/Flyway, SQL Server/MongoDB, automated tests, Git/Azure DevOps, system design, Kubernetes and fintech/financial experience. See the employer posting for all required and preferred qualifications.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote cooperative work arrangement (Cooperado), rather than CLT. Salary and working hours not disclosed. Benefits described as CLT-only do not establish cooperative eligibility.",
+  "source_url": "https://zallpy.inhire.app/vagas/dea1c808-0549-4f3f-92b8-73f23f262b75/pessoa-desenvolvedora-back-end-sr",
+  "source_key": "inhire:zallpy:dea1c808-0549-4f3f-92b8-73f23f262b75",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

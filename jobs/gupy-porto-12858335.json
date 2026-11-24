@@ -1,0 +1,31 @@
+{
+  "company": "Porto",
+  "job_title": "Engenheiro(a) de Software .NET - Pleno | Squad de Parcerias",
+  "location": "Barueri, SP, Brazil",
+  "summary": "Build .NET integrations for the partnerships squad, improving APIs, architecture and automated tests.",
+  "requirements": "Strong C#/.NET and AWS Lambda, relational/nonrelational databases, IaC, SOLID/Clean Architecture and ability to work across Java/Python. Frontend and observability experience are preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Hybrid opportunity in Brazil requiring attendance at the stated location. The employer labels the vacancy as permanent; weekly hours are not otherwise established. Hybrid attendance details will be discussed during recruitment. Listed application deadline: 2026-11-25. International work from other countries, visa sponsorship and relocation support are not established.",
+  "source_url": "https://porto.gupy.io/jobs/12858335",
+  "source_key": "gupy:porto:12858335",
+  "published_on": "2026-11-19",
+  "last_checked": "2026-11-23",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

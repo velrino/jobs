@@ -1,0 +1,31 @@
+{
+  "company": "Stone",
+  "job_title": "Staff Data Engineer - Prevenção a Fraude (Remoto)",
+  "location": "Brazil — remote",
+  "summary": "Lead fraud-prevention data and ML architecture, low-latency feature stores, model production operations and technical mentoring.",
+  "requirements": "Relevant completed degree; senior financial fraud/risk experience, chargebacks/CNP/CP/ATO/onboarding/banking operations, production ML, Databricks/Spark/Python/SQL, deep MLOps and technical leadership. Fluent English required; postgraduate study and decision-engine experience preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote role in the advertised region. Contract type, hours and visa sponsorship not disclosed.",
+  "source_url": "https://job-boards.greenhouse.io/stone/jobs/8210478003",
+  "source_key": "greenhouse:stone:8210478003",
+  "published_on": "2026-11-23",
+  "last_checked": "2026-11-23",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "ai-ml"
+  ],
+  "level": [
+    "staff"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

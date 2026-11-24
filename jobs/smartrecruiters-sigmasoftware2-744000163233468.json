@@ -1,0 +1,32 @@
+{
+  "company": "Sigma Software",
+  "job_title": "Middle/Senior DevOps Engineer (DataOps)",
+  "location": "Brazil — remote",
+  "summary": "Maintain AWS/Linux data-platform infrastructure, automate operations and improve production reliability and security.",
+  "requirements": "4+ years supporting enterprise cloud platforms, AWS, data platforms, Linux, Python automation, GitHub Actions/CI/CD, IaC and incident troubleshooting. English upper-intermediate+. Databricks/Snowflake/Tableau, Terraform, IAM and EKS preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Full-time employment. Salary and visa sponsorship not disclosed. Remote work in Brazil is explicitly listed.",
+  "source_url": "https://jobs.smartrecruiters.com/SigmaSoftware2/744000163233468-middle-senior-devops-engineer-dataops-",
+  "source_key": "smartrecruiters:sigmasoftware2:744000163233468",
+  "published_on": "2026-11-23",
+  "last_checked": "2026-11-23",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "mid",
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

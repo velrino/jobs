@@ -1,0 +1,32 @@
+{
+  "company": "ICON Solutions do Brasil",
+  "job_title": "Engenheiro(a) Akamai/CDN Sênior (Remoto) - 219884-1",
+  "location": "Remote, Brazil",
+  "summary": "Design and administer Akamai CDN architecture, caching and routing; operate WAF/DDoS/TLS controls, improve observability and reliability, automate provisioning and support production incidents.",
+  "requirements": "Required: Akamai implementation/administration, web architecture, HTTP/HTTPS, DNS, SSL/TLS and load balancing; caching/content delivery and performance; WAF/DDoS; mission-critical troubleshooting, monitoring and Python/Bash/API automation; cloud and DevSecOps integration. Preferred: Akamai certifications, AEM, Docker/Kubernetes, AWS/Azure/GCP, Terraform/Ansible and global high-criticality environments.",
+  "compensation": "Numerical salary or contract rate not disclosed.",
+  "conditions": "The description explicitly states PJ contracting; the application form also presents contract choices, which applicants should confirm. Remote work and Brazil are explicit. Weekly hours, language requirements, benefits and numerical rate are not disclosed. Original publishedAt matches createdAt (2026-11-17T11:04:32.490Z). Matching public title, remote location and application form were verified in a rendered browser.",
+  "source_url": "https://iconit.inhire.app/vagas/9c7c64ea-d0ce-48b6-83a8-dd53e2e1c8da/engenheiroa-akamaicdn-senior-remoto-219884-1",
+  "source_key": "inhire:iconit:9c7c64ea-d0ce-48b6-83a8-dd53e2e1c8da",
+  "published_on": "2026-11-17",
+  "last_checked": "2026-11-17",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform",
+    "security"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

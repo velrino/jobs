@@ -1,0 +1,32 @@
+{
+  "company": "CI&T",
+  "job_title": "Desenvolvedor Fullstack Mid/Senior (Java/Angular/IA), Brazil",
+  "location": "Brazil — remote outside metropolitan Campinas",
+  "summary": "Develop enterprise Java/Angular applications using AI-assisted and agentic engineering practices.",
+  "requirements": "Java/Spring Boot, Angular, microservices/REST, SOLID/DDD/TDD, Claude Code/Copilot or equivalents, MCP/RAG/skills/hooks/context engineering, SQL/NoSQL, CI/CD/testing and observability. Multi-agent engineering, modernization and AI evaluations/governance preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote work from Brazil. Contract type, salary, working hours and visa sponsorship not disclosed. Residents of metropolitan Campinas must attend the office under the employer attendance policy; remote eligibility excludes those residents.",
+  "source_url": "https://jobs.lever.co/ciandt/e4661322-93b6-4dbf-bbda-16e4b34a66c9",
+  "source_key": "lever:ciandt:e4661322-93b6-4dbf-bbda-16e4b34a66c9",
+  "published_on": "2026-11-19",
+  "last_checked": "2026-11-23",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "mid",
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

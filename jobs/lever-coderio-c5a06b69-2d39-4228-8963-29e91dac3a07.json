@@ -1,0 +1,33 @@
+{
+  "company": "Coderio",
+  "job_title": "Machine Learning Engineer - AWS",
+  "location": "Brazil, Argentina, Uruguay",
+  "summary": "Own production ML model lifecycle, feature rollout, retraining and drift monitoring; maintain SageMaker/Flink pipelines and migrate to Databricks.",
+  "requirements": "Required: 4+ years operating large-scale production ML, AWS SageMaker, streaming with Flink or Kafka/Spark, Terraform, CI/CD and fluent English. Preferred: Databricks Lakehouse/Feature Store/Model Serving, fintech/fraud/payments and Databricks certifications.",
+  "compensation": "No credible salary range disclosed. The advert displays an implausible USD 0–0 or USD 1–1 monthly placeholder; do not treat it as an offer.",
+  "conditions": "Remote with Brazil, Argentina and Uruguay explicitly listed. Title is Machine Learning Engineer while the description calls the role MLOps Engineer. Weekly hours and employment category are unspecified. Public employer JobPosting.datePosted corroborates the Lever creation date; labels use only explicitly stated levels and terms.",
+  "source_url": "https://jobs.lever.co/coderio/c5a06b69-2d39-4228-8963-29e91dac3a07",
+  "source_key": "lever:coderio:c5a06b69-2d39-4228-8963-29e91dac3a07",
+  "published_on": "2026-11-12",
+  "last_checked": "2026-11-16",
+  "role": [
+    "engineering",
+    "data"
+  ],
+  "specialty": [
+    "ai-ml",
+    "platform"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

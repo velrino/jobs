@@ -1,0 +1,31 @@
+{
+  "company": "Thera Consulting",
+  "job_title": "DEVOPS PLENO",
+  "location": "Brazil — remote",
+  "summary": "Maintain application/platform reliability, resolve incidents and automate delivery, rollback and operational procedures.",
+  "requirements": "Azure DevOps/Repos/YAML pipelines, Docker/Compose, Linux administration, PHP/Laravel troubleshooting, MySQL/MariaDB, Git, Nginx/Apache, REST/HTTP/DNS/TLS and monitoring/incident/SLA practices. Vue2/Kafka/Redis/Oracle/Kubernetes/Python/Bash and ITIL preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote PJ engagement in Brazil, immediate start and six-month duration. Salary and working hours not disclosed; the structured 0-hour value is not treated as an actual schedule.",
+  "source_url": "https://jobs.recrutei.com.br/thera-consulting/vacancy/166302-devops-pleno",
+  "source_key": "recrutei:thera-consulting:166302",
+  "published_on": "2026-11-18",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ],
+  "last_checked": "2026-11-21"
+}

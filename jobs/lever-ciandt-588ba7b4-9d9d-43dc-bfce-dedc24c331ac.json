@@ -1,0 +1,31 @@
+{
+  "company": "CI&T",
+  "job_title": "[Job - 32717] Senior Backend Developer (AI-Driven Development), Brazil",
+  "location": "Brazil — remote",
+  "summary": "Own backend APIs for a digital asset search platform using AI coding agents and AWS.",
+  "requirements": "Strong Python or TypeScript/Node backend experience, REST/OpenAPI, AI coding agents, AWS, tests, production operations and advanced English. Search/RAG, Terraform and Spanish preferred. See the employer posting for full requirements and preferred skills.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote role in Brazil. Salary, working hours and visa sponsorship are not disclosed.",
+  "source_url": "https://jobs.lever.co/ciandt/588ba7b4-9d9d-43dc-bfce-dedc24c331ac",
+  "source_key": "lever:ciandt:588ba7b4-9d9d-43dc-bfce-dedc24c331ac",
+  "published_on": "2026-11-16",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

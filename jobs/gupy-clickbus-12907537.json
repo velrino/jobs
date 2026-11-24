@@ -1,0 +1,31 @@
+{
+  "company": "ClickBus",
+  "job_title": "Pessoa Engenheira de Dados Pleno",
+  "location": "São Paulo, SP, Brazil",
+  "summary": "Build batch/streaming pipelines and troubleshoot analytical data operations across an AWS data lake.",
+  "requirements": "Production cloud data engineering; AWS S3/Athena/IAM/Glue, Airflow, Spark/PySpark, dbt, advanced SQL, Python, Git, dimensional modeling and incremental loads.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Hybrid opportunity in Brazil requiring attendance at the stated location. The employer labels the vacancy as permanent; weekly hours are not otherwise established. Listed application deadline: 2027-01-16. International work from other countries, visa sponsorship and relocation support are not established.",
+  "source_url": "https://clickbus.gupy.io/jobs/12907537",
+  "source_key": "gupy:clickbus:12907537",
+  "published_on": "2026-11-17",
+  "last_checked": "2026-11-23",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

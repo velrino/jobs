@@ -1,0 +1,33 @@
+{
+  "company": "GoFasti",
+  "job_title": "1203 - AI Engineer",
+  "location": "Remote, Latin America including Brazil",
+  "summary": "Build security-focused ML detection and SOC automation, harden LLM applications against prompt injection/leakage and establish AI guardrails and governance for sensitive insurance data.",
+  "requirements": "Required: 5+ years software/ML/data engineering including 2+ security use cases; Python, scikit-learn/PyTorch, LLM/RAG tooling, SIEM/SOAR, LLM security/MITRE ATLAS, AWS/Azure model deployment and strong written English; LATAM residence. Preferred: fraud/anomaly detection, NIST AI RMF/ISO 42001 and security certifications.",
+  "compensation": "USD 6,000–6,500 per month, depending on seniority and skills.",
+  "conditions": "Explicitly remote from Latin America. Full-time contract with US business-hours overlap; exact weekly hours are not disclosed. Engagement is through a payroll platform, allocated to a client; benefits and duration are not disclosed. Original Greenhouse first_published: 2026-11-18T18:40:33-05:00.",
+  "source_url": "https://careers.gofasti.com/job-application/6265823004?gh_jid=6265823004",
+  "source_key": "greenhouse:gofasti:6265823004",
+  "published_on": "2026-11-18",
+  "last_checked": "2026-11-19",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "ai-ml",
+    "security"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil",
+    "latam"
+  ]
+}

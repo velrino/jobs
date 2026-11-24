@@ -1,0 +1,31 @@
+{
+  "company": "Grupo SysMap",
+  "job_title": "Analista de QA PL",
+  "location": "Brazil — remote",
+  "summary": "Test web applications and evolve manual quality assurance into Playwright automation.",
+  "requirements": "Web QA, functional/regression tests, Jira, Playwright, SQL, Postman and agile/Kanban practices. See the original posting for all requirements and preferred skills.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote PJ contract in Brazil. Salary and working hours not disclosed.",
+  "source_url": "https://gruposysmap.gupy.io/jobs/12907495",
+  "source_key": "gupy:gruposysmap:12907495",
+  "published_on": "2026-11-18",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "qa"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

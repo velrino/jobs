@@ -1,0 +1,32 @@
+{
+  "company": "Framework Digital",
+  "job_title": "Desenvolvedor .NET Sênior",
+  "location": "Remote, Brazil",
+  "summary": "Act as a squad technical reference, design and build scalable .NET systems, review code, guide architectural decisions and use AI development tools critically to improve delivery and quality.",
+  "requirements": "Required: .NET Core/.NET 6+, Entity Framework Core, ASP.NET MVC, microservices/event-driven/clean/hexagonal architecture and DDD; SQL/NoSQL, Kafka/RabbitMQ, async processing, unit/integration tests, scaling, observability, deployment strategies and Kubernetes; practical AI coding-tool use. Language requirements are not disclosed.",
+  "compensation": "Numerical salary or contract rate not disclosed.",
+  "conditions": "Remote work from Brazil is explicit. Benefits include health coverage, profit sharing, learning/wellbeing programs, extended parental leave, meal allowance over BRL 1,200/month and BRL 150/month home-office support; allowances are not salary. CLT employment is explicit; weekly hours are not disclosed. Numerical pay is not disclosed. Original publishedAt matches createdAt: 2026-11-18T14:45:12.152Z.",
+  "source_url": "https://frameworkdigital.inhire.app/vagas/0a07e7ed-b7cf-446c-a806-0abb4ec3c691/desenvolvedor-net-senior",
+  "source_key": "inhire:frameworkdigital:0a07e7ed-b7cf-446c-a806-0abb4ec3c691",
+  "published_on": "2026-11-18",
+  "last_checked": "2026-11-18",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend",
+    "architecture"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

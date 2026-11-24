@@ -1,0 +1,31 @@
+{
+  "company": "Supabase",
+  "job_title": "Software Engineer - Postgres Tooling",
+  "location": "Worldwide — remote",
+  "summary": "Co-maintain the pg-delta schema diff/migration engine, improve correctness and guide open-source tooling toward a stable API.",
+  "requirements": "8+ years of software engineering and deep PostgreSQL catalog/internals expertise; migration/DDL semantics, privilege safety, TypeScript, correctness testing, dependency graphs, production ownership and cross-team technical leadership. Migration tooling, open-source maintenance, Go and Postgres extensions preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Full-time, globally remote and asynchronous work. Annual company offsite and benefits are described by the employer. Salary and visa sponsorship not disclosed. The role shares the CLI on-call rotation.",
+  "source_url": "https://jobs.ashbyhq.com/supabase/2184cfbd-927e-4d3c-b34a-f2301d3e8281",
+  "source_key": "ashby:supabase:2184cfbd-927e-4d3c-b34a-f2301d3e8281",
+  "published_on": "2026-11-19",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "worldwide"
+  ],
+  "last_checked": "2026-11-21"
+}

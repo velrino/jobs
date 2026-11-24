@@ -1,0 +1,31 @@
+{
+  "company": "nstech",
+  "job_title": "Engenheiro(a) de Software Backend Sênior",
+  "location": "Remote, Brazil",
+  "summary": "Build reusable, tenant-isolated logistics business components with contract-first REST/events, stable versioned APIs, reliable messaging, PostgreSQL and operational ownership while migrating legacy systems.",
+  "requirements": "Required: strong production Node.js/TypeScript/NestJS or equivalent, OpenAPI REST, messaging/idempotency/outbox, PostgreSQL, integration/contract testing, OAuth/OIDC/JWT, Docker/CI/Git, DDD and clear technical Portuguese. Preferred: .NET/Azure/Kubernetes, multitenancy, Keycloak/Kong, gRPC/AsyncAPI, observability, legacy migration, AI coding and logistics.",
+  "compensation": "Numerical salary or contract rate not disclosed.",
+  "conditions": "The active employer page explicitly identifies remote work and Brazil. CLT employment is listed.  Weekly hours and numerical pay are not disclosed. Original publishedAt matches createdAt: 2026-11-16T17:54:53.587Z.",
+  "source_url": "https://nstech.inhire.app/vagas/9fda60fb-bb10-4ad1-aa92-a2e63d4ac4af/engenheiroa-de-software-backend-senior",
+  "source_key": "inhire:nstech:9fda60fb-bb10-4ad1-aa92-a2e63d4ac4af",
+  "published_on": "2026-11-16",
+  "last_checked": "2026-11-19",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

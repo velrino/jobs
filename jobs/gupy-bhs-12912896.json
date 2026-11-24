@@ -1,0 +1,31 @@
+{
+  "company": "BHS",
+  "job_title": "Pessoa Desenvolvedora Backend Sênior (Home Office) [CLT Determinado - 3 meses]",
+  "location": "Brazil — remote",
+  "summary": "Develop .NET backend integrations and asynchronous messaging for a pharmacy-related platform.",
+  "requirements": ".NET backend services, system integration, Kafka or RabbitMQ, architecture and collaborative delivery. Event-driven architecture and retail/healthcare domain experience preferred. See the original posting for all requirements and preferred skills.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote, fixed-term CLT employment for three months. Salary and working hours not disclosed.",
+  "source_url": "https://bhs.gupy.io/jobs/12912896",
+  "source_key": "gupy:bhs:12912896",
+  "published_on": "2026-11-18",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

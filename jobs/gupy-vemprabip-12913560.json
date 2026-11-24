@@ -1,0 +1,31 @@
+{
+  "company": "BIP Brasil",
+  "job_title": "Pessoa Engenheira de Inteligência Artificial (IA) - Senior",
+  "location": "Brazil — remote",
+  "summary": "Build generative AI applications, RAG and agents integrated with enterprise systems and monitor quality and cost.",
+  "requirements": "Completed degree in any field; Python, REST, SQL, LLMs, embeddings/RAG, agent orchestration, Git/Docker/testing/CI/CD and data protection; GCP Gemini/Vertex AI and BigQuery stack. See the original posting for all requirements and preferred skills.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote position in Brazil. Salary, working hours and visa sponsorship are not disclosed unless otherwise noted in the requirements. Apply through the employer recruitment page.",
+  "source_url": "https://vemprabip.gupy.io/jobs/12913560",
+  "source_key": "gupy:vemprabip:12913560",
+  "published_on": "2026-11-19",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "ai-ml"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "company": "FCamara",
+  "job_title": "Desenvolvedor Fullstack Java Sênior",
+  "location": "Brazil — remote",
+  "summary": "Modernize Java systems and build integrations, messaging and new services with technical ownership.",
+  "requirements": "6–7+ years with Java, Spring, microservices, relational/nonrelational databases, asynchronous high-volume messaging and frontend basics; ability to derive requirements without formal specifications. Datadog preferred. See the original posting for all requirements and preferred skills.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote position in Brazil. Salary, working hours and visa sponsorship are not disclosed unless otherwise noted in the requirements. Apply through the employer recruitment page. Equivalent Specialist/Senior listing with matching scope is consolidated.",
+  "source_url": "https://fcamara.gupy.io/jobs/12916917",
+  "source_key": "gupy:fcamara:12916917",
+  "published_on": "2026-11-19",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

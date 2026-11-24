@@ -1,0 +1,31 @@
+{
+  "company": "Pavago",
+  "job_title": "Senior Software Engineer",
+  "location": "Remote: Argentina, Mexico, Costa Rica, Colombia, Honduras, Brazil",
+  "summary": "Develop production full-stack applications, APIs and cloud deployments and mentor engineers.",
+  "requirements": "5+ years in engineering, React/JavaScript/TypeScript, backend Node/Python/Java/.NET or equivalent, REST/GraphQL, SQL/NoSQL, cloud, Docker, CI/CD and agile delivery. See the employer page for complete requirements.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Full-time remote position; Brazil is explicitly eligible. Salary, visa sponsorship and relocation support not disclosed. US business hours are required.",
+  "source_url": "https://apply.workable.com/pavago/j/98F45003AB/",
+  "source_key": "workable:pavago:98F45003AB",
+  "published_on": "2026-11-17",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

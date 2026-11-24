@@ -1,0 +1,31 @@
+{
+  "company": "GRUPO H&W PUBLISHING",
+  "job_title": "Engenheiro de Dados",
+  "location": "Brazil — remote",
+  "summary": "Design and evolve a governed data platform, batch/streaming pipelines and reliable analytics.",
+  "requirements": "Advanced Python/SQL, PostgreSQL/MySQL tuning, dimensional modeling, API ETL/CDC, event-driven processing, AWS S3/Lambda/SQS/RDS, GitHub Actions/Docker, observability and intermediate+ English. Description requests intermediate+ English, while the structured language requirement says advanced; confirm this discrepancy with the employer. See the original posting for all requirements and preferred skills.",
+  "compensation": "Salary not disclosed; incomplete or zero-based platform ranges are not treated as confirmed compensation.",
+  "conditions": "Remote PJ contract in Brazil. Working hours and visa sponsorship not disclosed.",
+  "source_url": "https://hwpublishing.vagas.solides.com.br/vaga/956289",
+  "source_key": "solides:hwpublishing:956289",
+  "published_on": "2026-11-20",
+  "last_checked": "2026-11-20",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

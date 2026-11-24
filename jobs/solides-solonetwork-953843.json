@@ -1,0 +1,32 @@
+{
+  "company": "Solo Network Brasil S.A.",
+  "job_title": "Analista DevOps SR - Cooperado",
+  "location": "Remote, Brazil",
+  "summary": "Build and maintain CI/CD and infrastructure automation, operate Kubernetes, improve observability/performance and integrate security controls into software delivery.",
+  "requirements": "Required: strong CI/CD/deployment automation, web frontend/backend development, agile methods, application architecture, DevSecOps/SAST/DAST/SCA, vulnerability/risk management, cloud (preferably Azure), Docker/Kubernetes, IAM/Key Vault and infrastructure as code with Terraform/Bicep/ARM. Relevant completed higher education or related certifications is requested.",
+  "compensation": "Numerical compensation not disclosed.",
+  "conditions": "Cooperative membership (Cooperado), with remote or hybrid work offered at Solo Network offices; confirm the chosen arrangement. Employer workplace metadata lists remote Brazil. Weekly hours, languages and numerical pay are unspecified. Original employer JobPosting.datePosted is November 16; active and accepting applications.",
+  "source_url": "https://solonetwork.vagas.solides.com.br/vaga/953843",
+  "source_key": "solides:solonetwork:953843",
+  "published_on": "2026-11-16",
+  "last_checked": "2026-11-16",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform",
+    "security"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

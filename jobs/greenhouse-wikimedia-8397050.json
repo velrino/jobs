@@ -1,0 +1,38 @@
+{
+  "company": "Wikimedia Foundation",
+  "job_title": "Senior Site Reliability Engineer",
+  "location": "Remote; eligible countries include Brazil, Colombia and Mexico",
+  "summary": "Operate and improve the infrastructure serving Wikipedia, automate service deployment and configuration, support scalable architecture and participate in incident response and infrastructure reliability work.",
+  "requirements": "Required: 6+ years SRE/operations/DevOps; scripting (Python/Go/Bash/Ruby), configuration management, distributed caching, TCP/IP/HTTP/TLS/DNS, Linux package management and troubleshooting, automation, incident response and strong written/spoken English. Preferred: kernel tuning, Prometheus/Grafana, open-source contributions, LAMP/MediaWiki and cross-team SLOs.",
+  "compensation": "The disclosed US-only reference range is USD 116,633–181,243 per year. Pay outside the US is adjusted to the country of hire; the Brazil range is not disclosed.",
+  "conditions": "Remote hiring is explicitly available in Brazil and other listed countries, subject to current local work authorization; non-US employment uses an Employer of Record. A shared 24/7 on-call rotation and travel 1–2 times yearly are required. Weekly hours and employment category are not disclosed. Original Greenhouse first_published: 2026-11-17T16:54:40-05:00.",
+  "source_url": "https://job-boards.greenhouse.io/wikimedia/jobs/8397050",
+  "source_key": "greenhouse:wikimedia:8397050",
+  "published_on": "2026-11-17",
+  "last_checked": "2026-11-18",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil",
+    "latam",
+    "colombia",
+    "mexico",
+    "canada",
+    "europe",
+    "india",
+    "us"
+  ]
+}

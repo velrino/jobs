@@ -1,0 +1,31 @@
+{
+  "company": "SoftDesign",
+  "job_title": "Data Engineer",
+  "location": "Brazil — remote",
+  "summary": "Build and optimize Databricks data pipelines and Power BI reporting solutions.",
+  "requirements": "Large-scale data engineering, Databricks, Power BI, SQL/Python, ETL, relational/nonrelational databases, cloud and agile collaboration. Relevant studies and certifications preferred. See the original posting for all requirements and preferred skills.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote CLT employment in Brazil. Salary and working hours not disclosed.",
+  "source_url": "https://softdesign.gupy.io/jobs/12908225",
+  "source_key": "gupy:softdesign:12908225",
+  "published_on": "2026-11-18",
+  "last_checked": "2026-11-20",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

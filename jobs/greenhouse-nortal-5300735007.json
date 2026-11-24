@@ -1,0 +1,31 @@
+{
+  "company": "Nortal",
+  "job_title": "(1633) Senior Site Reliability Engineer",
+  "location": "Latin America — remote",
+  "summary": "Modernize and scale a customer-data caching platform through reliability, capacity, automation and observability improvements.",
+  "requirements": "Relevant bachelors degree, SRE/DevOps/platform experience, distributed production systems, caching, AWS, CI/CD, infrastructure/configuration/secrets as code, observability, performance testing, scripting and advanced English.",
+  "compensation": "Salary paid in USD; numerical range and pay period not disclosed.",
+  "conditions": "Remote position in the advertised region. Contract type, working hours and visa sponsorship not disclosed.",
+  "source_url": "https://job-boards.greenhouse.io/nortal/jobs/5300735007",
+  "source_key": "greenhouse:nortal:5300735007",
+  "published_on": "2026-11-18",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "senior"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "latam"
+  ],
+  "last_checked": "2026-11-20",
+  "work": [
+    "remote"
+  ]
+}

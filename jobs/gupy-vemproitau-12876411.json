@@ -1,0 +1,31 @@
+{
+  "company": "Itaú Unibanco",
+  "job_title": "Engenheiro(a) de Dados Sênior | IA Generativa e Cyber Security",
+  "location": "São Paulo, SP, Brazil",
+  "summary": "Build data and generative-AI products for cybersecurity, including assistants, automated workflows and scalable platforms.",
+  "requirements": "Solid Python/SQL data engineering, Spark/PySpark, AWS, Git/CI/CD and production LLM applications; RAG, prompts/context engineering and agents. MLOps/LLMOps, security and regulated-environment experience are preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "On-site opportunity in Brazil; local attendance is required. The employer labels the vacancy as permanent; weekly hours are not otherwise established. Listed application deadline: 2026-12-31. International work from other countries, visa sponsorship and relocation support are not established.",
+  "source_url": "https://vemproitau.gupy.io/jobs/12876411",
+  "source_key": "gupy:vemproitau:12876411",
+  "published_on": "2026-11-16",
+  "last_checked": "2026-11-23",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "ai-ml"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "on-site"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

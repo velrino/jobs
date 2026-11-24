@@ -1,0 +1,34 @@
+{
+  "company": "Alpaca",
+  "job_title": "Senior Software Engineer – Developer Platform",
+  "location": "Remote - Europe and Americas, including Brazil",
+  "summary": "Build developer and AI-agent interfaces, APIs, SDKs, CLI and MCP tooling; evolve API governance, backend services, reliability and shared engineering standards.",
+  "requirements": "Required: 5+ years owning production software used by developers; shipped developer-facing API/SDK/platform; strong API schemas, compatibility and architectural judgment; Go, C# or Java (or equivalent); observability, cross-team standards, React/TypeScript familiarity and algorithmic trading experience. Preferred: MCP architecture, OAuth/delegated agent authorization, financial markets, production Go, startups and remote work.",
+  "compensation": "Numerical salary range not disclosed.",
+  "conditions": "Remote within Europe and the Americas. The application requires ongoing authorization to work in the country of residence without employer sponsorship. Weekly hours, employment category and language requirements are not explicitly disclosed. Benefits include stock options and health coverage; the USD 500 one-time setup payment and USD 150 monthly stipend are allowances, not salary. Original publication: 2026-11-16T14:45:08-05:00, verified from first_published on the live employer board.",
+  "source_url": "https://job-boards.greenhouse.io/alpaca/jobs/6262786004",
+  "source_key": "greenhouse:alpaca:6262786004",
+  "published_on": "2026-11-16",
+  "last_checked": "2026-11-17",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend",
+    "platform"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil",
+    "latam",
+    "europe"
+  ]
+}

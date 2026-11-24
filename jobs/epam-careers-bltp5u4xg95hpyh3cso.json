@@ -1,0 +1,31 @@
+{
+  "company": "EPAM Systems",
+  "job_title": "Performance Engineer",
+  "location": "Remote: Brazil, Argentina, Chile, Colombia, Mexico",
+  "summary": "Implement automated performance tests and assess nonfunctional requirements with development and DevSecOps teams.",
+  "requirements": "2+ years in performance engineering for web/distributed systems; k6, JMeter or Gatling, familiarity with Locust and load, stress, endurance and capacity testing. English B1+. See the employer posting for the complete required and preferred qualifications.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote role with Brazil explicitly included among eligible countries. Contract type, working hours and visa sponsorship are not disclosed. Equivalent country variants are consolidated.",
+  "source_url": "https://careers.epam.com/en/vacancy/performance-engineer-bltp5u4xg95hpyh3cso_en",
+  "source_key": "epam:careers:bltp5u4xg95hpyh3cso",
+  "published_on": "2026-11-16",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "qa"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "company": "GoFasti",
+  "job_title": "1196 - Offensive Security Tester",
+  "location": "Remote, Latin America including Brazil",
+  "summary": "Perform authorized offensive testing across web apps/APIs, networks and cloud; create test tooling, document exploitable risks and coordinate engineering remediation and retesting.",
+  "requirements": "Required: 6+ years offensive security/pentesting/red teaming, web/API and AD/network attacks, AWS/Azure testing, Burp/Metasploit/BloodHound/Nmap and scripting/tooling in Python/Go/PowerShell or similar; strong written English and LATAM residence. Preferred: OSCP/OSEP/OSWE/GPEN/GWAPT/CRTO, regulated industries and legacy insurance systems.",
+  "compensation": "USD 5,500–7,000 per month, depending on seniority and skills.",
+  "conditions": "Explicitly remote from Latin America. Full-time contract with US business-hours overlap; exact weekly hours are not disclosed. Engagement is through a payroll platform, allocated to a client; benefits and duration are not disclosed. Original Greenhouse first_published: 2026-11-18T18:19:49-05:00.",
+  "source_url": "https://careers.gofasti.com/job-application/6265795004?gh_jid=6265795004",
+  "source_key": "greenhouse:gofasti:6265795004",
+  "published_on": "2026-11-18",
+  "last_checked": "2026-11-19",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "security"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil",
+    "latam"
+  ]
+}

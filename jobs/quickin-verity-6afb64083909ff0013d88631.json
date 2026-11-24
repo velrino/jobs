@@ -1,0 +1,31 @@
+{
+  "company": "Verity",
+  "job_title": "AI Engineer Sênior - REMOTO",
+  "location": "Remote, Brazil",
+  "summary": "Build Python AI agents, MCP workflows, RAG/vector retrieval and enterprise integrations with Google ADK/DeepAgents/Vertex AI/Gemini; define architecture, observability and agent evaluation.",
+  "requirements": "Required: solid Python, agent/workflow development, DeepAgents, MCP, RAG/vector databases, APIs/tools, Vertex AI/Gemini, reusable architecture, observability and LLM/agent validation (DeepEval/LLM-as-a-Judge). Preferred: enterprise agent platforms, technical governance, complex integrations, standardization and LLMOps.",
+  "compensation": "Numerical salary or contract rate not disclosed.",
+  "conditions": "Remote work and applicant country Brazil are explicit. The visible employer page lists CLT employment and healthcare, meal/home-office support, learning and wellbeing benefits. Weekly hours, numerical salary and language requirements are not disclosed. Public datePosted matches the public creation timestamp: 2026-11-16T20:14:00.786Z.",
+  "source_url": "https://jobs.quickin.io/verity/jobs/6afb64083909ff0013d88631",
+  "source_key": "quickin:verity:6afb64083909ff0013d88631",
+  "published_on": "2026-11-16",
+  "last_checked": "2026-11-19",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "ai-ml"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

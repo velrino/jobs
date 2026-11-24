@@ -1,0 +1,33 @@
+{
+  "company": "CookUnity",
+  "job_title": "Senior Full Stack Engineer (Backend-oriented), Growth - Platform",
+  "location": "Remote, LATAM including Brazil",
+  "summary": "Own authentication, identity and account services; build shared notification capabilities, APIs and event-driven integrations, optimize database performance and support secure production operations.",
+  "requirements": "Required: 5+ years focused on production backend systems; Kotlin/Java and Node.js/TypeScript, with deep expertise in one and independent contribution in the other; relational databases, distributed/asynchronous systems, retries/idempotency, observability, OAuth 2.0/OpenID Connect, APIs and end-to-end technical ownership. Advanced English is requested in the description; the application asks for B2 or higher.",
+  "compensation": "Numerical salary range not disclosed.",
+  "conditions": "Remote LATAM role; the employer application explicitly includes Brazil, Argentina, Chile, Peru, Mexico, Colombia and Uruguay. Participation in incident response and on-call rotation supporting a 24/7 business is required. Pay is in USD; no numerical range, weekly hours or employment category is disclosed. The advert includes vacation, Argentine holidays, healthcare support and leave benefits; confirm the terms applicable to the selected country. Original publication: 2026-11-16T12:50:09-05:00, verified from first_published on the live employer board.",
+  "source_url": "https://careers.cookunity.com/jobs/8205614003",
+  "source_key": "greenhouse:cookunity:8205614003",
+  "published_on": "2026-11-16",
+  "last_checked": "2026-11-17",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack",
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil",
+    "latam"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "company": "BHS",
+  "job_title": "Analista de Dados Sênior (Home Office)",
+  "location": "Brazil — remote",
+  "summary": "Analyze litigation portfolios and legal risk using statistics, clustering and Power BI dashboards.",
+  "requirements": "Advanced SQL, Python/Pandas/NumPy, statistical legal-risk analysis and jurimetrics, Power BI/star schemas, unsupervised ML, storytelling and a quantitative degree. See the original posting for all requirements and preferred skills.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote position in Brazil. Salary, working hours and visa sponsorship are not disclosed unless otherwise noted in the requirements. Apply through the employer recruitment page.",
+  "source_url": "https://bhs.gupy.io/jobs/12892373",
+  "source_key": "gupy:bhs:12892373",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-20",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

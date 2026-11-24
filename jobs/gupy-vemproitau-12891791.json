@@ -1,0 +1,31 @@
+{
+  "company": "Itaú Unibanco",
+  "job_title": "Engenharia de Software Backend Sr (GO) - PJ Vender meus Produtos e Serviços (REDE)",
+  "location": "São Paulo, SP, Brazil",
+  "summary": "Build and support high-volume payment processing services for Rede's digital partners.",
+  "requirements": "Strong backend development, Go, microservices, APIs, Kubernetes, cloud preferably AWS and automated testing. Payments/acquiring experience and distributed-system observability are preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Hybrid opportunity in Brazil requiring attendance at the stated location. The employer labels the vacancy as permanent; weekly hours are not otherwise established. Eight office days per month in Jabaquara, Sao Paulo. PJ in the original title refers to the business-client segment, not an asserted contractor agreement. Listed application deadline: 2027-02-11. International work from other countries, visa sponsorship and relocation support are not established.",
+  "source_url": "https://vemproitau.gupy.io/jobs/12891791",
+  "source_key": "gupy:vemproitau:12891791",
+  "published_on": "2026-11-19",
+  "last_checked": "2026-11-23",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

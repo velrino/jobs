@@ -1,0 +1,31 @@
+{
+  "company": "Framework",
+  "job_title": "Desenvolvedor(a) Java - Sênior",
+  "location": "Brazil — remote",
+  "summary": "Develop Java services and integrations for Rethink within the Framework group.",
+  "requirements": "Java, Spring Data/Security/MVC, REST APIs, SQL/NoSQL and Git. CI/CD, microservices and agile practices preferred. See the employer posting for all required and preferred qualifications.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote in Brazil. Employer contract model: PJ. Salary, working hours and visa sponsorship are not disclosed.",
+  "source_url": "https://frameworkdigital.inhire.app/vagas/1b40ff13-cbe8-4772-9482-9b7f0696ba01/desenvolvedora-java-senior",
+  "source_key": "inhire:frameworkdigital:1b40ff13-cbe8-4772-9482-9b7f0696ba01",
+  "published_on": "2026-11-17",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

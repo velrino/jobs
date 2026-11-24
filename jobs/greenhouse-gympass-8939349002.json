@@ -1,0 +1,31 @@
+{
+  "company": "Wellhub",
+  "job_title": "Senior Backend Software Engineer | Identity Experience",
+  "location": "Remote, Brazil only",
+  "summary": "Own core identity services for account creation, management, recovery and permissions; build and operate scalable backend systems, improve production performance and reliability, and advance AI-assisted development practices.",
+  "requirements": "Required: production distributed backend systems at scale; APIs, data-intensive/cloud-native architectures, scalable databases such as PostgreSQL, AWS/GCP, Kubernetes, end-to-end ownership, maintainable code and effective technical communication. Golang expertise is highly desirable. AI fluency and thoughtful use of LLM/coding tools are expected.",
+  "compensation": "Numerical salary or contract rate not disclosed.",
+  "conditions": "The role explicitly permits work from anywhere in Brazil and is only open to candidates in Brazil. A generic benefits paragraph says the work model can be discussed; confirm remote terms in the offer. Health/dental/life insurance, wellbeing, home-office support and leave are listed. Weekly hours, employment category and a language proficiency threshold are not disclosed. Original Greenhouse first_published: 2026-11-17T10:56:00-05:00.",
+  "source_url": "https://job-boards.greenhouse.io/gympass/jobs/8939349002",
+  "source_key": "greenhouse:gympass:8939349002",
+  "published_on": "2026-11-17",
+  "last_checked": "2026-11-18",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

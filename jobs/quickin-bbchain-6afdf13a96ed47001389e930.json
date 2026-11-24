@@ -1,0 +1,31 @@
+{
+  "company": "BBChain",
+  "job_title": "[Remoto] DevOps Pleno",
+  "location": "Brazil — remote",
+  "summary": "Operate Kubernetes applications and automate multicloud infrastructure, delivery and monitoring.",
+  "requirements": "Kubernetes, Azure/GCP including AKS/GKE, Terraform/Ansible/Helm, Docker/Linux/shell and CI/CD pipelines. AWS/OpenShift and regulated financial systems preferred. See the employer posting for full requirements and preferred skills.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote CLT employment in Brazil. Salary and working hours not disclosed.",
+  "source_url": "https://jobs.quickin.io/bbchain/jobs/6afdf13a96ed47001389e930",
+  "source_key": "quickin:bbchain:6afdf13a96ed47001389e930",
+  "published_on": "2026-11-18",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

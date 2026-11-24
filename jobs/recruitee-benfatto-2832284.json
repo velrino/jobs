@@ -1,0 +1,32 @@
+{
+  "company": "Ben Fatto",
+  "job_title": "System Engineer",
+  "location": "Remote, Brazil",
+  "summary": "Own Angular interfaces, .NET APIs, SQL Server data systems and automated testing end to end; integrate existing AI/LLM services through Python orchestration and deploy workloads on AWS/GCP.",
+  "requirements": "Required: 7+ years .NET/C# and SQL Server; 3+ years Angular; 2+ years agentic AI integrations; Python, REST APIs, AI orchestration frameworks, Playwright or similar, backend tests and AWS/GCP. Preferred: LLM APIs, vector databases/RAG, containers, prompt evaluation and modernization. The board specifies bachelor-level education; the application checks ability to conduct English meetings.",
+  "compensation": "Numerical salary or contract rate not disclosed.",
+  "conditions": "Remote workplace, Brazil and full-time permanent employment are explicit. Weekly hours and an explicit seniority label are not disclosed; substantial experience is required. Numerical salary is not disclosed. The public application asks about CLT salary expectations and ability to conduct meetings in English. Original publication is corroborated by same-day creation and employer JobPosting.datePosted (2026-11-18).",
+  "source_url": "https://benfatto.recruitee.com/o/system-engineer-3",
+  "source_key": "recruitee:benfatto:2832284",
+  "published_on": "2026-11-18",
+  "last_checked": "2026-11-18",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack",
+    "ai-ml"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

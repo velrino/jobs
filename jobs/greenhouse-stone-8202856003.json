@@ -1,0 +1,31 @@
+{
+  "company": "Stone",
+  "job_title": "[POS e Meios de Pagamento] Quality Assurance Engineer - Pleno",
+  "location": "Brazil — remote",
+  "summary": "Test payment terminals and backend services, automate coverage and investigate release and field failures.",
+  "requirements": "Practical manual/automated QA, Robot Framework/Python, Linux, REST/API testing, Git/CI/CD and agile defect management. POS/EMV/ISO8583, SQL, Android/Appium and performance testing preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote position in the advertised region. Contract type, working hours and visa sponsorship not disclosed.",
+  "source_url": "https://job-boards.greenhouse.io/stone/jobs/8202856003",
+  "source_key": "greenhouse:stone:8202856003",
+  "published_on": "2026-11-17",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "qa"
+  ],
+  "level": [
+    "mid"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ],
+  "last_checked": "2026-11-20",
+  "work": [
+    "remote"
+  ]
+}

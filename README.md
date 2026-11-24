@@ -9,6 +9,7 @@ Technology and related opportunities in Brazil and around the world. Browse the 
 | All open jobs | [View jobs](https://github.com/velrino/jobs/issues?q=is%3Aissue+is%3Aopen) |
 | Brazil — all work arrangements | [View jobs](https://github.com/velrino/jobs/issues?q=is%3Aissue+is%3Aopen+label%3Aregion%3Abrazil) |
 | Remote — all regions | [View jobs](https://github.com/velrino/jobs/issues?q=is%3Aissue+is%3Aopen+label%3Awork%3Aremote) |
+| Remote — Brazil, LATAM or worldwide | [View jobs](https://github.com/velrino/jobs/issues?q=is%3Aissue+is%3Aopen+label%3Awork%3Aremote+label%3A%22region%3Abrazil%22%2C%22region%3Alatam%22%2C%22region%3Aworldwide%22) |
 | Remote — Brazil | [View jobs](https://github.com/velrino/jobs/issues?q=is%3Aissue+is%3Aopen+label%3Awork%3Aremote+label%3Aregion%3Abrazil) |
 | Remote — LATAM | [View jobs](https://github.com/velrino/jobs/issues?q=is%3Aissue+is%3Aopen+label%3Awork%3Aremote+label%3Aregion%3Alatam) |
 | Remote — worldwide eligibility | [View jobs](https://github.com/velrino/jobs/issues?q=is%3Aissue+is%3Aopen+label%3Awork%3Aremote+label%3Aregion%3Aworldwide) |
@@ -28,6 +29,8 @@ Technology and related opportunities in Brazil and around the world. Browse the 
 | Design | [View jobs](https://github.com/velrino/jobs/issues?q=is%3Aissue+is%3Aopen+label%3Arole%3Adesign) |
 | Product | [View jobs](https://github.com/velrino/jobs/issues?q=is%3Aissue+is%3Aopen+label%3Arole%3Aproduct) |
 | IT / support | [View jobs](https://github.com/velrino/jobs/issues?q=is%3Aissue+is%3Aopen+label%3Arole%3Ait) |
+
+Region filters match the labels on each issue. The Brazil filter shows only `region:brazil`; use the combined remote filter above to also include LATAM and worldwide opportunities. A LATAM listing can restrict eligible countries, so check each posting before applying.
 
 Combine filters in the issue search. For example:
 

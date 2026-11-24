@@ -1,0 +1,31 @@
+{
+  "company": "FCamara",
+  "job_title": "Desenvolvedor Full Stack Java/React - Sênior",
+  "location": "Brazil — remote",
+  "summary": "Build a healthcare platform end to end with Java and React, asynchronous integrations and evolving distributed architecture.",
+  "requirements": "Production Java and React experience, Docker, Azure deployments, relational/nonrelational databases, messaging and external APIs. Daily responsible use of AI coding tools is explicitly required; healthcare/LGPD experience is preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote opportunity for applicants based in Brazil. PJ contractor engagement. Listed application deadline: 2027-01-22. International work from other countries, visa sponsorship and relocation support are not established.",
+  "source_url": "https://fcamara.gupy.io/jobs/12927144",
+  "source_key": "gupy:fcamara:12927144",
+  "published_on": "2026-11-23",
+  "last_checked": "2026-11-23",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

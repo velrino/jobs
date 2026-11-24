@@ -1,0 +1,31 @@
+{
+  "company": "MJV INNOVATION",
+  "job_title": "Arquiteto de Software/Soluções",
+  "location": "Brazil — remote",
+  "summary": "Define enterprise solution architectures and modernize insurance applications using .NET, GCP and event-driven integration.",
+  "requirements": "Corporate software architecture, distributed systems, microservices/REST, event-driven messaging, GCP/IAM, C#/.NET/ASP.NET Core, SOLID/Clean Architecture, Git/CI/CD, IaC and observability. Insurance, Kubernetes and certifications preferred. See the employer posting for all required and preferred qualifications.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote in Brazil. Employer contract model: CLT. Salary, working hours and visa sponsorship are not disclosed.",
+  "source_url": "https://mjv.inhire.app/vagas/feaf32e7-dcd0-431a-9b4f-af8ff9f8ffff/arquiteto-de-softwaresolucoes",
+  "source_key": "inhire:mjv:feaf32e7-dcd0-431a-9b4f-af8ff9f8ffff",
+  "published_on": "2026-11-19",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "architecture"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

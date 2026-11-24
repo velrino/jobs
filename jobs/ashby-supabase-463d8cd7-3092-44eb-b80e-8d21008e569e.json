@@ -1,0 +1,31 @@
+{
+  "company": "Supabase",
+  "job_title": "Storage Platform Engineer",
+  "location": "Worldwide — remote",
+  "summary": "Design and operate a software-defined NVMe-over-Fabrics storage platform beneath Supabase Postgres, including durability, QoS and snapshots.",
+  "requirements": "7+ years in software engineering with production storage systems; distributed block storage, NVMe/TCP or NVMe-oF, Linux storage internals, Go plus C/C++/Rust, fio/pgbench/eBPF/perf, durability tradeoffs, Kubernetes controllers/CSI and production on-call. SPDK/RDMA/Postgres internals preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Full-time globally remote, asynchronous work. Production on-call and incident response are part of the role. Annual offsites are listed. Salary and visa sponsorship not disclosed.",
+  "source_url": "https://jobs.ashbyhq.com/supabase/463d8cd7-3092-44eb-b80e-8d21008e569e",
+  "source_key": "ashby:supabase:463d8cd7-3092-44eb-b80e-8d21008e569e",
+  "published_on": "2026-11-19",
+  "last_checked": "2026-11-23",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "worldwide"
+  ]
+}

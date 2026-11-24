@@ -1,0 +1,31 @@
+{
+  "company": "Grupo SysMap",
+  "job_title": "Especialista DevSecOps - Esteiras de Desenvolvimento com IA",
+  "location": "São Paulo, SP, Brazil",
+  "summary": "Integrate AI-assisted engineering into secure CI/CD delivery pipelines and improve platform automation.",
+  "requirements": "Solid DevOps/DevSecOps, Git, scripting, containers/cloud, static analysis, dependency/secrets scanning, vulnerability handling and identity/credential management. AI agents and IaC are preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Hybrid opportunity in Brazil requiring attendance at the stated location. PJ contractor engagement. One or two office visits per week in Pinheiros, Sao Paulo. Listed application deadline: 2027-01-31. International work from other countries, visa sponsorship and relocation support are not established.",
+  "source_url": "https://gruposysmap.gupy.io/jobs/12908094",
+  "source_key": "gupy:gruposysmap:12908094",
+  "published_on": "2026-11-18",
+  "last_checked": "2026-11-23",
+  "role": [
+    "it"
+  ],
+  "specialty": [
+    "security"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

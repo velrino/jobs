@@ -1,0 +1,32 @@
+{
+  "company": "Harpo",
+  "job_title": "Consultor Sênior Microsoft Cloud & Security",
+  "location": "100% remote, Brazil",
+  "summary": "Provide specialized, on-demand Microsoft cloud and security consulting: assess and implement Microsoft 365/Azure environments, improve identity/data protection, support migrations and complex incidents, and document recommendations.",
+  "requirements": "Required: Microsoft 365 administration/architecture, Purview/DLP, Entra ID, AD DS/DNS/DHCP/GPO, hybrid identity, Azure, Exchange/SharePoint/Teams/OneDrive, MFA/RBAC/Zero Trust, advanced troubleshooting, PowerShell and consulting/documentation skills. Preferred: Microsoft/OCI certifications, Defender/Sentinel/Intune, multicloud, virtualization/Kubernetes/Linux, ITIL and technical English.",
+  "compensation": "Numerical salary or contract rate not disclosed.",
+  "conditions": "Explicitly 100% remote PJ consulting with part-time, on-demand dedication and an agreed monthly allocation of hours. Exclusive dedication or a full-time schedule is not required. Tasks and incident availability are agreed in advance. Numerical rate and benefits are not disclosed. Public employer JobPosting.datePosted and the active listing both confirm 2026-11-18.",
+  "source_url": "https://harpo.vagas.solides.com.br/vaga/955022",
+  "source_key": "solides:harpo:955022",
+  "published_on": "2026-11-18",
+  "last_checked": "2026-11-18",
+  "role": [
+    "it"
+  ],
+  "specialty": [
+    "platform",
+    "security"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

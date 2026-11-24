@@ -1,0 +1,31 @@
+{
+  "company": "Quality Digital",
+  "job_title": "PESSOA DESENVOLVEDORA SÊNIOR (BACK-END)",
+  "location": "Brazil — remote",
+  "summary": "Maintain and modernize legacy .NET systems, improve architecture and testing and support production releases.",
+  "requirements": "6+ years with C#/.NET Framework 4.x; advanced SQL Server/T-SQL, ASP.NET, REST integration, automated tests, Git/Azure DevOps and practical AI coding tools. Fiscal documents and SAP integrations preferred. See the original posting for all requirements and preferred skills.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote position in Brazil. Salary, working hours and visa sponsorship are not disclosed unless otherwise noted in the requirements. Apply through the employer recruitment page.",
+  "source_url": "https://qualitydigital.gupy.io/jobs/12901708",
+  "source_key": "gupy:qualitydigital:12901708",
+  "published_on": "2026-11-19",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

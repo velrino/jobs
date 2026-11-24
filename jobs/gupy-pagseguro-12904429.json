@@ -1,0 +1,31 @@
+{
+  "company": "PagBank",
+  "job_title": "Engenheiro de Software Pl. (Full Stack)",
+  "location": "São Paulo, SP, Brazil",
+  "summary": "Develop Java/React applications, REST services and asynchronous integrations across frontend and backend.",
+  "requirements": "Completed or ongoing technology degree; Java 17+, Spring, React/HTML/CSS/JavaScript, relational SQL, Kafka/RabbitMQ, Git and automated unit/integration tests.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Hybrid opportunity in Brazil requiring attendance at the stated location. The employer labels the vacancy as permanent; weekly hours are not otherwise established. Listed application deadline: 2027-12-31. International work from other countries, visa sponsorship and relocation support are not established.",
+  "source_url": "https://pagseguro.gupy.io/jobs/12904429",
+  "source_key": "gupy:pagseguro:12904429",
+  "published_on": "2026-11-23",
+  "last_checked": "2026-11-23",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

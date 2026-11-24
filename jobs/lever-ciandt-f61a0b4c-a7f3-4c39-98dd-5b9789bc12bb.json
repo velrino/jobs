@@ -1,0 +1,32 @@
+{
+  "company": "CI&T",
+  "job_title": "[Job- 32760]Senior DevOps Engineer, Brazil",
+  "location": "Remote, Brazil",
+  "summary": "Implement DevOps practices and CI/CD pipelines for subsea production-control software; administer AWS/GitHub/Atlassian, improve security and cloud costs, support microservices and standardize container platforms.",
+  "requirements": "Required: AWS EC2/ASG/VPC/ECS/EKS/S3; GitHub and Jira/Confluence; DevOps principles; monitoring/observability, cloud cost optimization, Terraform/CloudFormation/CDK, virtualization and OS images, Linux/Windows cloud servers, secure CI/CD and Kubernetes platform standards. An explicit language proficiency threshold is not disclosed.",
+  "compensation": "Numerical salary or contract rate not disclosed.",
+  "conditions": "Brazil and remote workplace are explicit. Health/dental/life insurance, meal allowance, childcare assistance, profit sharing and learning/wellbeing benefits are listed. Full-time commitment is explicit. Salary is not disclosed. Original employer page JobPosting.datePosted is 2026-11-18, corroborated by the active Lever posting.",
+  "source_url": "https://jobs.lever.co/ciandt/f61a0b4c-a7f3-4c39-98dd-5b9789bc12bb",
+  "source_key": "lever:ciandt:f61a0b4c-a7f3-4c39-98dd-5b9789bc12bb",
+  "published_on": "2026-11-18",
+  "last_checked": "2026-11-18",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform",
+    "security"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

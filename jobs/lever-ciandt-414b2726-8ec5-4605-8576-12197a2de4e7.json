@@ -1,0 +1,31 @@
+{
+  "company": "CI&T",
+  "job_title": "[Job-32681] Mid Level Java Developer, Brazil",
+  "location": "Brazil",
+  "summary": "Develop Java/Spring backend services and REST APIs for a financial-sector client, maintain tests and CI/CD quality and use generative AI tools in software delivery.",
+  "requirements": "Required: Java 17+, Spring Boot, REST/microservices, basic Node.js, testing, Clean Code, Git, agile delivery, CI/CD and AI coding tools. Preferred: Azure, Angular 19+/TypeScript, SonarQube/Azure DevOps and financial-sector experience.",
+  "compensation": "Numerical salary range not disclosed.",
+  "conditions": "Remote for applicants outside the Campinas metropolitan region; residents of that region must attend the Campinas office under the employer attendance policy. Original title says Java Developer and the body says Fullstack Developer; the core required responsibilities are backend. Weekly hours and employment category are unspecified. Public employer JobPosting.datePosted corroborates the Lever creation date; labels use only explicitly stated levels and terms.",
+  "source_url": "https://jobs.lever.co/ciandt/414b2726-8ec5-4605-8576-12197a2de4e7",
+  "source_key": "lever:ciandt:414b2726-8ec5-4605-8576-12197a2de4e7",
+  "published_on": "2026-11-12",
+  "last_checked": "2026-11-16",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

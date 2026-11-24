@@ -1,0 +1,31 @@
+{
+  "company": "Pague Menos",
+  "job_title": "Pessoa Estagiária em Qualidade de Software",
+  "location": "Fortaleza, CE, Brazil",
+  "summary": "Support functional, exploratory, regression and integration testing, defect tracking and requirements validation.",
+  "requirements": "Current computing/software-related degree enrollment. No prior professional QA experience is required; academic projects, Postman/Azure DevOps, logic, SQL or test automation are advantages.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "On-site opportunity in Brazil; local attendance is required. Listed application deadline: 2026-11-24. International work from other countries, visa sponsorship and relocation support are not established.",
+  "source_url": "https://admpmenos.gupy.io/jobs/12895222",
+  "source_key": "gupy:admpmenos:12895222",
+  "published_on": "2026-11-16",
+  "last_checked": "2026-11-23",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "qa"
+  ],
+  "level": [
+    "intern"
+  ],
+  "work": [
+    "on-site"
+  ],
+  "type": [
+    "internship"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "company": "Vivo Digital",
+  "job_title": "Arquiteto(a) de Dados - Consultor(a)",
+  "location": "Brazil — remote",
+  "summary": "Define data and AI architectures and guide modernization, integration and governance initiatives.",
+  "requirements": "Relevant degree; analytical/operational data architecture, Databricks/Delta/Spark/ADF/Synapse, ETL/ELT, SQL/NoSQL, migration, modeling/metadata, IaC/containers and LGPD/GDPR. Certifications preferred. See the original posting for all requirements and preferred skills.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote position in Brazil. Salary, working hours and visa sponsorship are not disclosed unless otherwise noted in the requirements. Apply through the employer recruitment page.",
+  "source_url": "https://vivodigital.gupy.io/jobs/11686390",
+  "source_key": "gupy:vivodigital:11686390",
+  "published_on": "2026-11-18",
+  "last_checked": "2026-11-20",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "architecture"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

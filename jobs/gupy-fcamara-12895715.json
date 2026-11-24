@@ -1,0 +1,31 @@
+{
+  "company": "FCamara",
+  "job_title": "Desenvolvedor .NET - Pleno | Exclusiva para pessoas com deficiência",
+  "location": "São Paulo, SP, Brazil",
+  "summary": "Design cloud software, implement robust .NET services and support high-availability applications.",
+  "requirements": "More than 3 years with C#/.NET and relational databases, at least 1 year in cloud, design patterns, unit testing, Git, Docker/Kubernetes and messaging such as Kafka or RabbitMQ.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Hybrid opportunity in Brazil requiring attendance at the stated location. The employer labels the vacancy as permanent; weekly hours are not otherwise established. Exclusive opportunity for people with disabilities. Listed application deadline: 2027-01-15. International work from other countries, visa sponsorship and relocation support are not established.",
+  "source_url": "https://fcamara.gupy.io/jobs/12895715",
+  "source_key": "gupy:fcamara:12895715",
+  "published_on": "2026-11-16",
+  "last_checked": "2026-11-23",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

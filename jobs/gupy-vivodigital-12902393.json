@@ -1,0 +1,31 @@
+{
+  "company": "Vivo Digital",
+  "job_title": "Analista Desenvolvimento Sistemas Sr",
+  "location": "Brazil — remote",
+  "summary": "Develop full-stack observability applications, Elastic dashboards and proactive incident automation.",
+  "requirements": "Full-stack development, REST/integrations, Elasticsearch/Kibana, logs/metrics/traces, business indicators and SRE practices including SLI/SLO and RCA. See the original posting for all requirements and preferred skills.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote position in Brazil. Salary, working hours and visa sponsorship are not disclosed unless otherwise noted in the requirements. Apply through the employer recruitment page.",
+  "source_url": "https://vivodigital.gupy.io/jobs/12902393",
+  "source_key": "gupy:vivodigital:12902393",
+  "published_on": "2026-11-19",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "company": "CI&T",
+  "job_title": "[Job 32647] Senior IA Engineer, Brazil",
+  "location": "Brazil — remote outside metropolitan Campinas",
+  "summary": "Build generative AI applications and resilient integrations using LLMs, agents and Python/Java.",
+  "requirements": "Python and/or Java/Spring, REST/microservices, Spring AI/LangChain or equivalents, RAG/embeddings/agents, MCP, cloud automation and API/AI security. Vector databases and observability preferred. See the employer posting for full requirements and preferred skills.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote role in Brazil. Salary, working hours and visa sponsorship are not disclosed. Residents of metropolitan Campinas must attend the office under the employer attendance policy; remote eligibility therefore excludes those residents.",
+  "source_url": "https://jobs.lever.co/ciandt/a465b20e-aa01-4249-bb69-a2cb833ac835",
+  "source_key": "lever:ciandt:a465b20e-aa01-4249-bb69-a2cb833ac835",
+  "published_on": "2026-11-18",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "ai-ml"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

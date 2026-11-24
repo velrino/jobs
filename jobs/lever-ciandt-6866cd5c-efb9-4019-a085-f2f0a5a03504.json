@@ -1,0 +1,31 @@
+{
+  "company": "CI&T",
+  "job_title": "[Job 32690 ] Desenvolvedor Backend Java",
+  "location": "Brazil; remote except mandatory office attendance for Campinas metropolitan residents",
+  "summary": "Build resilient event-driven data integration flows, evolve event contracts and delivery guarantees, document systems and ship tested Java/AWS services.",
+  "requirements": "Required: 5+ years with Java 17+/Spring Boot; event-driven architecture; Outbox/Saga/CQRS, idempotency/retries/DLQs; AWS SQS/SNS/EventBridge/Lambda/DynamoDB/S3; APIs, serverless/microservices, JUnit/Mockito/Testcontainers, database design, Git, agile delivery, CI/CD and infrastructure as code.",
+  "compensation": "Numerical salary or contract rate not disclosed.",
+  "conditions": "Remote Brazil employer metadata; residents of the Campinas metropolitan region must attend its office under the attendance policy. Employment category, weekly hours and language requirements are unspecified. Original JobPosting.datePosted is November 16 and corroborates Lever creation date.",
+  "source_url": "https://jobs.lever.co/ciandt/6866cd5c-efb9-4019-a085-f2f0a5a03504",
+  "source_key": "lever:ciandt:6866cd5c-efb9-4019-a085-f2f0a5a03504",
+  "published_on": "2026-11-16",
+  "last_checked": "2026-11-16",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

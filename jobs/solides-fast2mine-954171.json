@@ -1,0 +1,31 @@
+{
+  "company": "FAST2 Mine",
+  "job_title": "Analista de Suporte Técnico | Escala 12x36 | Remoto",
+  "location": "Remote, Brazil",
+  "summary": "Investigate escalated SaaS incidents and data inconsistencies using SQL, REST APIs and logs; monitor systems, support customers, document handovers and escalate defects with evidence.",
+  "requirements": "Required: SaaS product technical support, SQL joins/filters/aggregations/subqueries, REST/HTTP/JSON/authentication and Postman, log/integration troubleshooting, documentation and technical escalation. Preferred: systems analysis or related education, ITIL knowledge and previous 24/7 operations.",
+  "compensation": "Numerical salary or contract rate not disclosed.",
+  "conditions": "CLT employment, remote Brazil, 12-hour shifts followed by 36 hours off. Availability for day or night shifts, weekends and holidays is required. The body describes N2 support, while structured seniority says Principal; seniority remains unspecified because the scope is inconsistent. Weekly total hours and numerical pay are not disclosed. Active and accepting applications; original employer JobPosting.datePosted is November 17.",
+  "source_url": "https://fast2mine.vagas.solides.com.br/vaga/954171",
+  "source_key": "solides:fast2mine:954171",
+  "published_on": "2026-11-17",
+  "last_checked": "2026-11-17",
+  "role": [
+    "it"
+  ],
+  "specialty": [
+    "it-support"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

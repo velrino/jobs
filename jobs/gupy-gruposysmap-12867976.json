@@ -1,0 +1,31 @@
+{
+  "company": "Grupo SysMap",
+  "job_title": "Engenheiro de Software Sr",
+  "location": "Brazil — remote",
+  "summary": "Develop and maintain FICO Blaze Advisor decision engines, rules and integrations.",
+  "requirements": "FICO Blaze Advisor Rule Studio/RMA, decision tables/trees/scorecards/ruleflows, Java, REST/SOAP, JSON/XML, SQL and Oracle/PostgreSQL/SQL Server; production support. See the original posting for all requirements and preferred skills.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote position in Brazil. Salary, working hours and visa sponsorship are not disclosed unless otherwise noted in the requirements. Apply through the employer recruitment page.",
+  "source_url": "https://gruposysmap.gupy.io/jobs/12867976",
+  "source_key": "gupy:gruposysmap:12867976",
+  "published_on": "2026-11-17",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "company": "IEBT Innovation",
+  "job_title": "Desenvolvedor Sênior",
+  "location": "Brazil — remote",
+  "summary": "Develop and maintain RPA automation and resolve complex integration issues.",
+  "requirements": "RPA development/support, C#/.NET, REST, SQL Server, Selenium, DDD, Git/Azure DevOps CI/CD, RabbitMQ/MQTT and completed relevant degree. See the employer posting for full requirements and preferred skills.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote PJ contract in Brazil. Salary, working hours and visa sponsorship not disclosed.",
+  "source_url": "https://jobs.quickin.io/iebtinovacao/jobs/6afb57ccea777b001479c005",
+  "source_key": "quickin:iebtinovacao:6afb57ccea777b001479c005",
+  "published_on": "2026-11-16",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

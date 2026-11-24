@@ -1,0 +1,31 @@
+{
+  "company": "CI&T",
+  "job_title": "[Job-32522] Senior DevOps/Platform Engineer, Brazil",
+  "location": "Brazil — remote outside metropolitan Campinas",
+  "summary": "Provision and secure Azure infrastructure for data and AI platforms through IaC and CI/CD.",
+  "requirements": "Enterprise Azure, Terraform/Bicep, Azure DevOps/GitHub Actions, RBAC/Entra/Key Vault/OAuth, private networking, Azure OpenAI/AI Foundry/Search, monitoring and shell automation. Fabric/Purview/FinOps and certifications preferred. See the employer posting for full requirements and preferred skills.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote role in Brazil. Salary, working hours and visa sponsorship are not disclosed. Residents of metropolitan Campinas must attend the office under the employer attendance policy; remote eligibility therefore excludes those residents.",
+  "source_url": "https://jobs.lever.co/ciandt/eb1d96ca-1587-4c6a-9826-a8b8fa4ba22c",
+  "source_key": "lever:ciandt:eb1d96ca-1587-4c6a-9826-a8b8fa4ba22c",
+  "published_on": "2026-11-19",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "company": "Supabase",
+  "job_title": "Software Engineer - Interfaces Backend",
+  "location": "Worldwide — remote",
+  "summary": "Run and scale postgres-meta and related backend services, improving tenant isolation, observability, safe deploys and database access reliability.",
+  "requirements": "5+ years in software engineering, production ownership/on-call for high-traffic multi-tenant services, TypeScript/Node.js, Postgres connections/pooling/transactions/timeouts, observability/SLOs, load protection and safe rollouts. Migration, proxies/poolers, AWS, Fastify and secrets management preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Full-time globally remote, asynchronous work. Production on-call and incident response are part of the role. Annual offsites are listed. Salary and visa sponsorship not disclosed.",
+  "source_url": "https://jobs.ashbyhq.com/supabase/30cc053e-33dc-4924-a870-2cf41c296b01",
+  "source_key": "ashby:supabase:30cc053e-33dc-4924-a870-2cf41c296b01",
+  "published_on": "2026-11-23",
+  "last_checked": "2026-11-23",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "worldwide"
+  ]
+}

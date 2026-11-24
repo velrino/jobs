@@ -1,0 +1,32 @@
+{
+  "company": "Compass UOL",
+  "job_title": "Desenvolvedor Salesforce Sênior (Tech Lead)",
+  "location": "Brazil — remote",
+  "summary": "Lead Salesforce engineering, integrations, technical decisions and team mentoring.",
+  "requirements": "Apex, LWC, SOQL, Flows, REST/SOAP integration, Salesforce security, Salesforce DX, Git/deployment pipelines and prior technical leadership. Platform Developer I certification required; additional certifications and English preferred. See the original posting for all requirements and preferred skills.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote position in Brazil. Salary, working hours and visa sponsorship are not disclosed unless otherwise noted in the requirements. Apply through the employer recruitment page.",
+  "source_url": "https://compass.gupy.io/jobs/12877274",
+  "source_key": "gupy:compass:12877274",
+  "published_on": "2026-11-17",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior",
+    "lead"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

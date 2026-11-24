@@ -1,0 +1,31 @@
+{
+  "company": "FAST2 Mine",
+  "job_title": "Analista de Testes e Qualidade Pleno | Mineração",
+  "location": "Remote, Brazil",
+  "summary": "Plan and document web/mobile functional, integration, regression, usability and data-integrity tests; validate APIs and mining operations data, and support release quality and test automation.",
+  "requirements": "Required: analysis of large datasets and inconsistencies, mining operational indicators/KPIs, organized test evidence and defects, analytical and detail-oriented work. Preferred: functional/integration/regression testing, SQL/SQL Server, Python, Robot Framework, Jira/Zephyr, API testing, agile development and industrial field applications. Employer education metadata lists degree/technologist/technical education without stating completion conditions.",
+  "compensation": "Numerical compensation not disclosed.",
+  "conditions": "CLT employment and remote work in Brazil are explicitly listed. Weekly hours, language requirements and numerical compensation are unspecified. Original employer JobPosting.datePosted is November 16; active and accepting applications.",
+  "source_url": "https://fast2mine.vagas.solides.com.br/vaga/953752",
+  "source_key": "solides:fast2mine:953752",
+  "published_on": "2026-11-16",
+  "last_checked": "2026-11-16",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "qa"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

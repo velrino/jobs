@@ -1,0 +1,31 @@
+{
+  "company": "Grupo Supero",
+  "job_title": "Desenvolvedor Backend Sênior | Node.js",
+  "location": "Brazil",
+  "summary": "Develop and maintain backend services, improve architecture and reliability, implement automated tests, document delivery and mentor junior and mid-level developers.",
+  "requirements": "Required: completed IT or related degree; strong Node.js/TypeScript/JavaScript, Express/NestJS or similar frameworks, testing, relational/NoSQL databases, REST/microservices, SQS/EventBridge, OAuth2/JWT and AWS. Messaging, observability, serverless, containers and AI development tools are requested. Preferred: CI/CD, agile delivery, AWS certifications and iPaaS.",
+  "compensation": "Salary or contract rate not disclosed.",
+  "conditions": "PJ contract for a Grupo Supero project, hosted on the Kooper employer platform. Weekly hours, benefits and language requirements are not disclosed. Original publication verified from publishedAt, rather than lastPublishedAt/updatedAt. Public job description and application form verified in a rendered browser.",
+  "source_url": "https://kooperecooperativa.inhire.app/supero/vagas/ea536929-2d13-4b05-8441-b0bcc6923ce7/desenvolvedor-backend-senior-or-nodejs",
+  "source_key": "inhire:kooperecooperativa:ea536929-2d13-4b05-8441-b0bcc6923ce7",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-15",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

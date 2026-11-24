@@ -1,0 +1,31 @@
+{
+  "company": "Zallpy",
+  "job_title": "Pessoa Desenvolvedora Back-end Java Sênior",
+  "location": "Brazil",
+  "summary": "Build Java 17+ backend applications, REST APIs and microservices; integrate messaging, databases and CI/CD, and critically review AI-assisted code.",
+  "requirements": "Required: Java 17+, Spring Boot/Data/Security, PostgreSQL/MySQL, MongoDB/Redis, Kafka/RabbitMQ, Git, agile delivery and CI/CD; knowledge of LLMs, AI agents and AI development tools. Preferred: financial core systems experience.",
+  "compensation": "Salary or contract rate not disclosed.",
+  "conditions": "Cooperative engagement (Cooperado); weekly hours and language requirements are not disclosed. Benefits marked CLT-only do not apply to this engagement. Original publication verified from publishedAt, rather than lastPublishedAt/updatedAt. Public job description and application form verified in a rendered browser.",
+  "source_url": "https://zallpy.inhire.app/vagas/6c2e8322-0590-41e9-8b20-b65784fd556f/pessoa-desenvolvedora-back-end-java-senior",
+  "source_key": "inhire:zallpy:6c2e8322-0590-41e9-8b20-b65784fd556f",
+  "published_on": "2026-11-11",
+  "last_checked": "2026-11-15",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

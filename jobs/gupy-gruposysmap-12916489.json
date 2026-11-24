@@ -1,0 +1,31 @@
+{
+  "company": "Grupo SysMap",
+  "job_title": "Engenheiro de Dados JR",
+  "location": "Brazil — remote",
+  "summary": "Build and maintain ingestion pipelines, ETL/ELT integrations and governed analytical data assets.",
+  "requirements": "IT or Engineering education; relational and nonrelational databases, data architecture, data-processing programming and technical documentation.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote opportunity for applicants based in Brazil. The employer labels the vacancy as permanent; weekly hours are not otherwise established. Listed application deadline: 2027-02-28. International work from other countries, visa sponsorship and relocation support are not established.",
+  "source_url": "https://gruposysmap.gupy.io/jobs/12916489",
+  "source_key": "gupy:gruposysmap:12916489",
+  "published_on": "2026-11-23",
+  "last_checked": "2026-11-23",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "junior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

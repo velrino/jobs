@@ -1,0 +1,33 @@
+{
+  "company": "GoFasti",
+  "job_title": "1202 - IT Technical Lead .Net",
+  "location": "Remote, Latin America including Brazil",
+  "summary": "Lead a .NET team of at least five engineers, own technical designs and production C# code, evolve SQL Server/Azure solutions, enforce testing/security/CI standards and mentor engineers.",
+  "requirements": "Required: related degree or equivalent experience; 8+ years development and 3+ leading teams of 5+; expert C#/.NET/ASP.NET Core/EF, distributed/event-driven systems, Azure, SQL Server, testing and secure development. English B2+ is specified and the introduction asks fluency. LATAM residence required. Frontend integration and telecom/B2B experience are preferred.",
+  "compensation": "USD 6,000–6,500 per month, depending on seniority and skills.",
+  "conditions": "Explicitly remote from Latin America. Full-time contract; exact weekly hours and required time-zone overlap are not disclosed. Engagement is through a payroll platform, allocated to a client; benefits and duration are not disclosed. Original Greenhouse first_published: 2026-11-18T18:39:09-05:00.",
+  "source_url": "https://careers.gofasti.com/job-application/6265822004?gh_jid=6265822004",
+  "source_key": "greenhouse:gofasti:6265822004",
+  "published_on": "2026-11-18",
+  "last_checked": "2026-11-19",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend",
+    "architecture"
+  ],
+  "level": [
+    "lead"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil",
+    "latam"
+  ]
+}

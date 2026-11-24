@@ -1,0 +1,33 @@
+{
+  "company": "Sigma Software",
+  "job_title": "Middle/Senior Data Platform Engineer (DataOps)",
+  "location": "Remote, Brazil (São Paulo listed)",
+  "summary": "Operate and improve AWS/Linux cloud data platforms, automate infrastructure and CI/CD, administer Snowflake/Databricks/Tableau Cloud, and support production reliability and governance.",
+  "requirements": "Required: 4+ years supporting enterprise cloud platforms; AWS, modern data platforms, Linux, Python automation, CI/CD/GitHub Actions, infrastructure as code, incident response and upper-intermediate English or higher. Preferred: Databricks/Snowflake administration, Tableau Cloud, Terraform, IAM, observability, governance, AI engineering tools and AWS EKS.",
+  "compensation": "Numerical salary or contract rate not disclosed.",
+  "conditions": "Active employer posting explicitly lists remote work in Brazil, with hybrid=false and full-time employment. Weekly hours and contractual category beyond full-time are unspecified. Original employer releasedDate is 2026-11-16T13:51:18.175Z.",
+  "source_url": "https://jobs.smartrecruiters.com/SigmaSoftware2/744000161811362",
+  "source_key": "smartrecruiters:sigmasoftware2:744000161811362",
+  "published_on": "2026-11-16",
+  "last_checked": "2026-11-16",
+  "role": [
+    "engineering",
+    "data"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "mid",
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

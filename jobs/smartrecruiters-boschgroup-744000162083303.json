@@ -1,0 +1,31 @@
+{
+  "company": "Bosch Group",
+  "job_title": "SENIOR SOFTWARE DEVELOPER (CLIMB) - 36463",
+  "location": "Campinas, SP, Brazil — hybrid",
+  "summary": "Develop and maintain Azure-hosted .NET/React applications, APIs and SQL data access within agile delivery standards.",
+  "requirements": "Bachelors degree; C#/.NET 10, React/TypeScript/HTML/CSS/JSON, Vite, Azure SQL, REST, automated tests, Git/npm and agile release workflows. Very good English required and CV must be in English. Azure App Services and AI coding agents preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Full-time employment. Salary and visa sponsorship not disclosed. Office attendance required. Two office days per week.",
+  "source_url": "https://jobs.smartrecruiters.com/BoschGroup/744000162083303-senior-software-developer-climb-36463",
+  "source_key": "smartrecruiters:boschgroup:744000162083303",
+  "published_on": "2026-11-17",
+  "last_checked": "2026-11-23",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

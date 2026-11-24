@@ -1,0 +1,31 @@
+{
+  "company": "Reply",
+  "job_title": "Engenheiro de Dados Sênior",
+  "location": "Brazil — remote",
+  "summary": "Build reliable distributed data pipelines for ingestion, processing, integration and analytical availability.",
+  "requirements": "Big Data engineering, Python/PySpark, BDD, ETL, dimensional/relational modeling, SQL, AWS EMR/Kinesis/Redshift/S3/Glue, Kafka, Airflow and DataOps. AWS certifications and IaC preferred. See the employer posting for full requirements and preferred skills.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote CLT employment in Brazil. Salary and working hours not disclosed.",
+  "source_url": "https://jobs.quickin.io/reply/jobs/6af73ee4c646ee0013544109",
+  "source_key": "quickin:reply:6af73ee4c646ee0013544109",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-20",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

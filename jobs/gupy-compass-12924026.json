@@ -1,0 +1,31 @@
+{
+  "company": "Compass UOL",
+  "job_title": "Cientista de Dados Sênior| Remote",
+  "location": "Brazil — remote",
+  "summary": "Develop predictive and machine-learning models, validate experiments and translate results into business impact.",
+  "requirements": "Python, machine learning and AI. AWS/SageMaker, TensorFlow/PyTorch and OpenCV are preferred; the work uses tools including scikit-learn, XGBoost, Databricks and MLflow.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote opportunity for applicants based in Brazil. The employer labels the vacancy as permanent; weekly hours are not otherwise established. Listed application deadline: 2027-01-18. International work from other countries, visa sponsorship and relocation support are not established.",
+  "source_url": "https://compass.gupy.io/jobs/12924026",
+  "source_key": "gupy:compass:12924026",
+  "published_on": "2026-11-23",
+  "last_checked": "2026-11-23",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "ai-ml"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

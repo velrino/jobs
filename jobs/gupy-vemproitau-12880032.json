@@ -1,0 +1,31 @@
+{
+  "company": "Itaú Unibanco",
+  "job_title": "Cientista de Dados Sênior - Área Atendimento Assistido",
+  "location": "São Paulo, SP, Brazil",
+  "summary": "Build and operate intelligent agents supporting the bank's assisted-service and branch commercial workflows.",
+  "requirements": "Python/SQL, generative AI and LLMs, prompt engineering, agent architectures, software engineering, AWS ECS/S3/DynamoDB, production deployment, observability and AI response-quality evaluation. RAG and agent frameworks are preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Hybrid opportunity in Brazil requiring attendance at the stated location. The employer labels the vacancy as permanent; weekly hours are not otherwise established. Listed application deadline: 2027-02-10. International work from other countries, visa sponsorship and relocation support are not established.",
+  "source_url": "https://vemproitau.gupy.io/jobs/12880032",
+  "source_key": "gupy:vemproitau:12880032",
+  "published_on": "2026-11-19",
+  "last_checked": "2026-11-23",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "ai-ml"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

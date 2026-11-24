@@ -1,0 +1,31 @@
+{
+  "company": "MJV INNOVATION",
+  "job_title": "Arquiteto de Soluções – AWS ",
+  "location": "Brazil — remote",
+  "summary": "Define AWS landing zones, networking, governance, resilience and cost-optimization architectures.",
+  "requirements": "6+ years in infrastructure/cloud and 4+ directly in enterprise AWS; Control Tower/Organizations, VPC/Transit Gateway/Direct Connect, IAM/Route53/EC2/S3/CloudWatch, Terraform/CloudFormation and HA/DR. See the employer posting for all required and preferred qualifications.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote in Brazil. Employer contract model: CLT. Salary, working hours and visa sponsorship are not disclosed.",
+  "source_url": "https://mjv.inhire.app/vagas/c05fe194-b52f-4e6b-9497-3fc2056989ee/arquiteto-de-solucoes-aws",
+  "source_key": "inhire:mjv:c05fe194-b52f-4e6b-9497-3fc2056989ee",
+  "published_on": "2026-11-13",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "architecture"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

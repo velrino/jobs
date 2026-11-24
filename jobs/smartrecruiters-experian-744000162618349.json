@@ -1,0 +1,31 @@
+{
+  "company": "Experian",
+  "job_title": "Analista de Desenvolvimento de Software Júnior - Vaga Afirmativa para Mulheres",
+  "location": "Brazil — remote",
+  "summary": "Develop and support corporate Java/Spring Boot/OutSystems systems, SQL queries and small product improvements with mentorship.",
+  "requirements": "Java, OutSystems and OOP fundamentals, basic Spring Boot/REST, SQL/relational databases, Git and collaborative learning. .NET, SQL Server/Oracle procedures, automated tests, MongoDB and English preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Full-time employment. Salary and visa sponsorship not disclosed. Remote work in Brazil is explicitly listed. Affirmative-action opening exclusively for women.",
+  "source_url": "https://jobs.smartrecruiters.com/Experian/744000162618349-analista-de-desenvolvimento-de-software-junior-vaga-afirmativa-para-mulheres",
+  "source_key": "smartrecruiters:experian:744000162618349",
+  "published_on": "2026-11-19",
+  "last_checked": "2026-11-23",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "junior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

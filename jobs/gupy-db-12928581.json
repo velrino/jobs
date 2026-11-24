@@ -1,0 +1,31 @@
+{
+  "company": "DB",
+  "job_title": "Tech Lead Sr. - Segmento Tecnologia",
+  "location": "Porto Alegre, RS, Brazil",
+  "summary": "Lead DBuilder's product architecture and hands-on delivery, balancing experimentation, multi-tenancy, scalability and governance.",
+  "requirements": "Consistent software engineering and technical leadership, startup product launches, automated quality gates, AI coding agents/SDD, LLMs and AWS/Azure/GCP. Fluent English is preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Hybrid opportunity in Brazil requiring attendance at the stated location. The employer labels the vacancy as permanent; weekly hours are not otherwise established. Listed application deadline: 2027-01-02. International work from other countries, visa sponsorship and relocation support are not established.",
+  "source_url": "https://db.gupy.io/jobs/12928581",
+  "source_key": "gupy:db:12928581",
+  "published_on": "2026-11-23",
+  "last_checked": "2026-11-23",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "ai-ml"
+  ],
+  "level": [
+    "lead"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "company": "TOUR HOUSE VIAGENS E TURISMO S.A",
+  "job_title": "Desenvolvedor de Software - 100% home office",
+  "location": "Brazil — remote",
+  "summary": "Develop complex software features, support technical design, investigate incidents and improve engineering standards.",
+  "requirements": "Strong Python/Django and React, CI/CD, Docker/Kubernetes, technical mentoring and code reviews. Relevant technical or higher education is listed. See the original posting for all requirements and preferred skills.",
+  "compensation": "Salary not disclosed; incomplete or zero-based platform ranges are not treated as confirmed compensation.",
+  "conditions": "Remote PJ contract in Brazil. Working hours and visa sponsorship not disclosed.",
+  "source_url": "https://tourhouse.vagas.solides.com.br/vaga/956007",
+  "source_key": "solides:tourhouse:956007",
+  "published_on": "2026-11-19",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "mid",
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

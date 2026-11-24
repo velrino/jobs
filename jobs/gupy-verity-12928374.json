@@ -1,0 +1,31 @@
+{
+  "company": "Verity",
+  "job_title": "Software Architect - REMOTO",
+  "location": "Brazil — remote",
+  "summary": "Define scalable corporate software architecture, integrations, resilience and security, supporting engineering teams through implementation.",
+  "requirements": "Recent hands-on C#/.NET and architecture experience; distributed systems, microservices, messaging, SOLID, automated tests, Docker, CI/CD and IaC. Must be available for a C#/.NET architecture and implementation challenge.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote opportunity for applicants based in Brazil. The employer labels the vacancy as permanent; weekly hours are not otherwise established. Listed application deadline: 2027-01-22. International work from other countries, visa sponsorship and relocation support are not established.",
+  "source_url": "https://verity.gupy.io/jobs/12928374",
+  "source_key": "gupy:verity:12928374",
+  "published_on": "2026-11-23",
+  "last_checked": "2026-11-23",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "architecture"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

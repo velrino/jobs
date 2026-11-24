@@ -1,0 +1,31 @@
+{
+  "company": "Seja Globalweb",
+  "job_title": "DESENVOLVEDOR JAVA PL",
+  "location": "Brazil — remote",
+  "summary": "Develop, test and maintain Java applications and frontend integrations.",
+  "requirements": "Completed IT degree; OpenShift/Kubernetes, DevOps/DevSecOps, Git, Angular/REST, HTML/CSS, Hibernate, JSF/RichFaces, Struts or JBoss Seam, Maven/Jenkins and Sonar. See the original posting for all requirements and preferred skills.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote position in Brazil. Salary, working hours and visa sponsorship are not disclosed unless otherwise noted in the requirements. Apply through the employer recruitment page. Equivalent Java posting with matching scope is consolidated.",
+  "source_url": "https://sejaglobalweb.gupy.io/jobs/12674295",
+  "source_key": "gupy:sejaglobalweb:12674295",
+  "published_on": "2026-11-14",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

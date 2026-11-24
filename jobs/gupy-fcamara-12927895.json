@@ -1,0 +1,31 @@
+{
+  "company": "FCamara",
+  "job_title": "Analista de Qualidade (QA) - Sênior",
+  "location": "Brazil — remote",
+  "summary": "Design automated UI/API/regression suites, integrate tests into delivery pipelines and investigate production defects.",
+  "requirements": "Senior QA experience; Cypress, Playwright or Selenium; REST API automation; JavaScript/TypeScript, Java or Python; CI/CD, Git, SQL and agile testing. Performance, mobile and contract testing are preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote opportunity for applicants based in Brazil. PJ contractor engagement. Listed application deadline: 2027-01-22. International work from other countries, visa sponsorship and relocation support are not established.",
+  "source_url": "https://fcamara.gupy.io/jobs/12927895",
+  "source_key": "gupy:fcamara:12927895",
+  "published_on": "2026-11-23",
+  "last_checked": "2026-11-23",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "qa"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

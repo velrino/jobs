@@ -1,0 +1,32 @@
+{
+  "company": "CI&T",
+  "job_title": "[Job-31837] Master DataOps, Brazil",
+  "location": "Remote, Brazil",
+  "summary": "Own provisioning, CI/CD, observability, security and cost governance for a financial data-platform modernization using Azure, Snowflake and CDC. Deliver governed environments, deployment/rollback pipelines, operational runbooks and client handover.",
+  "requirements": "Required: production DataOps/platform engineering; Azure DevOps YAML/Git/testing gates, Azure networking/identity/Key Vault/monitoring/cost management, Terraform and Snowflake provider, Snowflake RBAC/warehouses, CDC operations, secrets/security scanning, FinOps and client-facing English stated as fluent/B2+. Preferred: Qlik Replicate, SQL Server, Fabric, ExpressRoute, PIM, Business Central, Power BI operations, dbt and regulated-finance delivery.",
+  "compensation": "Numerical salary or contract rate not disclosed.",
+  "conditions": "The active employer posting identifies remote work and the stated eligible locations. The employer title uses Master; no matching catalog seniority is inferred. Weekly hours and employment category are not disclosed; Homeoffice is a work arrangement. Health/dental/life insurance, meal allowance, childcare support, profit sharing and learning/wellbeing programs are listed. Public employer JobPosting.datePosted: 2026-11-17, corroborated by the active Lever posting.",
+  "source_url": "https://jobs.lever.co/ciandt/f76be8c8-2425-42e2-89d0-a041256e6241",
+  "source_key": "lever:ciandt:f76be8c8-2425-42e2-89d0-a041256e6241",
+  "published_on": "2026-11-17",
+  "last_checked": "2026-11-18",
+  "role": [
+    "data",
+    "engineering"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

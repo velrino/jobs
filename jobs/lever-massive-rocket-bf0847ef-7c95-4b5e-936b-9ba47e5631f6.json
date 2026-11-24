@@ -1,0 +1,32 @@
+{
+  "company": "Massive Rocket",
+  "job_title": "Senior CRM Data Analyst",
+  "location": "Remote, anywhere in Latin America including Brazil",
+  "summary": "Own client CRM analytics from intake to insight: write warehouse SQL, reconcile metrics, analyze cohorts/retention/LTV, design experiments and build BI dashboards and actionable client recommendations.",
+  "requirements": "Required: production SQL in Snowflake/Databricks/Redshift or similar, BI dashboards and advanced Excel, Amplitude/GA4/Mixpanel, cohort/customer analytics, data governance, Python/R experimentation/statistics, segmentation/propensity models and clear client-facing English. Preferred: Braze/SFMC/Adobe Campaign, CDPs, retail/QSR, uplift modeling and consultancy experience.",
+  "compensation": "Numerical salary or contract rate not disclosed.",
+  "conditions": "Contract role, explicitly remote from anywhere in Latin America. Weekly hours and rate are not disclosed. The employer operates BYOD, requests valid work authorization without sponsorship, and requires contractors to provide proof of incorporation and up-to-date insurance. Teams collaborate across time zones; an exact schedule is not given. Public employer JobPosting.datePosted: 2026-11-12, corroborated by the active Lever posting.",
+  "source_url": "https://jobs.lever.co/massive-rocket/bf0847ef-7c95-4b5e-936b-9ba47e5631f6",
+  "source_key": "lever:massive-rocket:bf0847ef-7c95-4b5e-936b-9ba47e5631f6",
+  "published_on": "2026-11-12",
+  "last_checked": "2026-11-18",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil",
+    "latam"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "company": "Verity",
+  "job_title": ".NET Backend Developer Sênior - REMOTO",
+  "location": "Remote, Brazil",
+  "summary": "Develop .NET backend APIs, improve architecture and testing, operate GCP/GKE containers and add Dynatrace observability and performance optimization.",
+  "requirements": "Required: C#/.NET Core or .NET 6/7/8+, Dynatrace metrics/logs/traces, GCP, Docker/Kubernetes/GKE, SQL/Oracle/PostgreSQL, microservices/asynchronous messaging and CI/CD/DevOps.",
+  "compensation": "Numerical salary or contract rate not disclosed.",
+  "conditions": "Remote work and applicant country Brazil are explicit. Employment category is not disclosed. Weekly hours, numerical salary and language requirements are not disclosed. Public datePosted matches the public creation timestamp: 2026-11-17T16:17:20.111Z.",
+  "source_url": "https://jobs.quickin.io/verity/jobs/6afc7e103d3b670013c621ac",
+  "source_key": "quickin:verity:6afc7e103d3b670013c621ac",
+  "published_on": "2026-11-17",
+  "last_checked": "2026-11-19",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend",
+    "platform"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

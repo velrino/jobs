@@ -1,0 +1,31 @@
+{
+  "company": "3Y Health",
+  "job_title": "Senior Software Engineer",
+  "location": "Brazil — remote",
+  "summary": "Own healthcare platform features and AI workflows end to end, including services, web/mobile interfaces, deployment and production operation.",
+  "requirements": "5+ years shipping production software; recent hands-on AI harness/tooling experience; at least one publicly usable personal web project, ideally a SaaS with payments, with link required. Strong Python/TypeScript full-stack skills, LLM agents/evals, cloud/databases and daily AI coding-agent use. Healthcare/HIPAA, Temporal and React Native preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Full-time remote role. Brazil is explicitly included among eligible countries. Salary and visa sponsorship not disclosed. Equivalent Member of Technical Staff, AI Product Engineer, Founding Engineer and Full Stack Engineer listings with the same scope and requirements are consolidated.",
+  "source_url": "https://jobs.ashbyhq.com/3y-health/a4b58a17-4319-4841-8a9b-5b56a99f3d27",
+  "source_key": "ashby:3y-health:a4b58a17-4319-4841-8a9b-5b56a99f3d27",
+  "published_on": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "brazil"
+  ],
+  "last_checked": "2026-11-21"
+}

@@ -1,0 +1,31 @@
+{
+  "company": "EPAM Systems",
+  "job_title": "Full-Stack .NET Developer",
+  "location": "Remote: Brazil, Mexico, Colombia",
+  "summary": "Modernize .NET applications and fix security issues across backend services, databases and frontend code.",
+  "requirements": "2+ years in full-stack .NET; OWASP remediation, ASP.NET MVC/WCF, modern Web APIs, SQL Server, JavaScript and debugging. English B2. See the employer posting for the complete required and preferred qualifications.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote role with Brazil explicitly included among eligible countries. Contract type, working hours and visa sponsorship are not disclosed. Equivalent country variants are consolidated.",
+  "source_url": "https://careers.epam.com/en/vacancy/full-stack-net-developer-bltynr77f6mtmelrp4c_en",
+  "source_key": "epam:careers:bltynr77f6mtmelrp4c",
+  "published_on": "2026-11-16",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

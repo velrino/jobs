@@ -1,0 +1,31 @@
+{
+  "company": "Luby",
+  "job_title": "Profissional Backend (Golang) Sênior - Remoto",
+  "location": "Remote, Brazil",
+  "summary": "Build Go backend services and REST APIs for a US financial-services project, optimize SQL Server, operate Azure systems and improve automated tests and continuous delivery.",
+  "requirements": "Required: 5+ years Go, REST/distributed services, relational database design/optimization, Azure, Git/GitFlow/Azure DevOps, unit/integration testing, relevant degree or equivalent experience and advanced/fluent English. Preferred: .NET, Angular/React/TypeScript, US banking/fintech, Razor/Blazor and nonrelational databases.",
+  "compensation": "Numerical salary or contract rate not disclosed.",
+  "conditions": "The active employer page explicitly identifies remote work and Brazil. PJ contracting is listed. Benefits include health/dental/life coverage, wellbeing, education discounts, referral rewards and an annual bonus; confirm contractor benefit terms. Weekly hours and numerical pay are not disclosed. Original publishedAt matches createdAt: 2026-11-17T20:54:02.640Z.",
+  "source_url": "https://luby.inhire.app/vagas/80729687-9c88-4c3f-99c1-b5b50bf72a15/profissional-backend-golang-senior-remoto",
+  "source_key": "inhire:luby:80729687-9c88-4c3f-99c1-b5b50bf72a15",
+  "published_on": "2026-11-17",
+  "last_checked": "2026-11-19",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

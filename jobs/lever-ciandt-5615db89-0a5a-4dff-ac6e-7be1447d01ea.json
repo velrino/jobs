@@ -1,0 +1,32 @@
+{
+  "company": "CI&T",
+  "job_title": "[Job-32712] Senior Full Stack / iOS Developer, Brazil",
+  "location": "Remote, Brazil",
+  "summary": "Develop and operate full-stack and native iOS applications, combining Java/TypeScript web/backend services with Swift/SwiftUI mobile delivery, test automation and production observability.",
+  "requirements": "Required: 5+ years full-stack development; Java/JavaScript/TypeScript, Spring Boot/React/Node/Redux/Hooks, production Swift/Xcode/SwiftUI, design patterns, complex business logic, Agile/unit testing, advanced/fluent English and agentic-development familiarity. The listing also asks API-first/BFF, hexagonal/DDD, relational persistence/caching, mobile architecture/modularization, Swift concurrency, CI/CD/Fastlane and observability skills. Preferred: Kafka/event-driven design, CQRS, mutation/E2E tests and Docker/Kubernetes.",
+  "compensation": "Numerical salary or contract rate not disclosed.",
+  "conditions": "The active employer posting identifies remote work and the stated eligible locations. The employer requires an English-language CV and says communications are in English. Weekly hours and employment category are not disclosed; Homeoffice is a work arrangement. Health/dental/life insurance, meal allowance, childcare support, profit sharing and learning/wellbeing programs are listed. Public employer JobPosting.datePosted: 2026-11-17, corroborated by the active Lever posting.",
+  "source_url": "https://jobs.lever.co/ciandt/5615db89-0a5a-4dff-ac6e-7be1447d01ea",
+  "source_key": "lever:ciandt:5615db89-0a5a-4dff-ac6e-7be1447d01ea",
+  "published_on": "2026-11-17",
+  "last_checked": "2026-11-18",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack",
+    "mobile"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

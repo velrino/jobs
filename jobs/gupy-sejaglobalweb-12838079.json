@@ -1,0 +1,31 @@
+{
+  "company": "Globalweb",
+  "job_title": "DESENVOLVEDOR JAVA SR",
+  "location": "Brazil — remote",
+  "summary": "Develop, test and maintain Java applications with secure software practices and quality controls.",
+  "requirements": "Completed IT degree, design patterns, OpenShift/Kubernetes, DevOps/DevSecOps, TDD/BDD, code-quality metrics, secure coding, Angular/REST/HTML/CSS, Hibernate, SOA/web services, JBoss, Maven/Jenkins, Sonar and Git. SUN Certified Java Programmer (SCJP) or equivalent Sun/Oracle certification required.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote position in the advertised region. Salary, working hours and visa sponsorship not disclosed.",
+  "source_url": "https://sejaglobalweb.gupy.io/jobs/12838079",
+  "source_key": "gupy:sejaglobalweb:12838079",
+  "published_on": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ],
+  "last_checked": "2026-11-21"
+}

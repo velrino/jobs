@@ -1,0 +1,31 @@
+{
+  "company": "SoftDesign",
+  "job_title": "Software Engineer Backend (Java)",
+  "location": "Brazil — remote",
+  "summary": "Develop Java backend APIs, integrations and automated tests throughout delivery.",
+  "requirements": "Java 17+/Spring Boot, REST/microservices, SQL, Git/Docker/CI/CD, observability, JUnit5/Mockito, Spring Boot Test and REST Assured; integration testing and independent delivery. See the original posting for all requirements and preferred skills.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote CLT employment in Brazil. Salary and working hours not disclosed.",
+  "source_url": "https://softdesign.gupy.io/jobs/12896890",
+  "source_key": "gupy:softdesign:12896890",
+  "published_on": "2026-11-16",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

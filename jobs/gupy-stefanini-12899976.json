@@ -1,0 +1,31 @@
+{
+  "company": "Stefanini Group",
+  "job_title": "ENGENHEIRO DE DADOS PL",
+  "location": "Brazil — remote",
+  "summary": "Develop and operate Databricks lakehouse architectures and governed data pipelines.",
+  "requirements": "Completed IT degree, Databricks, Spark/PySpark, SQL, Delta Lake, data modeling, governance and CI/CD. Azure and Unity Catalog knowledge preferred. See the original posting for all requirements and preferred skills.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote position in Brazil. Salary, working hours and visa sponsorship are not disclosed unless otherwise noted in the requirements. Apply through the employer recruitment page.",
+  "source_url": "https://stefanini.gupy.io/jobs/12899976",
+  "source_key": "gupy:stefanini:12899976",
+  "published_on": "2026-11-17",
+  "last_checked": "2026-11-20",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

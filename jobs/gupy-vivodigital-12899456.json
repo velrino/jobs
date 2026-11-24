@@ -1,0 +1,31 @@
+{
+  "company": "Vivo Digital",
+  "job_title": "Analista Desenvolvedor Sênior",
+  "location": "São Paulo, SP, Brazil",
+  "summary": "Build automation, APIs and generative/predictive AI solutions, including RAG and agents, and support critical applications.",
+  "requirements": "Python/Shell, SQL/PLSQL, MongoDB/Oracle, Linux/Unix, Azure/OCI, REST microservices, observability and agile delivery. Related degree and availability for on-call/out-of-hours work are listed as preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Hybrid opportunity in Brazil requiring attendance at the stated location. The employer labels the vacancy as permanent; weekly hours are not otherwise established. The qualifications mention availability for on-call duties and work outside business hours as a preferred attribute. Listed application deadline: 2026-11-23. International work from other countries, visa sponsorship and relocation support are not established. Two or three office days per week.",
+  "source_url": "https://vivodigital.gupy.io/jobs/12899456",
+  "source_key": "gupy:vivodigital:12899456",
+  "published_on": "2026-11-16",
+  "last_checked": "2026-11-23",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "ai-ml"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

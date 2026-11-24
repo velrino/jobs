@@ -1,0 +1,31 @@
+{
+  "company": "Mellro",
+  "job_title": "Engenheiro de Dados Sr. | PJ",
+  "location": "Remote, Brazil",
+  "summary": "Build and operate a Databricks/AWS/PostgreSQL data platform, ETL/ELT and CDC pipelines, Delta Lake layers, Unity Catalog governance, analytics data models and quality/observability controls.",
+  "requirements": "Required: 3+ years data architecture/engineering; production ETL/ELT, Databricks/Delta Lake/Unity Catalog/Workflows, AWS S3/IAM/RDS/Aurora, PostgreSQL optimization/CDC, SQL/Python/PySpark, analytical modeling, BI, Git, LGPD and documentation. Preferred: Databricks/AWS certification, Terraform, Asset Bundles, DataOps, FinOps, migrations and Metabase.",
+  "compensation": "Numerical salary or contract rate not disclosed.",
+  "conditions": "The active employer page explicitly lists remote work in Brazil.  PJ contracting and an integral schedule are listed. Employer JobPosting.datePosted: 2026-11-18.",
+  "source_url": "https://mellro.vagas.solides.com.br/vaga/955404",
+  "source_key": "solides:mellro:955404",
+  "published_on": "2026-11-18",
+  "last_checked": "2026-11-19",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

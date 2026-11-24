@@ -1,0 +1,31 @@
+{
+  "company": "Power Digital",
+  "job_title": "Data Engineer, Marketing Science",
+  "location": "Remote, Brazil",
+  "summary": "Build Snowflake/dbt data foundations for marketing mix modeling and incrementality tests; reconcile ecommerce and advertising data, automate quality checks and support measurement clients.",
+  "requirements": "Required: advanced spoken/written English; 3+ years in data/analytics engineering and 1+ year owning production dbt; SQL, Python, Snowflake, marketing/ecommerce APIs and metrics, multi-client modeling, Git/CI/CD and AI-assisted development. Preferred: MMM/incrementality, geo data, Hex and agency/martech experience.",
+  "compensation": "Numerical salary range not disclosed.",
+  "conditions": "Remote Brazil posting; the application requires LATAM residence and availability aligned with US business hours. Base pay is in USD, without a numerical range; a USD 50 monthly healthcare stipend is separate from salary. Weekly hours and contract category are not disclosed. Original first_published from the active employer Greenhouse board establishes publication date.",
+  "source_url": "https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5295904007",
+  "source_key": "greenhouse:powerdigitalmarketing:5295904007",
+  "published_on": "2026-11-15",
+  "last_checked": "2026-11-16",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

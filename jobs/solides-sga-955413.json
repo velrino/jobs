@@ -1,0 +1,32 @@
+{
+  "company": "SGA Tecnologia Inteligente",
+  "job_title": "ANALISTA SR DE SEGURANÇA DE APLICAÇÕES | SSDLC, DevSecOps & IA",
+  "location": "Remote, Brazil",
+  "summary": "Lead secure software-lifecycle standards, integrate security gates and SAST/DAST/SCA into CI/CD, automate vulnerability management and use AI to improve source-code analysis and remediation.",
+  "requirements": "Required: SSDLC/DevSecOps implementation, secure pipelines, SAST/DAST/SCA, CI/CD automation, application security/OWASP Top 10 and AI-assisted code validation. Preferred: common AppSec/CI tools, OWASP SAMM/BSIMM/NIST SSDF, threat modeling, secrets/container/IaC security, LLM security and relevant certifications.",
+  "compensation": "Numerical salary or contract rate not disclosed.",
+  "conditions": "The active employer page explicitly lists remote work in Brazil.  The page lists CLT and PJ options; confirm the final employment category. Employer JobPosting.datePosted: 2026-11-17.",
+  "source_url": "https://sga.vagas.solides.com.br/vaga/955413",
+  "source_key": "solides:sga:955413",
+  "published_on": "2026-11-17",
+  "last_checked": "2026-11-19",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "security",
+    "platform"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

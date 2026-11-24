@@ -1,0 +1,31 @@
+{
+  "company": "Coderio",
+  "job_title": "Sr Devops Engineer",
+  "location": "Argentina, Brazil, Colombia, México, Peru",
+  "summary": "Design and operate secure AWS infrastructure, Terraform automation, GitHub Actions pipelines and Docker/Kubernetes environments; improve reliability, observability and costs.",
+  "requirements": "Required: 7+ years in DevOps/cloud roles; AWS, Terraform, Python/Bash/Go, GitHub Actions, Docker/Kubernetes and English C1/C2. Preferred: EKS, AWS certifications and Datadog/Prometheus/Grafana/CloudWatch.",
+  "compensation": "No credible salary range disclosed. The advert displays an implausible USD 0–0 or USD 1–1 monthly placeholder; do not treat it as an offer.",
+  "conditions": "Remote with Argentina, Brazil, Colombia, Mexico and Peru explicitly listed. Weekly hours and employment category are unspecified. Public employer JobPosting.datePosted corroborates the Lever creation date; labels use only explicitly stated levels and terms.",
+  "source_url": "https://jobs.lever.co/coderio/e2caacf4-484f-40af-8dae-13267ce3d782",
+  "source_key": "lever:coderio:e2caacf4-484f-40af-8dae-13267ce3d782",
+  "published_on": "2026-11-12",
+  "last_checked": "2026-11-16",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

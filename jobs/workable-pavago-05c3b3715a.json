@@ -1,0 +1,31 @@
+{
+  "company": "Pavago",
+  "job_title": "Data Engineer",
+  "location": "Brazil — remote",
+  "summary": "Build and operate data pipelines, warehouses and governed datasets for analytics and reporting.",
+  "requirements": "3+ years in data/infrastructure/backend engineering, Python/SQL, cloud warehouses, Airflow/Prefect or similar, ETL/ELT/modeling and AWS/Azure/GCP. dbt, streaming, containers/IaC and regulated domains preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Full-time remote work, with Brazil explicitly eligible. US business hours required. Salary and visa sponsorship not disclosed. Flexibility for pipeline monitoring, deployments and refresh cycles; Spark Hire intro video is part of selection.",
+  "source_url": "https://apply.workable.com/pavago/j/05C3B3715A/",
+  "source_key": "workable:pavago:05C3B3715A",
+  "published_on": "2026-11-19",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "brazil"
+  ],
+  "last_checked": "2026-11-21"
+}

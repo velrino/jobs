@@ -1,0 +1,33 @@
+{
+  "company": "Objective",
+  "job_title": "Desenvolvedor(a) de Software JR/PL - Inteligência Artificial & LLMs | Remoto",
+  "location": "Remote, Brazil",
+  "summary": "Support an AI chapter by prototyping and integrating LLM/API applications, translating business needs into proofs of concept, researching tools and maintaining tested, documented automations.",
+  "requirements": "Required: related degree in progress or completed; previous software experience through internship, relevant academic projects or junior work; basic/intermediate modern language (Python/JS/TS/Java/C#), practical AI familiarity, Git/REST and communication. Preferred: Python/data tools, agents/RAG/prompts, hackathons/open-source/portfolio and intermediate technical-reading English.",
+  "compensation": "Numerical salary or contract rate not disclosed.",
+  "conditions": "The active employer page explicitly identifies remote work and Brazil. CLT employment is listed. The title includes JR/PL, while the body targets junior candidates. The employer states professional conflicts of interest must be avoided. Weekly hours and numerical pay are not disclosed. Original publishedAt matches createdAt: 2026-11-18T19:41:05.927Z.",
+  "source_url": "https://objective.inhire.app/vagas/13668108-d253-4af1-a04b-4b9e4688ff61/desenvolvedora-de-software-jrpl-inteligencia-artificial-and-llms-or-remoto",
+  "source_key": "inhire:objective:13668108-d253-4af1-a04b-4b9e4688ff61",
+  "published_on": "2026-11-18",
+  "last_checked": "2026-11-19",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "ai-ml",
+    "fullstack"
+  ],
+  "level": [
+    "junior",
+    "mid"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

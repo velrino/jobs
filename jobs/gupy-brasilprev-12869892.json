@@ -1,0 +1,31 @@
+{
+  "company": "Brasilprev",
+  "job_title": "Desenvolvedor Java - Pleno",
+  "location": "São Paulo, SP, Brazil",
+  "summary": "Develop and maintain applications supporting digital journeys for pension customers and advisers.",
+  "requirements": "Java is the principal stack; Go/Python, Azure DevOps and AWS ECS/Lambda/SQS/RDS/DynamoDB/S3/SES are also listed.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Hybrid opportunity in Brazil requiring attendance at the stated location. The employer labels the vacancy as permanent; weekly hours are not otherwise established. Hybrid work with up to two home-office days weekly. A separate senior-level posting with substantially matching scope is consolidated here: https://brasilprev.gupy.io/jobs/12869870 Listed application deadline: 2026-12-30. International work from other countries, visa sponsorship and relocation support are not established.",
+  "source_url": "https://brasilprev.gupy.io/jobs/12869892",
+  "source_key": "gupy:brasilprev:12869892",
+  "published_on": "2026-11-16",
+  "last_checked": "2026-11-23",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

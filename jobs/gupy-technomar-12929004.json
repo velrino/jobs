@@ -1,0 +1,31 @@
+{
+  "company": "Technomar Engenharia",
+  "job_title": "Desenvolvedor(a) de Computação Gráfica",
+  "location": "São Paulo, SP, Brazil",
+  "summary": "Develop real-time graphics for naval simulators, including ocean rendering, HLSL/compute shaders and Unity HDRP optimization.",
+  "requirements": "HLSL and compute shaders, real-time rendering pipelines, linear algebra/vector calculus, PBR, graphics engines preferably Unity, profiling, Git and software-quality practices. Completed related degree and intermediate English for technical reading.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Hybrid opportunity in Brazil requiring attendance at the stated location. PJ contractor engagement. Listed application deadline: 2026-12-06. International work from other countries, visa sponsorship and relocation support are not established.",
+  "source_url": "https://technomar.gupy.io/jobs/12929004",
+  "source_key": "gupy:technomar:12929004",
+  "published_on": "2026-11-23",
+  "last_checked": "2026-11-23",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "game-development"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

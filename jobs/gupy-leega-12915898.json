@@ -1,0 +1,31 @@
+{
+  "company": "Leega Consultoria",
+  "job_title": "Tech Lead de Engenharia de Dados e Plataforma de Agentes (AWS)",
+  "location": "Vila Nova Conceicao, Sao Paulo, SP, Brazil",
+  "summary": "Lead data engineering and agent-platform architecture, mentoring engineers and translating stakeholder needs into delivery.",
+  "requirements": "Python/SQL; AWS S3/Glue/Athena/IAM/Lake Formation/KMS and multi-account architecture; Terraform/CI/CD, event-driven systems, production RAG/agents, LangChain/LangGraph and MLOps/LLMOps.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Hybrid opportunity in Brazil requiring attendance at the stated location. PJ contractor engagement. Three office days and two home-office days per week in Vila Nova Conceicao, Sao Paulo; the board's Barueri location differs from the explicit attendance address. Listed application deadline: 2027-01-17. International work from other countries, visa sponsorship and relocation support are not established.",
+  "source_url": "https://leega.gupy.io/jobs/12915898",
+  "source_key": "gupy:leega:12915898",
+  "published_on": "2026-11-19",
+  "last_checked": "2026-11-23",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "ai-ml"
+  ],
+  "level": [
+    "lead"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

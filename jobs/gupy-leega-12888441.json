@@ -1,0 +1,31 @@
+{
+  "company": "Leega Consultoria",
+  "job_title": "Engenheiro de Dados GCP Especialista",
+  "location": "Brazil — remote",
+  "summary": "Modernize data assets through scalable GCP pipelines, quality frameworks and analytical models.",
+  "requirements": "Relevant degree; 5+ years directly in GCP data engineering and 3+ with Databricks; BigQuery, Dataform, Storage/PubSub/Dataflow/Composer, IAM/monitoring, advanced SQL, Python/PySpark, modeling and governance. See the original posting for all requirements and preferred skills.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote position in Brazil. Salary, working hours and visa sponsorship are not disclosed unless otherwise noted in the requirements. Apply through the employer recruitment page.",
+  "source_url": "https://leega.gupy.io/jobs/12888441",
+  "source_key": "gupy:leega:12888441",
+  "published_on": "2026-11-16",
+  "last_checked": "2026-11-20",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

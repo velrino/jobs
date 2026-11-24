@@ -1,0 +1,31 @@
+{
+  "company": "FCamara",
+  "job_title": "Engenheiro de Qualidade (QA)- Sênior",
+  "location": "Brazil — remote",
+  "summary": "Build and maintain automated tests across mobile, web, backend services and integrations.",
+  "requirements": "4+ years in QA; Robot Framework, Android/iOS testing, REST/API testing, Python/Java/JavaScript, CI/CD, Git, SQL and defect investigation. See the original posting for all requirements and preferred skills.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote position in Brazil. Salary, working hours and visa sponsorship are not disclosed unless otherwise noted in the requirements. Apply through the employer recruitment page.",
+  "source_url": "https://fcamara.gupy.io/jobs/12912379",
+  "source_key": "gupy:fcamara:12912379",
+  "published_on": "2026-11-18",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "qa"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

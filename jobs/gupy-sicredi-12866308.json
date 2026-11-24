@@ -1,0 +1,31 @@
+{
+  "company": "Sicredi",
+  "job_title": "CAS | Analista de Dados JR - Foco em Compliance",
+  "location": "Porto Alegre, RS, Brazil",
+  "summary": "Build integrated analytical datasets and pipelines supporting compliance and internal-fraud prevention.",
+  "requirements": "SQL, analytical data modeling, Databricks or equivalent, Power BI, Git and business metrics; completed degree in computing, data, statistics, mathematics, engineering or a related field.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Hybrid opportunity in Brazil requiring attendance at the stated location. The employer labels the vacancy as permanent; weekly hours are not otherwise established. Listed application deadline: 2026-12-31. International work from other countries, visa sponsorship and relocation support are not established. Three office days and two remote days per week at the Porto Alegre headquarters.",
+  "source_url": "https://sicredi.gupy.io/jobs/12866308",
+  "source_key": "gupy:sicredi:12866308",
+  "published_on": "2026-11-16",
+  "last_checked": "2026-11-23",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "junior"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "company": "Popcode",
+  "job_title": "Arquiteto de Soluções Mobile",
+  "location": "Remote, Brazil",
+  "summary": "Define architecture for cross-platform mobile apps, guide frameworks and reusable components, design cloud/API integrations, review code and address security, performance, UX and delivery standards.",
+  "requirements": "Required: IT/industrial-design/design degree, or another degree plus a related postgraduate qualification of at least 360 hours; 4+ years IT and 2+ years mobile software/solution architecture; REST/cloud integrations, MVC/MVVM/Clean Architecture and cross-platform development. Preferred: TOGAF/cloud certification, Flutter/React Native/Ionic, CI/CD, Docker/Kubernetes and observability.",
+  "compensation": "Numerical salary or contract rate not disclosed.",
+  "conditions": "The active employer page explicitly lists remote work in Brazil.  PJ contracting and an integral schedule are listed. Employer JobPosting.datePosted: 2026-11-18.",
+  "source_url": "https://popcode.vagas.solides.com.br/vaga/955617",
+  "source_key": "solides:popcode:955617",
+  "published_on": "2026-11-18",
+  "last_checked": "2026-11-19",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "mobile",
+    "architecture"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

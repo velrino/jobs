@@ -1,0 +1,31 @@
+{
+  "company": "Alpaca",
+  "job_title": "Digital Assets Security Engineer",
+  "location": "Remote — Americas",
+  "summary": "Embed security into APIs and infrastructure, automate testing, conduct threat modeling and respond to incidents.",
+  "requirements": "6–8 years across security operations/engineering/product security/DevSecOps; Go/Python or another language, API/cloud/container security, CI/CD, vulnerability scanners, penetration testing and OWASP mitigation. On-call and after-hours availability required; relevant degree/certifications preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote role in the advertised region. Contract type, hours and visa sponsorship not disclosed. On-call rotations and after-hours incident response are required. Setup and monthly stipends are benefits rather than salary.",
+  "source_url": "https://job-boards.greenhouse.io/alpaca/jobs/6267351004",
+  "source_key": "greenhouse:alpaca:6267351004",
+  "published_on": "2026-11-23",
+  "last_checked": "2026-11-23",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "security"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "latam"
+  ]
+}

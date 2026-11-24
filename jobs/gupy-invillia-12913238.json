@@ -1,0 +1,31 @@
+{
+  "company": "Invillia",
+  "job_title": "Kotlin Back-End Developer | Senior (Remote)",
+  "location": "Brazil — remote",
+  "summary": "Build and operate Kotlin backend services, messaging integrations and AWS-based distributed applications.",
+  "requirements": "Strong Kotlin backend/messaging experience; Claude Code or AI-assisted development tools, DDD/TDD, Clean/Hexagonal Architecture, Kubernetes, PostgreSQL/DynamoDB, Kafka, AWS SQS/SNS and GitLab CI.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote position in the advertised region. Salary, working hours and visa sponsorship not disclosed.",
+  "source_url": "https://invillia.gupy.io/jobs/12913238",
+  "source_key": "gupy:invillia:12913238",
+  "published_on": "2026-11-18",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ],
+  "last_checked": "2026-11-21"
+}

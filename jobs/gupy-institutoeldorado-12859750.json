@@ -1,0 +1,31 @@
+{
+  "company": "Instituto de Pesquisas Eldorado",
+  "job_title": "Estágio em Análise de Dados e IA",
+  "location": "Campinas, SP, Brazil",
+  "summary": "Analyze camera-user feedback and image data, supporting exploratory analysis and AI/ML studies.",
+  "requirements": "Current related university enrollment; Python, basic ML/NLP/computer vision, statistics, SQL/Git/Linux and advanced spoken/written English. LLM/embedding/image-analysis projects are preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "On-site opportunity in Brazil; local attendance is required. The title explicitly advertises an internship, although the board's generic employment field says permanent; confirm internship terms with the employer. Listed application deadline: 2027-01-08. International work from other countries, visa sponsorship and relocation support are not established.",
+  "source_url": "https://institutoeldorado.gupy.io/jobs/12859750",
+  "source_key": "gupy:institutoeldorado:12859750",
+  "published_on": "2026-11-23",
+  "last_checked": "2026-11-23",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "ai-ml"
+  ],
+  "level": [
+    "intern"
+  ],
+  "work": [
+    "on-site"
+  ],
+  "type": [
+    "internship"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

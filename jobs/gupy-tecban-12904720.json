@@ -1,0 +1,31 @@
+{
+  "company": "Tecban",
+  "job_title": "Especialista II | Desenvolvedor - Fullstack",
+  "location": "São Paulo, SP, Brazil",
+  "summary": "Lead technical decisions and modernization of customer-service and digital-channel platforms.",
+  "requirements": "Strong full-stack Java/Spring Boot, Vue.js, AWS, Oracle, systems architecture, REST/microservices, CI/CD and clean engineering practices. PostgreSQL, AI integrations, Python and GitLab pipelines are preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Hybrid opportunity in Brazil requiring attendance at the stated location. The employer labels the vacancy as permanent; weekly hours are not otherwise established. Listed application deadline: 2027-01-16. International work from other countries, visa sponsorship and relocation support are not established.",
+  "source_url": "https://tecban.gupy.io/jobs/12904720",
+  "source_key": "gupy:tecban:12904720",
+  "published_on": "2026-11-23",
+  "last_checked": "2026-11-23",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "lead"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

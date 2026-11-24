@@ -1,0 +1,31 @@
+{
+  "company": "Tecban",
+  "job_title": "Analista de Operações III – Ciência de Dados e Desenvolvimento",
+  "location": "Barueri, SP, Brazil",
+  "summary": "Develop data pipelines, analytical models, dashboards and automation for operational monitoring and prevention.",
+  "requirements": "Completed related degree; advanced SQL, Python, Power BI, Git, ETL/ELT and APIs, data quality/governance and experience leading data initiatives. Azure/Fabric/Databricks and ML are preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Hybrid opportunity in Brazil requiring attendance at the stated location. The employer labels the vacancy as permanent; weekly hours are not otherwise established. Listed application deadline: 2027-01-16. International work from other countries, visa sponsorship and relocation support are not established.",
+  "source_url": "https://tecban.gupy.io/jobs/12907312",
+  "source_key": "gupy:tecban:12907312",
+  "published_on": "2026-11-19",
+  "last_checked": "2026-11-23",
+  "role": [
+    "data"
+  ],
+  "specialty": [
+    "unspecified"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

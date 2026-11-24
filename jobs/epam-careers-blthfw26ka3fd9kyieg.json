@@ -1,0 +1,31 @@
+{
+  "company": "EPAM Systems",
+  "job_title": "Senior Performance Engineer",
+  "location": "Remote: Brazil, Argentina, Chile, Colombia, Mexico",
+  "summary": "Define and execute performance tests and validate application scalability, stability and resource consumption.",
+  "requirements": "3+ years of performance engineering for production web/distributed systems; k6, JMeter, Gatling, familiarity with Locust and load, stress, endurance and capacity testing. English B2+. See the employer posting for the complete required and preferred qualifications.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote role with Brazil explicitly included among eligible countries. Contract type, working hours and visa sponsorship are not disclosed. Equivalent country variants are consolidated.",
+  "source_url": "https://careers.epam.com/en/vacancy/senior-performance-engineer-blthfw26ka3fd9kyieg_en",
+  "source_key": "epam:careers:blthfw26ka3fd9kyieg",
+  "published_on": "2026-11-16",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "qa"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

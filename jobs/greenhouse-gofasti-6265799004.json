@@ -1,0 +1,33 @@
+{
+  "company": "GoFasti",
+  "job_title": "1197 - Cloud Migration and DevSecOps",
+  "location": "Remote, Latin America including Brazil",
+  "summary": "Build Azure DevOps YAML CI/CD, container registries and AKS/EKS releases; modernize monoliths into cloud-native services and define architecture, security and observability standards.",
+  "requirements": "Required: 5+ years cloud/DevOps/engineering and 2–3 hands-on Azure/AWS/Kubernetes; broad Azure/AWS service knowledge, Angular/Ionic/.NET full-stack work, REST/gRPC, microservices/clean/hexagonal/event-driven design, CI/CD/Helm, observability and DevSecOps tooling; fluent English and LATAM residence.",
+  "compensation": "USD 6,000–6,500 per month, depending on seniority and skills.",
+  "conditions": "Explicitly remote from Latin America. Full-time contract; exact weekly hours and required time-zone overlap are not disclosed. Engagement is through a payroll platform, allocated to a client; benefits and duration are not disclosed. Original Greenhouse first_published: 2026-11-18T18:24:08-05:00.",
+  "source_url": "https://careers.gofasti.com/job-application/6265799004?gh_jid=6265799004",
+  "source_key": "greenhouse:gofasti:6265799004",
+  "published_on": "2026-11-18",
+  "last_checked": "2026-11-19",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform",
+    "security"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "contract"
+  ],
+  "region": [
+    "brazil",
+    "latam"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "company": "EPAM Systems",
+  "job_title": "Senior Security Engineer",
+  "location": "Remote: Argentina, Brazil, Chile, Colombia, Mexico",
+  "summary": "Build Python automation to validate web and network vulnerabilities safely and support remediation.",
+  "requirements": "3+ years in security engineering and Python security automation; OWASP/API attacks, threat modeling, vulnerability management and ownership of validation projects. English B2. See the employer posting for the complete required and preferred qualifications.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Remote role with Brazil explicitly included among eligible countries. Contract type, working hours and visa sponsorship are not disclosed. Equivalent country variants are consolidated.",
+  "source_url": "https://careers.epam.com/en/vacancy/senior-security-engineer-blt87984ruuiozeb6hd_en",
+  "source_key": "epam:careers:blt87984ruuiozeb6hd",
+  "published_on": "2026-11-16",
+  "last_checked": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "security"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "unspecified"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "company": "credsystem",
+  "job_title": "Pessoa Analista Segurança da Informação Pleno (Gestão de Identidades)",
+  "location": "Barueri, SP, Brazil",
+  "summary": "Design and operate identity/access management policies, privileged access and least-privilege controls.",
+  "requirements": "Completed higher education; solid IAM, SailPoint/Senha Segura, SAML/OAuth/OIDC/LDAP/Kerberos, PAM, RBAC/SoD, Azure/Oracle and Keycloak JWT integration.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Hybrid opportunity in Brazil requiring attendance at the stated location. The employer labels the vacancy as permanent; weekly hours are not otherwise established. Listed application deadline: 2027-02-28. International work from other countries, visa sponsorship and relocation support are not established.",
+  "source_url": "https://credsystem.gupy.io/jobs/12923009",
+  "source_key": "gupy:credsystem:12923009",
+  "published_on": "2026-11-19",
+  "last_checked": "2026-11-23",
+  "role": [
+    "it"
+  ],
+  "specialty": [
+    "security"
+  ],
+  "level": [
+    "mid"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

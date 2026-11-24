@@ -1,0 +1,31 @@
+{
+  "company": "Porto",
+  "job_title": "Analista Engenharia de Software Sênior I Operações (Vaga afirmativa para Mulheres)",
+  "location": "Barueri, SP, Brazil",
+  "summary": "Modernize high-availability logistics and service systems from on-premise monoliths to distributed cloud architectures.",
+  "requirements": "Advanced .NET Core and Angular; Windows/IIS modernization to Kubernetes/EKS; GCP/AWS including Pub/Sub, Cloud Functions, Firebase and Firestore; hands-on architectural problem solving and technical mentoring.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Hybrid opportunity in Brazil requiring attendance at the stated location. The employer labels the vacancy as permanent; weekly hours are not otherwise established. Affirmative opportunity for women. Listed application deadline: 2027-01-18. International work from other countries, visa sponsorship and relocation support are not established.",
+  "source_url": "https://porto.gupy.io/jobs/12921116",
+  "source_key": "gupy:porto:12921116",
+  "published_on": "2026-11-23",
+  "last_checked": "2026-11-23",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "fullstack"
+  ],
+  "level": [
+    "senior"
+  ],
+  "work": [
+    "hybrid"
+  ],
+  "type": [
+    "permanent"
+  ],
+  "region": [
+    "brazil"
+  ]
+}

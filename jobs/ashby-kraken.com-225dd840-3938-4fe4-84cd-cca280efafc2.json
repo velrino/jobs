@@ -1,0 +1,31 @@
+{
+  "company": "Kraken",
+  "job_title": "Software Engineer II - Rust - Pro",
+  "location": "Brazil and other listed eligible countries — remote",
+  "summary": "Build reliable low-latency Rust/C++ trading services and distributed systems with end-to-end ownership.",
+  "requirements": "3+ years in engineering; financial trading products, asynchronous/network Rust, modern performance-sensitive C++, distributed systems/RPC/Kafka, security-minded design and debugging across OS/network/application layers.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Full-time remote role. Brazil is explicitly included among eligible countries. Salary and visa sponsorship not disclosed.",
+  "source_url": "https://jobs.ashbyhq.com/kraken.com/225dd840-3938-4fe4-84cd-cca280efafc2",
+  "source_key": "ashby:kraken.com:225dd840-3938-4fe4-84cd-cca280efafc2",
+  "published_on": "2026-11-19",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "backend"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "brazil"
+  ],
+  "last_checked": "2026-11-21"
+}

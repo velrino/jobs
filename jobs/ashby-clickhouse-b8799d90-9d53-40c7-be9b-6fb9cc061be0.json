@@ -1,0 +1,31 @@
+{
+  "company": "ClickHouse",
+  "job_title": "Cloud Data Infrastructure Engineer",
+  "location": "North America and Latin America — remote",
+  "summary": "Develop ClickHouse Cloud autoscaling infrastructure, Kubernetes operators and reliable distributed services.",
+  "requirements": "5+ years building/operating distributed systems; Kubernetes operators/controller runtime, Go/C++, public cloud, production debugging/on-call and data ingestion/storage technologies. Python/data science familiarity preferred.",
+  "compensation": "Salary not disclosed.",
+  "conditions": "Full-time remote role advertised for NAMER and Latin America. On-call production responsibilities and company gatherings are mentioned. Salary and visa sponsorship not disclosed.",
+  "source_url": "https://jobs.ashbyhq.com/clickhouse/b8799d90-9d53-40c7-be9b-6fb9cc061be0",
+  "source_key": "ashby:clickhouse:b8799d90-9d53-40c7-be9b-6fb9cc061be0",
+  "published_on": "2026-11-20",
+  "role": [
+    "engineering"
+  ],
+  "specialty": [
+    "platform"
+  ],
+  "level": [
+    "unspecified"
+  ],
+  "work": [
+    "remote"
+  ],
+  "type": [
+    "full-time"
+  ],
+  "region": [
+    "latam"
+  ],
+  "last_checked": "2026-11-21"
+}
